@@ -1,0 +1,306 @@
+#EXTM3U
+
+# * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+#Canales de TV y Radios online
+#playlist: https://www.chileiptv.cl/cl.m3u
+#playlist: https://pastebin.com/raw/TTJkTZABJR
+#cambios: Update List IPTV
+#ultima actualizacion: 31 07 2020
+# * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/t13.jpg" group-title="Chileiptv" , T13 Móvil 
+http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15677062961.png" group-title="Chileiptv" , TVN | CL 
+http://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521418779.jpg" group-title="Chileiptv" , 24 Horas Play 
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15009529051.png" group-title="Chileiptv" , CNN Chile | CL 
+https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistCHILEIPTVCL
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220759941.png" group-title="Chileiptv" , Chilevisión 
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1527809091.png" group-title="Chileiptv" , UCV 3 
+http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521686597.jpg" group-title="Chileiptv" , TV Chile 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486483448.jpg" group-title="Chileiptv" , EmolTv 
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701137171.png" group-title="Chileiptv" , FM Hot Películas 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15695007201.jpg" group-title="Chileiptv" , Maxima Movie 
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1492004696.jpg" group-title="Chileiptv" , CDO 
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" , ExtremaTv 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1585580391.png" group-title="Chileiptv" , Bhtv 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Zee Mundo 
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220774751.png" group-title="Chileiptv" , Tendencias TV 
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528172622.png" group-title="Chileiptv" , Cachipun 
+http://23.236.180.26/11580409776/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15216012621.png" group-title="Chileiptv" , Locomotion 
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149981.png" group-title="Chileiptv" , Boing 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15165765881.jpg" group-title="Chileiptv" , TVN Kids 
+https://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220956361.png" group-title="Chileiptv" , TV Senado 
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220956201.png" group-title="Chileiptv" , Cámara de Diputados 
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Stgo TV 
+http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1492012878.png" group-title="Chileiptv" , UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15216859311.jpg" group-title="Chileiptv" , Ufrovisión 
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701136081.png" group-title="Chileiptv" , Cappissima de Arica 
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Chileiptv" , AM Canal 
+https://v2.tustreaming.cl/amtv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255043.png" group-title="Chileiptv" , Antofagasta TV 
+https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1522811206.png" group-title="Chileiptv" , Atacama TV 
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Chileiptv" , Canal 2 de San Antonio 
+http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487369128.png" group-title="Chileiptv" , TVO San Vicente 
+http://movilstream.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486476481.jpg" group-title="Chileiptv" , CampusTv 
+http://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/tvcentro.jpg" group-title="Chileiptv" , TV Centro 
+https://unlimited2-cl.dps.live/tvcentro/tvcentro.smil/tvcentro/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15167576571.png" group-title="Chileiptv" , Contivisión 
+http://unlimited5-cl.dps.live/contivision/contivision.smil/contivision/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701143031.png" group-title="Chileiptv" , Tv Maulinos 
+https://590c5dc5c3271.streamlock.net/juancarlos407/juancarlos407/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/tvlinares.jpg" group-title="Chileiptv" , Canal 5 Linares 
+http://unlimited5-cl.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Chileiptv" , UTV San Clemente 
+http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487367120.png" group-title="Chileiptv" , TV 8 Concepción 
+https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486617060.png" group-title="Chileiptv" , Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1531174545.png" group-title="Chileiptv" , TVR 
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1517079635.png" group-title="Chileiptv" , TVU Concepción 
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1486613665.jpg" group-title="Chileiptv" , Canal 21 Chillán 
+http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Chileiptv" , Ñuble Tv 
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Chileiptv" , TecTV  
+http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1540214030.jpg" group-title="Chileiptv" , Canal 11 de Cabrero 
+http://play.streaminghd.cl/claudio441/claudio441/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701138911.png" group-title="Chileiptv" , Ltv Canal 
+http://204.12.194.82:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701139721.jpg" group-title="Chileiptv" , Canal 5 Puerto Montt 
+https://590c5dc5c3271.streamlock.net/luis251/luis251/playlist.m3u8?chileiptv.cl
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1499801345.png" group-title="Chileiptv" , Canal 2 Quellón 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701141811.jpg" group-title="Chileiptv" , Canal 10 Artv  Quemchi 
+http://hd.chileservidores.cl:8080/reseller/chiloe4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1494898547.png" group-title="Chileiptv" , PinguinoTV 
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487370992.png" group-title="Chileiptv" , ITV Patagonia 
+http://unlimited4-cl.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15006968221.jpg" group-title="Chileiptv" , TVRed Punta Arenas 
+http://45.33.58.155:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Chileiptv" , Gracia TV 
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15532592371.jpg" group-title="Chileiptv" , TV Salud 
+http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570112846.png" group-title="Chileiptv" , NCTV 
+http://unlimited5-cl.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701143551.jpg" group-title="Chileiptv" , TNE 
+https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_14872746571.png" group-title="Chileiptv" , Televida HD 
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Chileiptv" , Campo Abierto 
+http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Teletón TV 
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCHILEIPTVCL
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487255653.png" group-title="Chileiptv" , ThemaTV 
+https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1487123934.png" group-title="Chileiptv" , Teletrack 
+http://unlimited2-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1492008110.jpg" group-title="Chileiptv" , ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15402143351.jpg" group-title="Chileiptv" , Big Radio 
+https://unlimited10-cl.dps.live/bigradio/bigradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1501188521.jpg" group-title="Chileiptv" , FM Hot TV HD 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1501346918.png" group-title="Chileiptv" , Carolina TV 
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701145051.svg" group-title="Chileiptv" , Futuro TV 
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701137761.jpg" group-title="Chileiptv" , Fm Tiempo 
+https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701145951.jpg" group-title="Chileiptv" , Alegría Tv 
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146321.jpg" group-title="Chileiptv" , Romántica TV 
+http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701146661.jpg" group-title="Chileiptv" , Radio Candela 
+http://unlimited5-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15167576441.jpg" group-title="Chileiptv" , Contivisión Musica 
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1540214187.jpg" group-title="Chileiptv" , Tv Máxima 
+http://evo.eltelon.com:1935/live/maxima-fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701147831.png" group-title="Chileiptv" , Frecuencia Musical 
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg" group-title="Chileiptv" , Telemusica 
+https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Dj Pinky Tv 
+https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521688260.jpg" group-title="Chileiptv" , Genial Tv 
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15216878571.jpg" group-title="Chileiptv" , Lotería TV (ocacional) 
+http://unlimited1-cl.dps.live/loteria/loteria.smil/loteria/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701153311.jpg" group-title="Chileiptv" , Sinfonia TV 
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521497894.png" group-title="Chileiptv" , Real Madrid TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528342716.gif" group-title="Chileiptv" , PE - TOP Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521497398.png" group-title="Chileiptv" , Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521425230.png" group-title="Chileiptv" , INT Hispantv 
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15214283721.jpg" group-title="Chileiptv" , INT ABCNews 
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521496967.png" group-title="Chileiptv" , INT CBS News 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1516760891.jpg" group-title="Chileiptv" , DE - Deutsche Welle 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;play-only=primary&amp;rebase=on
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521601710.png" group-title="Chileiptv" , RU - RT Español 
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521982188.png" group-title="Chileiptv" , FR - France 24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701154201.jpg" group-title="Chileiptv" , KO - Arirang News 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1522636293.png" group-title="Chileiptv" , INT CGTN Español 
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521991232.png" group-title="Chileiptv" , ES - Canal Extremadura 
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1521987090.png" group-title="Chileiptv" , AR - MusicTop 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1522637574.png" group-title="Chileiptv" , RedBull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1522637965.png" group-title="Chileiptv" , PE - IPe 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1532830938.png" group-title="Chileiptv" , VC ONLINE HD 
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1533434576.png" group-title="Chileiptv" , Nasa 
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701155661.png" group-title="Chileiptv" , TVN de Culto 
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701156801.png" group-title="Chileiptv" , INTERRADIOTV 
+https://5cf4a2c2512a2.streamlock.net:443/interradiofrutillar/interradiofrutillar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1556110783.png" group-title="Chileiptv" , Retro PlusTv 
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Chileiptv" , MAXIMA FM CHILE 
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701158051.jpg" group-title="Chileiptv" , Tarot Canal 
+https://live2.tarotcanal.com/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701158471.jpg" group-title="Chileiptv" , Tele Madrid 
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701158901.png" group-title="Chileiptv" , Andorra TV 
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701159701.jpg" group-title="Chileiptv" , ORBIT TV (DO) 
+http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701161341.jpg" group-title="Chileiptv" , Frecuencia 21 
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Chileiptv" , Portal Foxmix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701163111.jpg" group-title="Chileiptv" , Enfoque Digital 
+https://595b85410a151.streamlock.net:443/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701163921.png" group-title="Chileiptv" , Telemundo (US) 
+https://api.locastnet.org/api/watch/stream/188/41/-74/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&amp;fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701164501.jpg" group-title="Chileiptv" , TeleMax (AR) 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701164951.png" group-title="Chileiptv" , Weather Channel (US) 
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701167871.jpg" group-title="Chileiptv" , 24h Rtve (ES) 
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701168781.jpg" group-title="Chileiptv" , Olympic Channel (INT) 
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701169301.png" group-title="Chileiptv" , Telesur (VE) 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701169761.jpg" group-title="Chileiptv" , Antena 3 
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701170151.png" group-title="Chileiptv" , Radio Agricultura 
+https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701170761.png" group-title="Chileiptv" , ETB 
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701171171.jpg" group-title="Chileiptv" , GiroVisual 
+http://movilstream.digitalproserver.com/girovisual/girovisualvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1570111408.jpg" group-title="Chileiptv" , TALTAL TV DOCUMENTALES 
+http://inliveserver.com:1935/10018/10018/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Telered (CO) 
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Radio Vía Libre 
+https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Ruido TV 
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Sur Visión Tv Alerce 
+https://video.mediostream.cl/survisiontv/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , TeleAngol Radio 
+https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , En la Noticia 
+http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Pauta 
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Dj Loncho 
+https://stmv3.srvstm.com/alonso7603/alonso7603/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , Djing Animation 
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , FR TFX 
+https://s1.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , AR Televisión Pública 
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_1024000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , AR Canal 26 
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w715818710_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , AR Garage TV 
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , US Mlb 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , US California Music Channel 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , ES Fight Time 
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , HN Televicentro 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , US WWE 
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , INT Travel HD 
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , BR All Sport 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , MX Canal 20 Zacatecas 
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , MX Once 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , CO Canal Capital 
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , TV El Central 
+https://5580a424c4e9f.streamlock.net:8020/vs/tvelcentral/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1574436701.png" group-title="Chileiptv" , RAI PREMIUM 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1574775596.jpg" group-title="Chileiptv" , Taltal Tv Animación 
+http://186.103.180.150:8000/live/animacion.flv
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1574775643.jpg" group-title="Chileiptv" , Taltal Tv Animación 
+http://186.103.180.150:8000/live/animacion.flv
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1575985507.jpg" group-title="Chileiptv" , Cooperativa TV 
+http://unlimited1-cl.dps.live/coopetv/coopetv.smil/coopetv/livestream1/chunks.m3u8?nimblesessionid=356305670
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1575986127.jpg" group-title="Chileiptv" , Bío Bío TV 
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/bbtv/livestream1/chunks.m3u8?nimblesessionid=76467587
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1575986545.png" group-title="Chileiptv" , La Red TV 
+https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/chunklist_b1000000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc2MDcyODQ0LCJzZXNzaW9uIjoiMTkwLjEwMC4xNDkuMTY2Iiwid2hpdGVsaXN0IjpbIjE5MC4xMDAuMTQ5LjE2NiJdfSwic2lnbmF0dXJlIjoiMmY4NDQ1MjAxMjgyOGIyZDExYjBhOTljZTgzYWVjZDc3ZGY5MGI0NSJ9
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="Chileiptv" , 13i 
+https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8?PlaylistM3UCL
