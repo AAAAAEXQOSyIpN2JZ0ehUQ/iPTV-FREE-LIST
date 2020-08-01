@@ -1,11 +1,12 @@
 #EXTM3U
 
 # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+# 
 #Canales de TV y Radios online
-#playlist: https://www.chileiptv.cl/cl.m3u
-#playlist: https://pastebin.com/raw/TTJkTZABJR
+#playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Chile-IPTV.m3u
 #cambios: Update List IPTV
 #ultima actualizacion: 31 07 2020
+# 
 # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
