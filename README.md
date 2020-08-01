@@ -13,9 +13,7 @@
 -------------------------------------------------------------------------------
 
 ```
-#
-#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-#
+* pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 ```
 
 **By: [  ⃘⃤꙰✰ ]**
