@@ -1,14 +1,13 @@
-#EXTM3U
-
-# * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-# 
+#*****************************
+#
 #Canales de TV y Radios online
-#playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Chile-IPTV
+#playlist: https://www.chileiptv.cl/cl.m3u
 #cambios: Update List IPTV
 #ultima actualizacion: 31 07 2020
-# 
-# * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-
+#
+#*****************************
+#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/t13.jpg" group-title="Chileiptv" , T13 Móvil 
