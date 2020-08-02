@@ -5,9 +5,9 @@
  
 ```
 * Canales de TV y Radios online
-* playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List
-* cambios: Update List IPTV
-* ultima actualizacion: 31 07 2020 
+* Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List
+* Cambios: Update List IPTV
+* Ultima actualizacion: 31 07 2020 
 ```
 
 -------------------------------------------------------------------------------
