@@ -83,8 +83,11 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Lo Mas Visto", AXN | SD
-https://ul.cdn946.net:8443/hls/yekq1q579s8muxn-2215430730.ts
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/logo_chilevision.jpg" group-title="Lo Mas Visto", Chilevision | SD
+https://player.twitch.tv/?channel=chb11n&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1
+
+#EXTINF:-1 tvg-logo=" " group-title="Lo Mas Visto", CDF | SD
+http://89.105.194.59:25461/live/w$$lkkll$f/w$$lkkll$f/159.m3u8
 
 #*****************************
 #*****************************
