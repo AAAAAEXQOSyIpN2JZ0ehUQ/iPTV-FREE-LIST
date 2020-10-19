@@ -32,11 +32,11 @@ Para ver los logos en Kodi:
 
 ## Installation
 
-**Ubuntu 18Update Source List**
-
--------------------------------------------------------------------------------
+```
+**Ubuntu 18 Update Source List**
 
 wget -O /etc/apt/sources.list https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Sources_list/18.04/sources.list
+```
 
 apt-get update -y; apt-get upgrade -y; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install-Panel/install.py ; sudo python install.py
 
