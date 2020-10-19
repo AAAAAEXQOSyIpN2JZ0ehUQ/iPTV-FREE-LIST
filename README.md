@@ -12,21 +12,18 @@
 ```
 
 ```
-
 Para ver los logos en Kodi:
 
     En PVR IPTV Simple Client ir a Configurar, y ahora darle click a Logotipos de Canales.
     En Ubicacion elegir ruta remota.
     En URL de la Base Logotipos de Canales: http://i.imgur.com/
+
+* Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 ```
 
 -------------------------------------------------------------------------------
 
-```
-* Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-```
-
-**Xtremecodes UI**
+## XTREMECODES UI
 
 ## :heavy_exclamation_mark: Requerimientos 
 
@@ -35,7 +32,7 @@ Para ver los logos en Kodi:
 
 ## Installation
 
-apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wget https://stalkertvlatino.com/install.py ; sudo python install.py
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install-Panel/install.py ; sudo python install.py
 
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
