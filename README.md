@@ -57,7 +57,7 @@ sudo apt-get install libcurl3 -y
 find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtreamcodes:xtreamcodes
 
 
-Creditos:  Angelo Muñiz
+Creditos:  https://www.worldofiptv.com/threads/installing-xtream-ui.10171/
 
 -------------------------------------------------------------------------------
 
