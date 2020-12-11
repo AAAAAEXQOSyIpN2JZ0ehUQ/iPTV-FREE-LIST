@@ -29,7 +29,6 @@ Para ver los logos en Kodi:
 
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
-* apt-get update -y && apt-get upgrade -y
 
 ```
 **Ubuntu 18 Update Source List**
@@ -38,6 +37,8 @@ wget -O /etc/apt/sources.list https://raw.githubusercontent.com/AAAAAEXQOSyIpN2J
 ```
 
 ## Installation
+
+apt-get update -y && apt-get upgrade -y
 
 apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install-Panel/install.py; sudo python install.py
 
