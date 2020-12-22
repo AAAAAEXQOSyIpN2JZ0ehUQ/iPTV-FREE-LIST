@@ -23,3 +23,12 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 
 Creditos: https://github.com/k1meister/xtreamui_mirror
+
+** Este es un espejo de instalación para el software xtream ui.
+** instalar principal
+** actualice el sistema a xtreamui v22f (incluye la parte de administración, por lo que no es necesario instalarlo por separado)
+** autostart xtreamui después de reiniciar
+** corrección de permisos para nginx_rtmp y nginx
+
+
+
