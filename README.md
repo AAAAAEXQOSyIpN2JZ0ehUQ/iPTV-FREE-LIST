@@ -61,18 +61,17 @@ find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtre
 
 ## XTREMECODES UI
 
-sudo apt-get update && apt-get upgrade -y
-sudo apt-get install mysql-server -y
-sudo apt-get install python -y
-sudo apt install apache2 -y
-sudo apt-get install libxslt1-dev -y
-sudo apt-get install libgeoip-dev -y
-apt-get update && apt-get upgrade -y
-sudo reboot
-sudo apt install python -y
-sudo apt-get update
-sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
-sudo wget https://worldofiptv.com/downloads/xtreamui/install.py
+sudo apt-get update && apt-get upgrade -y && 
+sudo apt-get install mysql-server -y  && 
+sudo apt-get install python -y && 
+sudo apt install apache2 -y && 
+sudo apt-get install libxslt1-dev -y && 
+sudo apt-get install libgeoip-dev -y && 
+apt-get update && apt-get upgrade -y && 
+sudo apt install python -y && 
+sudo apt-get update && 
+sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y && 
+sudo wget https://worldofiptv.com/downloads/xtreamui/install.py && 
 sudo python install.py
 
 
