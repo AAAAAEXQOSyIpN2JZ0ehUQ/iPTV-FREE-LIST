@@ -31,12 +31,13 @@ Para ver los logos en Kodi:
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
 
-```
-**Ubuntu 18 Update Source List**
+-------------------------------------------------------------------------------
 
-wget -O /etc/apt/sources.list 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Sources_list/18.04/sources.list
-```
+##Ubuntu 18 Update Source List**
+
+wget -O /etc/apt/sources.list https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Sources_list/18.04/sources.list
+
+-------------------------------------------------------------------------------
 
 ## Installation
 
