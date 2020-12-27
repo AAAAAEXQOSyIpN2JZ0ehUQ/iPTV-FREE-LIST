@@ -6,6 +6,7 @@
 ```
 * Canales de TV y Radios online
 * Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List
+* Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 * Cambios: Update List IPTV
 * Ultima actualizacion: 18 10 2020 
 
@@ -33,7 +34,8 @@ Para ver los logos en Kodi:
 ```
 **Ubuntu 18 Update Source List**
 
-wget -O /etc/apt/sources.list https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Sources_list/18.04/sources.list
+wget -O /etc/apt/sources.list 
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Sources_list/18.04/sources.list
 ```
 
 ## Installation
