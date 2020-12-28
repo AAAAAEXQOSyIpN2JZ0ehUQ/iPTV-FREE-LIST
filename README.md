@@ -26,6 +26,8 @@ Para ver los logos en Kodi:
 
 ## XTREMECODES UI
 
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/Xtreme-UI.png)
+
 ## :heavy_exclamation_mark: Requerimientos 
 
 * Usar Ubuntu 18.04 Server x86_64
