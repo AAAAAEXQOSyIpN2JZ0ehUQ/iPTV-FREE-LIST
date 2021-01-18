@@ -18,6 +18,16 @@
 
 -------------------------------------------------------------------------------
 
+```
+Para ver los logos en Kodi:
+
+    En PVR IPTV Simple Client ir a Configurar, y ahora darle click a Logotipos de Canales.
+    En Ubicacion elegir ruta remota.
+    En URL de la Base Logotipos de Canales: http://i.imgur.com/
+
+* Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+```
+
 # IPTV Gratis Web
 
 * https://www.tvplusgratis.com/
@@ -29,16 +39,6 @@
 * https://cablegratis.online/
 * http://www.chilenotas.com/
 * http://locomotiontv.com/
-
-```
-Para ver los logos en Kodi:
-
-    En PVR IPTV Simple Client ir a Configurar, y ahora darle click a Logotipos de Canales.
-    En Ubicacion elegir ruta remota.
-    En URL de la Base Logotipos de Canales: http://i.imgur.com/
-
-* Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-```
 
 -------------------------------------------------------------------------------
 
@@ -69,6 +69,7 @@ apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wge
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 ## Opcional
 
@@ -83,6 +84,7 @@ sudo apt-get install libcurl3 -y
 
 find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtreamcodes:xtreamcodes
 
+-------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
 CREDITOS A: https://github.com/primercs/
