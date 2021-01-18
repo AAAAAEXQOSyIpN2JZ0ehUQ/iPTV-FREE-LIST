@@ -9,11 +9,26 @@
 * Cambios: Update List IPTV
 * Ultima actualizacion: 18 10 2020 
 
+```
+-------------------------------------------------------------------------------
+
 * Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 
 * Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List
 
-```
+-------------------------------------------------------------------------------
+
+# IPTV Gratis Web
+
+* https://www.tvplusgratis.com/
+* https://televisionlibre.net/es/
+* http://totv.org/tv-blue-hustler
+* http://www.televall.online/
+* https://www.vercanalestv1.com/v
+* https://www.tvconexion.com/axn-en-vivo/
+* https://cablegratis.online/axn-en-vivo/
+* http://www.chilenotas.com/
+* http://locomotiontv.com/
 
 ```
 Para ver los logos en Kodi:
