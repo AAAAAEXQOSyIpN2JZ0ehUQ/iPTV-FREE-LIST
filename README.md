@@ -22,11 +22,11 @@
 
 * https://www.tvplusgratis.com/
 * https://televisionlibre.net/es/
-* http://totv.org/tv-blue-hustler
+* http://totv.org/
 * http://www.televall.online/
 * https://www.vercanalestv1.com/v
-* https://www.tvconexion.com/axn-en-vivo/
-* https://cablegratis.online/axn-en-vivo/
+* https://www.tvconexion.com/
+* https://cablegratis.online/
 * http://www.chilenotas.com/
 * http://locomotiontv.com/
 
