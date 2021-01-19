@@ -31,7 +31,8 @@ Para ver los logos en Kodi:
 # IPTV Gratis Web
 
 * https://www.tvplusgratis.com/
-* https://televisionlibre.net/es/
+* https://televisionlibre.net/
+* https://televisiongratishd.com/
 * http://totv.org/
 * http://www.televall.online/
 * https://www.vercanalestv1.com/v
