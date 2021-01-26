@@ -40,6 +40,9 @@ Para ver los logos en Kodi:
 * https://cablegratis.online/
 * http://www.chilenotas.com/
 * http://locomotiontv.com/
+* https://lao.pe/tv
+* https://www.chileiptv.cl/cl.m3u
+* https://m3u.cl/lista-iptv-chile.php
 * https://www.sexoasis.com
 
 -------------------------------------------------------------------------------
