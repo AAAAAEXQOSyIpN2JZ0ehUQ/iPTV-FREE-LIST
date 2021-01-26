@@ -96,6 +96,8 @@ CREDITOS A: https://github.com/primercs/
 
 CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/downloads/
 
+CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+
 -------------------------------------------------------------------------------
 
 **By: [  ⃘⃤꙰✰ ]**
