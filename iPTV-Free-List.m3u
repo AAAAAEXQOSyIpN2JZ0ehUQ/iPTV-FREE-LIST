@@ -1217,7 +1217,7 @@ http://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/hzZQxNu.png" group-title="Lao TV", Retro Plus TV | HD
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/yfwr5U5.png" group-title=" Lao TV", TV5 Linares | HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/yfwr5U5.png" group-title="Lao TV", TV5 Linares | HD
 https://unlimited1-cl.dps.live/tv5/tv5.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/XsQotJL.png" group-title="Lao TV", Cappisima de Arica TV | HD
