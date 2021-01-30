@@ -87,8 +87,10 @@ find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtre
 
 CREDITOS A: https://github.com/primercs/
 
+CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/
 CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/downloads/
 
+CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/
 CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 -------------------------------------------------------------------------------
