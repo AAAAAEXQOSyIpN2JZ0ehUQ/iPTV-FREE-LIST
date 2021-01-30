@@ -7,7 +7,7 @@
 ```
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
-* Ultima actualizacion: 27 01 2021 
+* Ultima actualizacion: 28 01 2021 
 
 ```
 -------------------------------------------------------------------------------
