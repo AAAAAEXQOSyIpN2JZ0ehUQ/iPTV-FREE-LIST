@@ -14,8 +14,6 @@
 
 * Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 
-* Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List
-
 ```
 * Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 ```
@@ -46,6 +44,7 @@
 
 ## :heavy_exclamation_mark: Requerimientos 
 
+* https://lofertech.com/xtream-ui-installation/
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
 
@@ -85,15 +84,15 @@ find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtre
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
-CREDITOS A: https://github.com/primercs/
+REPOSITORIOS Y CREDITOS A: https://github.com/primercs/
 
-CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/
+REPOSITORIOS Y CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/
 
-CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+REPOSITORIOS Y CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/downloads/
 
-CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/
+REPOSITORIOS Y CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/
 
-CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+REPOSITORIOS Y CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 -------------------------------------------------------------------------------
 
