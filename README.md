@@ -66,6 +66,7 @@ apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wge
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 -------------------------------------------------------------------------------
+TUTORIALES: https://www.youtube.com/user/emre1393/videos (Emre1393)
 -------------------------------------------------------------------------------
 
 ## Opcional
@@ -82,10 +83,8 @@ sudo apt-get install libcurl3 -y
 find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtreamcodes:xtreamcodes
 
 -------------------------------------------------------------------------------
-TUTORIALES: https://www.youtube.com/user/emre1393/videos (Emre1393)
 
 REPOSITORIOS Y CREDITOS A: https://lofertech.com/xtream-ui-installation/
--------------------------------------------------------------------------------
 
 REPOSITORIOS Y CREDITOS A: https://github.com/primercs/
 
