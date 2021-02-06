@@ -82,6 +82,9 @@ sudo apt-get install libcurl3 -y
 find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtreamcodes:xtreamcodes
 
 -------------------------------------------------------------------------------
+TUTORIALES: https://www.youtube.com/user/emre1393/videos (Emre1393)
+
+REPOSITORIOS Y CREDITOS A: https://lofertech.com/xtream-ui-installation/
 -------------------------------------------------------------------------------
 
 REPOSITORIOS Y CREDITOS A: https://github.com/primercs/
