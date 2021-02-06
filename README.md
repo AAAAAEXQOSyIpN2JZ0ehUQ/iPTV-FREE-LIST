@@ -44,7 +44,6 @@
 
 ## :heavy_exclamation_mark: Requerimientos 
 
-* https://lofertech.com/xtream-ui-installation/
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
 
@@ -66,7 +65,11 @@ apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python ; wge
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 -------------------------------------------------------------------------------
-TUTORIALES: https://www.youtube.com/user/emre1393/videos (Emre1393)
+
+* INSTALACION FUENTE :    https://lofertech.com/xtream-ui-installation/
+
+* TUTORIALESS (Emre1393): https://www.youtube.com/user/emre1393/videos
+
 -------------------------------------------------------------------------------
 
 ## Opcional
