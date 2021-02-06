@@ -87,8 +87,6 @@ find /home/xtreamcodes/ -not -name "GeoLite2.mmdb" -print0 | xargs -0 chown xtre
 
 -------------------------------------------------------------------------------
 
-REPOSITORIOS Y CREDITOS A: https://lofertech.com/xtream-ui-installation/
-
 REPOSITORIOS Y CREDITOS A: https://github.com/primercs/
 
 REPOSITORIOS Y CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/
