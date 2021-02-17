@@ -47,16 +47,28 @@
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
 
+Criar Usurio
+
+    adduser USUARIO
+    usermod -aG sudo USUARIO
+
 ## Installation
 
 rm install.py && rm install.py.1;
 
 sudo apt-get update && sudo apt-get upgrade -y;
 
+sudo apt-get update && apt -y dist-upgrade && apt -y autoremove && apt update && apt -y install software-properties-common build-essential sudo iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate
+
+sudo dpkg-reconfigure tzdata
+
 sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ;
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install-Panel/install.py; sudo python install.py
 
+cat /dev/null > ~/.bash_history && history -c;
+
+pkill -9 nginx; pkill -9 php; 
 
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
