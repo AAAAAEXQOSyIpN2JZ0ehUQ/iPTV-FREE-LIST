@@ -74,16 +74,20 @@ pkill -9 nginx; pkill -9 php;
 
 -------------------------------------------------------------------------------
 
-* INSTALACION FUENTE :    https://lofertech.com/xtream-ui-installation/
+* CREDITOS A:              https://bitbucket.org/primercs/xtreamui_mirror
 
-* TUTORIALESS (Emre1393): https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
+* INSTALACION FUENTE :     https://lofertech.com/xtream-ui-installation
+
+* TUTORIALESS (Emre1393):  https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
 
 -------------------------------------------------------------------------------
-* REPOSITORIOS Y CREDITOS A: https://github.com/primercs/
-* REPOSITORIOS Y CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/
-* REPOSITORIOS Y CREDITOS A: https://bitbucket.org/primercs/xtreamui_mirror/downloads/
-* REPOSITORIOS Y CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/
-* REPOSITORIOS Y CREDITOS A: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+## REPOSITORIOS Y CREDITOS A: 
+
+* https://github.com/primercs/
+* https://bitbucket.org/primercs/xtreamui_mirror/
+* https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+* https://bitbucket.org/emre1393/xtreamui_mirror/
+* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 -------------------------------------------------------------------------------
 
 **By: [  ⃘⃤꙰✰ ]**
