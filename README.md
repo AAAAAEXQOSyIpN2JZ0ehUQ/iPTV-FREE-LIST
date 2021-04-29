@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 
 -------------------------------------------------------------------------------
 
-## :book: Installation XTREMECODES UI - r22F ( VERSION GRATUITA )
+## :book: Installation XTREMECODES UI - r22F
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/Xtreme-UI.png)
 
@@ -85,9 +85,13 @@ pkill -9 nginx; pkill -9 php;
 ## :octocat: Contribute
 
 1.https://github.com/primercs/
+
 2.https://bitbucket.org/primercs/xtreamui_mirror/
+
 3.https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+
 4.https://bitbucket.org/emre1393/xtreamui_mirror/
+
 5.https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 ```
