@@ -74,7 +74,15 @@ pkill -9 nginx; pkill -9 php;
 
 -------------------------------------------------------------------------------
 
-## :scroll: Fuente y Tutoriales
+## :book: Installation ALternas
+
+https://bitbucket.org/emre1393/xtreamui_mirror/src/master/
+
+https://bitbucket.org/primercs/xtreamui_mirror/src/master/
+
+-------------------------------------------------------------------------------
+
+## :scroll: Instalcion Fuente y Tutoriales
 
 [INSTALACION FUENTE](https://lofertech.com/xtream-ui-installation)
 
