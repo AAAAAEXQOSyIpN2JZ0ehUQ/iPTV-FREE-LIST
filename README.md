@@ -1,18 +1,18 @@
-﻿# IPTV
- 
-**iPTV Free List**
-
+﻿# IPTV FREE LIST
+```
+* UPDATE 28/04/2021 - iPTV Free List
+```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 ```
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
 * Ultima actualizacion: 28 01 2021 
-
 ```
--------------------------------------------------------------------------------
 
-* Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+**Playlist**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 
 ```
 * Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
@@ -38,7 +38,7 @@
 
 -------------------------------------------------------------------------------
 
-## XTREMECODES UI - r22F
+## :book: Installation XTREMECODES UI - r22F ( VERSION GRATUITA )
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/Xtreme-UI.png)
 
@@ -74,20 +74,24 @@ pkill -9 nginx; pkill -9 php;
 
 -------------------------------------------------------------------------------
 
-* CREDITOS A:              https://bitbucket.org/primercs/xtreamui_mirror
+## :scroll: Fuente y Tutoriales
 
-* INSTALACION FUENTE :     https://lofertech.com/xtream-ui-installation
+[INSTALACION FUENTE](https://lofertech.com/xtream-ui-installation)
 
-* TUTORIALESS (Emre1393):  https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
+[TUTORIALESS (Emre1393)](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
 
 -------------------------------------------------------------------------------
-## REPOSITORIOS Y CREDITOS A: 
 
-* https://github.com/primercs/
-* https://bitbucket.org/primercs/xtreamui_mirror/
-* https://bitbucket.org/primercs/xtreamui_mirror/downloads/
-* https://bitbucket.org/emre1393/xtreamui_mirror/
-* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
--------------------------------------------------------------------------------
+## :octocat: Contribute
+
+1.https://github.com/primercs/
+2.https://bitbucket.org/primercs/xtreamui_mirror/
+3.https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+4.https://bitbucket.org/emre1393/xtreamui_mirror/
+5.https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+
+```
+☆ https://t.me/admmanagerfree ☆
+```
 
 **By: [  ⃘⃤꙰✰ ]**
