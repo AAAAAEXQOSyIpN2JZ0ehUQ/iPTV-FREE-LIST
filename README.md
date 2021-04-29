@@ -84,15 +84,11 @@ pkill -9 nginx; pkill -9 php;
 
 ## :octocat: Contribute
 
-1. https://github.com/primercs/
-
-2. https://bitbucket.org/primercs/xtreamui_mirror/
-
-3. https://bitbucket.org/primercs/xtreamui_mirror/downloads/
-
-4. https://bitbucket.org/emre1393/xtreamui_mirror/
-
-5. https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+* https://github.com/primercs/
+* https://bitbucket.org/primercs/xtreamui_mirror/
+* https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+* https://bitbucket.org/emre1393/xtreamui_mirror/
+* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 ```
 ☆ https://t.me/admmanagerfree ☆
