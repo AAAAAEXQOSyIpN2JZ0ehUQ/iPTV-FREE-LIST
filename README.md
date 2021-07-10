@@ -7,7 +7,7 @@
 ```
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
-* Ultima actualizacion: 28 01 2021 
+* Ultima actualizacion: 28/04/2021 
 ```
 
 **Playlist**
@@ -64,7 +64,7 @@ sudo dpkg-reconfigure tzdata
 
 sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ;
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install-Panel/install.py; sudo python install.py
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/Install/install.py; sudo python install.py
 
 cat /dev/null > ~/.bash_history && history -c;
 
@@ -102,11 +102,11 @@ https://bitbucket.org/primercs/xtreamui_mirror/src/master/
 
 ## :octocat: Contribute
 
+* https://bitbucket.org/emre1393/xtreamui_mirror/
+* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 * https://github.com/primercs/
 * https://bitbucket.org/primercs/xtreamui_mirror/
 * https://bitbucket.org/primercs/xtreamui_mirror/downloads/
-* https://bitbucket.org/emre1393/xtreamui_mirror/
-* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 ```
 ☆ https://t.me/admmanagerfree ☆
