@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
+* Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
 
 Criar Usurio
 
