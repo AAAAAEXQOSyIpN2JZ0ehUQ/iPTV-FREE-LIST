@@ -1,4 +1,4 @@
-﻿# IPTV FREE LIST
+﻿# iPTV FREE LIST
 ```
 * UPDATE 28/04/2021 - iPTV Free List
 ```
