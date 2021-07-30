@@ -71,14 +71,20 @@ https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Proj
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]Lo Mas Visto[/COLOR]-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Lo Mas Visto", Contivision | HD
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8#l
+#EXTINF:-1, tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="Lao TV", TV Educa Chile | HD
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #*****************************
 #*****************************
@@ -1538,6 +1544,9 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ayHwUl.png" group-title="Canales de Animacion", Gong (Francia) | SD
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
