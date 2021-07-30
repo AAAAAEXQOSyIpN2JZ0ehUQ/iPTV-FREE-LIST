@@ -77,6 +77,10 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
@@ -87,11 +91,6 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #*****************************
 #*****************************
