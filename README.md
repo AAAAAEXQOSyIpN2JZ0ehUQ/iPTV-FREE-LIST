@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://m3u.cl/lista-iptv-chile.php
 * https://pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
+* https://www.lookhu.tv/live-tv/
 * https://www.sexoasis.com
 
 -------------------------------------------------------------------------------
