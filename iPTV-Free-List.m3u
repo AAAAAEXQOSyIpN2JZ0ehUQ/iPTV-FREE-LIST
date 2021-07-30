@@ -95,10 +95,10 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Lo Mas Visto" , Portal Foxmix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Lo Mas Visto", Adult Swim: Williams Stream | FHD
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV (Asia) | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Lo Mas Visto", Aniplus TV (Asia) | HD
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
 http://210.210.155.35/dr9445/h/h02/index.m3u8
