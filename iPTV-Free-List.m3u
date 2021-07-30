@@ -4,7 +4,6 @@
 #
 # Canales de TV y Radios online
 # cambios: Update List IPTV
-# ultima actualizacion: 28 04 2021
 #
 # playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 #
@@ -64,7 +63,7 @@
 #   
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://saved.im/mtg4nda2znr0/img_iptv_logo.png" group-title="Leeme", - 28/01/2021 Actualizado -
+#EXTINF:-1 tvg-logo="http://saved.im/mtg4nda2znr0/img_iptv_logo.png" group-title="Leeme", - 30/07/2021 Actualizado -
 https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
 
 #*****************************
@@ -78,8 +77,16 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Chileiptv" , Portal Foxmix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Canales de Musica", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lo Mas Visto", Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
