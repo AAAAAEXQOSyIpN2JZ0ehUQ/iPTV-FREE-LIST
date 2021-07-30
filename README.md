@@ -1,13 +1,12 @@
 ﻿# iPTV FREE LIST
 ```
-* UPDATE 28/04/2021 - iPTV Free List
+* UPDATE 30/07/2021 - iPTV Free List
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 ```
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
-* Ultima actualizacion: 28/04/2021 
 ```
 
 **Playlist**

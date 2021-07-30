@@ -3,13 +3,13 @@
 #*****************************
 #
 # Canales de TV y Radios online
-# cambios: Update List IPTV
+# Cambios: Update List IPTV
 #
-# playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+# Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 #
 #*****************************
 #
-#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+# Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #*****************************
 #   Index
@@ -85,15 +85,24 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 http://51.222.85.85:81/hls/loco/34353063000.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Lo Mas Visto" , Portal Foxmix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
+https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV (Asia) | HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
 
 #*****************************
 #*****************************
@@ -1551,22 +1560,17 @@ http://unlimited6-cl.dps.live/l4tv/l4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV (Asia) | HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ayHwUl.png" group-title="Canales de Animacion", Gong (Francia) | SD
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV | SD
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV (Asia) | HD
-http://210.210.155.35/dr9445/h/h02/index2.m3u8
-http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGkQ1Dk.jpg" group-title="Canales de Animacion", Anime All Day | HD
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
