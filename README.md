@@ -103,7 +103,7 @@ https://bitbucket.org/primercs/xtreamui_mirror/src/master/
 
 -------------------------------------------------------------------------------
 
-## :octocat: Contribute
+## :octocat: Credits
 
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
