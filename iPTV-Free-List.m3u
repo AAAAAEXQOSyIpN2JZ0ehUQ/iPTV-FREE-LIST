@@ -85,15 +85,15 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 http://51.222.85.85:81/hls/loco/34353063000.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Lo Mas Visto" , Portal Foxmix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lo Mas Visto", PORTAL FOXMIX | SD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Lo Mas Visto" , Portal Foxmix 
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Lo Mas Visto", Adult Swim: Williams Stream | FHD
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
@@ -108,7 +108,7 @@ http://210.210.155.35/dr9445/h/h02/index2.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Aniplus TV (Asia) | SD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 
