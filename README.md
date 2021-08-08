@@ -53,12 +53,12 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * Usar una distro nueva o formatiada
 * Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
 
+## Installation
+
 Criar Usurio
 
     adduser USUARIO
     usermod -aG sudo USUARIO
-
-## Installation
 
 rm install.py && rm install.py.1;
 
