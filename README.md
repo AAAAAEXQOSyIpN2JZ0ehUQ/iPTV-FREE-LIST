@@ -5,6 +5,8 @@
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 ```
+* Recopilado por: iLLuminati Dev Team
+* https://t.me/admmanagerfree
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
 ```
@@ -36,6 +38,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
+* http://player.cxtvenvivo.com/
 * https://www.sexoasis.com
 
 -------------------------------------------------------------------------------
