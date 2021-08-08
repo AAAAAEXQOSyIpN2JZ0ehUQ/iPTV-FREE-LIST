@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
-* http://player.cxtvenvivo.com/
+* http://cxtvenvivo.com/
 * https://www.sexoasis.com
 
 -------------------------------------------------------------------------------
