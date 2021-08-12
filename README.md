@@ -11,9 +11,17 @@
 * Cambios: Update List IPTV
 ```
 
-**Playlist**
+**Playlist Principal**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+
+**Playlist Solo Canales de TV**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
+
+**Playlist Solo Canales de XXX**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_XXX.m3u
 
 ```
 * Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
