@@ -5,21 +5,21 @@
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 ```
-* Recopilado por: iLLuminati Dev Team
-* https://t.me/admmanagerfree
 * Canales de TV y Radios online
 * Cambios: Update List IPTV
+* Recopilado por: iLLuminati Dev Team
+* https://t.me/admmanagerfree
 ```
 
-**Playlist Principal**
-
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
-
-**Playlist Solo Canales de TV**
+**Playlist (Sin Adultos)**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
 
-**Playlist Solo Canales de XXX**
+**Playlist (Con Adultos)**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+
+**Playlist (Solo Adultos)**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_XXX.m3u
 
