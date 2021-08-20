@@ -6,7 +6,6 @@
  
 ```
 * Canales de TV y Radios online
-* Cambios: Update List IPTV
 * Recopilado por: iLLuminati Dev Team
 * https://t.me/admmanagerfree
 ```
