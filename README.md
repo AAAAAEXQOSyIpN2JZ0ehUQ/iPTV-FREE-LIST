@@ -62,10 +62,12 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 
 ## Installation
 
+```
 Criar Usurio
 
     adduser USUARIO
     usermod -aG sudo USUARIO
+```
 
 rm install.py && rm install.py.1;
 
@@ -81,13 +83,13 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/instal
 
 cat /dev/null > ~/.bash_history && history -c;
 
-not1: si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los binarios de nginx sean ejecutables.
+**not1: si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los binarios de nginx sean ejecutables.**
 
 sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
 sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
 sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
-not2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, agregue un archivo llamado ".update" en la carpeta de administración.
+**not2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, agregue un archivo llamado ".update" en la carpeta de administración.**
 
 sudo touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 
