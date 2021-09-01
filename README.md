@@ -68,7 +68,6 @@ Criar Usurio
     adduser USUARIO
     usermod -aG sudo USUARIO
 ```
-
 rm install.py && rm install.py.1;
 
 sudo apt-get update && sudo apt-get upgrade -y;
