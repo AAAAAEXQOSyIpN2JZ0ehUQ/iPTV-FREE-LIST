@@ -30,25 +30,25 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 # IPTV Gratis Web
 
 * https://www.tvplusgratis.com/
-* https://televisionlibre.net/
-* https://televisiongratishd.com/
-* http://totv.org/
-* http://www.televall.online/
+* https://www.televisionlibre.net/
+* https://www.televisiongratishd.com/
 * https://www.vercanalestv1.com/v
 * https://www.tvconexion.com/
-* https://cablegratis.online/
-* http://www.chilenotas.com/
-* http://locomotiontv.com/
-* https://lao.pe/tv
+* https://www.cablegratis.online/
+* http://www.locomotiontv.com/
+* https://www.lao.pe/tv
 * https://www.chileiptv.cl/cl.m3u
-* https://m3u.cl/lista-iptv-chile.php
-* https://pluto.tv/es
+* https://www.m3u.cl/lista-iptv-chile.php
+* https://www.pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
-* http://cxtvenvivo.com/
 * https://www.sexoasis.com
+* http://www.chilenotas.com/
+* http://www.televall.online/
+* http://www.totv.org/
+* http://www.cxtvenvivo.com/
 
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 ## :book: Installation XTREMECODES UI - r22F
 
