@@ -123,7 +123,7 @@ https://bitbucket.org/primercs/xtreamui_mirror/src/master/
 * https://bitbucket.org/primercs/xtreamui_mirror/downloads/
 
 ```
-☆ https://t.me/admmanagerfree ☆
+☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
 ```
 
 **By: [  ⃘⃤꙰✰ ]**
