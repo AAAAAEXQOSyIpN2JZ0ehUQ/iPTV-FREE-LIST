@@ -7,7 +7,7 @@
 ```
 * Canales de TV y Radios online
 * Recopilado por: iLLuminati Dev Team
-* https://t.me/admmanagerfree
+* https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
 ```
 
 **Playlist (Sin Adultos)**
@@ -123,7 +123,5 @@ https://bitbucket.org/primercs/xtreamui_mirror/src/master/
 * https://bitbucket.org/primercs/xtreamui_mirror/downloads/
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
-
-**By: [  ⃘⃤꙰✰ ]**
