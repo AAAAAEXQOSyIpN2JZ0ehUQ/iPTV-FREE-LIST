@@ -10,13 +10,13 @@
 * https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
 ```
 
-**Playlist (Sin Adultos)**
-
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
-
 **Playlist (Con Adultos)**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+
+**Playlist (Sin Adultos)**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
 
 **Playlist (Solo Adultos)**
 
@@ -42,7 +42,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
+* https://futurama-latino.net
 * https://www.sexoasis.com
+* https://pelisgratis.nu
 * http://www.chilenotas.com/
 * http://www.televall.online/
 * http://www.totv.org/
@@ -59,6 +61,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
 * Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
+* Instalcion Fuente https://lofertech.com/xtream-ui-installation
+* Tutoriales Emre1393 https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
 
 ## Installation
 
@@ -103,14 +107,6 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 https://bitbucket.org/emre1393/xtreamui_mirror/src/master/
 
 https://bitbucket.org/primercs/xtreamui_mirror/src/master/
-
--------------------------------------------------------------------------------
-
-## :scroll: Instalcion Fuente y Tutoriales
-
-[INSTALACION FUENTE](https://lofertech.com/xtream-ui-installation)
-
-[TUTORIALESS (Emre1393)](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
 
 -------------------------------------------------------------------------------
 
