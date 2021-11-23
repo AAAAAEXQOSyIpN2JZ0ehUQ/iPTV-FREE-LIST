@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.tvconexion.com/
 * https://www.cablegratis.online/
 * http://www.locomotiontv.com/
+* https://megamundotv.com/ver-futurama-24-horas
 * https://www.lao.pe/tv
 * https://www.chileiptv.cl/cl.m3u
 * https://www.m3u.cl/lista-iptv-chile.php
