@@ -45,16 +45,15 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 ## :book: Installation Opcional
 1. [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
-2. [Primercs](https://bitbucket.org/primercs/xtreamui_mirror/src/master)
-
-## :octocat: Credits
-1. Emre1393 - Developer of xTream-UI
-* https://bitbucket.org/emre1393/xtreamui_mirror/
-* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
-2. Primercs - Contributor 
 * https://github.com/primercs/
 * https://bitbucket.org/primercs/xtreamui_mirror/
 * https://bitbucket.org/primercs/xtreamui_mirror/downloads/
+2. [Primercs](https://bitbucket.org/primercs/xtreamui_mirror/src/master)
+* https://bitbucket.org/emre1393/xtreamui_mirror/
+* https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+
+## :octocat: Credits
+1. xtream-ui.com - Developer of xTream-UI
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
