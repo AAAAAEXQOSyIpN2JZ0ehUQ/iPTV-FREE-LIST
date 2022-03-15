@@ -1,16 +1,6 @@
-﻿## :book: Installation XTREMECODES UI - r22F
+﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
-
-## :heavy_exclamation_mark: Requerimientos 
-
-* Usar Ubuntu 18.04 Server x86_64
-* Usar una distro nueva o formatiada
-* Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
-* Instalcion Fuente https://lofertech.com/xtream-ui-installation
-* Tutoriales Emre1393 https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
-
-## Installation
+## :book: Installation XTREMECODES UI - r22F
 
 ```
 Criar Usurio
@@ -46,21 +36,25 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
--------------------------------------------------------------------------------
+## :heavy_exclamation_mark: Requerimientos
+* Usar Ubuntu 18.04 Server x86_64
+* Usar una distro nueva o formatiada
+* Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
+* Instalcion Fuente https://lofertech.com/xtream-ui-installation
+* Tutoriales Emre1393 https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
 
-## :book: Installation ALternas
-
-https://bitbucket.org/emre1393/xtreamui_mirror/src/master/
-
-https://bitbucket.org/primercs/xtreamui_mirror/src/master/
-
--------------------------------------------------------------------------------
+## :book: Installation Opcional
+1. [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
+2. [Primercs](https://bitbucket.org/primercs/xtreamui_mirror/src/master)
 
 ## :octocat: Credits
-
+1. Emre1393 - Developer of xTream-UI
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
+2. Primercs - Contributor 
 * https://github.com/primercs/
 * https://bitbucket.org/primercs/xtreamui_mirror/
 * https://bitbucket.org/primercs/xtreamui_mirror/downloads/
-
+```
+☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+```
