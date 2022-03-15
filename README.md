@@ -2,9 +2,9 @@
  
 # iPTV FREE LIST
 Canales de TV y Radios online 
-   Recopilado por: iLLuminati Dev Team 
-   https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
-   UPDATE 30/07/2021 - iPTV Free List
+Recopilado por: iLLuminati Dev Team 
+https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+UPDATE 30/07/2021 - iPTV Free List
 
 ## :book: Installation List
 
