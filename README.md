@@ -1,10 +1,7 @@
 ﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 # iPTV FREE LIST
-Canales de TV y Radios online 
-Recopilado por: iLLuminati Dev Team 
-https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
-UPDATE 30/07/2021 - iPTV Free List
+Canales de TV y Radios online
 
 ## :book: Installation List
 
@@ -45,6 +42,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.totv.org/
 * https://www.cxtvenvivo.com/
 
+## :octocat: Credits
+1. illuminati Dev Team - Recopilacion 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
