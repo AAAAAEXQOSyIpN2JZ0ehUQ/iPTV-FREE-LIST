@@ -1,34 +1,29 @@
-﻿# iPTV FREE LIST
-```
-* UPDATE 30/07/2021 - iPTV Free List
-```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
+﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
-```
-* Canales de TV y Radios online
-* Recopilado por: iLLuminati Dev Team
-* https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
-```
+# iPTV FREE LIST
+Canales de TV y Radios online
+   Recopilado por: iLLuminati Dev Team
+   https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+   UPDATE 30/07/2021 - iPTV Free List
 
-**Playlist (Con Adultos)**
-
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+## :book: Installation List
 
 **Playlist (Sin Adultos)**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
 
+**Playlist (Con Adultos)**
+
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
+
 **Playlist (Solo Adultos)**
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_XXX.m3u
-
 ```
 * Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 ```
--------------------------------------------------------------------------------
 
-# IPTV Gratis Web
-
+## :book: IPTV Gratis Web
 * https://www.tvplusgratis.com/
 * https://www.televisionlibre.net/
 * https://www.televisiongratishd.com/
@@ -49,8 +44,6 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.televall.online/
 * https://www.totv.org/
 * https://www.cxtvenvivo.com/
-
--------------------------------------------------------------------------------
 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
