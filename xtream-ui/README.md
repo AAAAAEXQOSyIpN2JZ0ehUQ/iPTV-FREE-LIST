@@ -45,6 +45,7 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 
 ## :book: Installation Opcional
 1. [xtream-ui.org](https://github.com/xtream-ui-org/xtream-ui-install)
+* https://xtream-ui.org/xtream-ui-r22f/
 2. [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
