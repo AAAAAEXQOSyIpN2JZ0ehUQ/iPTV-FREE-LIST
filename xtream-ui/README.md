@@ -39,9 +39,9 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ## :heavy_exclamation_mark: Requerimientos
 * Usar Ubuntu 18.04 Server x86_64
 * Usar una distro nueva o formatiada
-* Guia Oficial https://xtream-ui.org/xtream-ui-r22f/
-* Instalcion Fuente https://lofertech.com/xtream-ui-installation
-* Tutoriales Emre1393 https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn
+* Guia Oficial [Ver aqui](https://xtream-ui.org/xtream-ui-r22f)
+* Instalcion Fuente [Ver aqui](https://lofertech.com/xtream-ui-installation)
+* Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
 
 ## :book: Installation Opcional
 1. [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
