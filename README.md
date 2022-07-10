@@ -1,30 +1,29 @@
-﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/IPTV.jpg)
  
 # iPTV FREE LIST
-Canales de TV y Radios online
+Canales de TV y Radios online, Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :book: Installation List
+## :book: List Type
 
-**Playlist (Sin Adultos)**
-
+**Playlist (No Adults)**
+```
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
+```
 
-**Playlist (Con Adultos)**
-
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
-
-**Playlist (Solo Adultos)**
-
+**Playlist (Adults Only)**
+```
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_XXX.m3u
 ```
-* Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+
+**Playlist (With Adults)**
+```
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List.m3u
 ```
 
-## :book: IPTV Gratis Web
+## :book: IPTV Free Web
 * https://www.tvplusgratis.com/
 * https://www.televisionlibre.net/
 * https://www.televisiongratishd.com/
-* https://www.vercanalestv1.com/v
 * https://www.tvconexion.com/
 * https://www.cablegratis.online/
 * http://www.locomotiontv.com/
@@ -32,6 +31,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.lao.pe/tv
 * https://www.chileiptv.cl/cl.m3u
 * https://www.m3u.cl/lista-iptv-chile.php
+* http://www.m3u.cl/lista/top.m3u
 * https://www.pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.cxtvenvivo.com/
 
 ## :octocat: Credits
-1. illuminati Dev Team - Recopilacion 
+1. illuminati Dev Team - Contributor  
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
