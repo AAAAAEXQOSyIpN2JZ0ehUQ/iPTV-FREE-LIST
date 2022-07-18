@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://www.chilenotas.com/
 * https://www.televall.online/
 * https://www.totv.org/
+* https://github.com/iptv-org/iptv
 * https://www.cxtvenvivo.com/
 
 ## :octocat: Credits
