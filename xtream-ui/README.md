@@ -18,7 +18,7 @@ sudo dpkg-reconfigure tzdata
 
 sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ;
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/xtream-ui/install.py; sudo python install.py
+wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py; sudo python install.py
 
 cat /dev/null > ~/.bash_history && history -c;
 
