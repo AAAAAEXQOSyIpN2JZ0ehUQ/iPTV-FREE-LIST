@@ -8,9 +8,9 @@ Criar Usurio
     adduser USUARIO
     usermod -aG sudo USUARIO
 ```
-rm install.py && rm install.py.1;
+rm install.py*
 
-sudo apt-get update && sudo apt-get upgrade -y;
+sudo apt-get update && sudo apt-get upgrade -y
 
 sudo apt-get update && apt -y dist-upgrade && apt -y autoremove && apt update && apt -y install software-properties-common build-essential sudo iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate
 
