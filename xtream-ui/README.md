@@ -7,7 +7,6 @@ de sus transmiciones.
 ## :book: Installation
 ```
 rm install.py*;
-sudo apt-get update && sudo apt-get upgrade -y;
 sudo apt-get update && apt -y dist-upgrade && apt -y autoremove && apt update && apt -y install software-properties-common build-essential; 
 sudo iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate; 
 sudo dpkg-reconfigure tzdata;
@@ -15,8 +14,8 @@ sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y;
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py; sudo python install.py
 ```
 
-
-NOTE 1: si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los binarios de nginx sean ejecutables.
+## :book: PERMISOS DE NGINX
+NOTE 1: Si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los binarios de nginx sean ejecutables.
 ```
 sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
 sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
@@ -24,6 +23,7 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
 
+## :book: TABLAS Y ARCHIVO .UPDATE
 NOTE 2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, agregue un archivo llamado ".update" en la carpeta de administración.
 ```
 sudo touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
@@ -31,10 +31,11 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
-**Criar Usurio**
-
-*adduser USUARIO
-*usermod -aG sudo USUARIO
+------------------------------------
+|**Criar Usurio**                  |
+|* adduser USUARIO                 |
+|* usermod -aG sudo USUARIO        |
+------------------------------------
 
 ## :heavy_exclamation_mark: Requirements
 * Un sistema operativo Ubuntu 18.04 Server x86_64
