@@ -45,7 +45,7 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 * Instalcion Fuente [Ver aqui](https://lofertech.com/xtream-ui-installation)
 * Instalcion Fuente [Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
 
-## :book: Optional Utilities
+## :book: Utilities of the developer
 **[Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)**
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
