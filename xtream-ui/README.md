@@ -2,12 +2,11 @@
 
 ## XTREAM-UI R22F /CODES
 Xtream-UI es un sistema de gestión de recursos que incluye una base de datos 
-de sus transmiciones. El xtream-ui es compatible con todos los formatos de ubuntu 
-server como 16 ,18,y 20 la recomendacion de instalacion es en ubunto 18.4 
+de sus transmiciones.
 
 ## :book: Installation
 ```
-rm install.py* && 
+rm install.py*
 ```
 ```
 sudo apt-get update && sudo apt-get upgrade -y
