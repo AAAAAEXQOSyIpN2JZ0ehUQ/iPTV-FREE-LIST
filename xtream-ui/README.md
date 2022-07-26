@@ -50,7 +50,7 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 **[xtream-ui.org](https://github.com/xtream-ui-org/xtream-ui-install)**
-* https://xtream-ui.org/xtream-ui-r22f/
+* https://github.com/xtream-ui-org/xtream-ui-install
 
 ## :octocat: Credits
 1. illuminati Dev Team - Contributor 
