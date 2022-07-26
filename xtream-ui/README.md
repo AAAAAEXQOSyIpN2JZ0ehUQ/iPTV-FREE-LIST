@@ -6,21 +6,12 @@ de sus transmiciones.
 
 ## :book: Installation
 ```
-rm install.py*
-```
-```
-sudo apt-get update && sudo apt-get upgrade -y
-```
-```
-sudo apt-get update && apt -y dist-upgrade && apt -y autoremove && apt update && apt -y install software-properties-common build-essential sudo iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate
-```
-```
-sudo dpkg-reconfigure tzdata
-```
-```
-sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
-```
-```
+rm install.py*;
+sudo apt-get update && sudo apt-get upgrade -y;
+sudo apt-get update && apt -y dist-upgrade && apt -y autoremove && apt update && apt -y install software-properties-common build-essential; 
+sudo iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate; 
+sudo dpkg-reconfigure tzdata;
+sudo apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y;
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py; sudo python install.py
 ```
 
@@ -41,6 +32,7 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
 **Criar Usurio**
+
 *adduser USUARIO
 *usermod -aG sudo USUARIO
 
