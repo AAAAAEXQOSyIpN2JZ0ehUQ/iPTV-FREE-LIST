@@ -32,9 +32,9 @@ sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
 ------------------------------------
-|**Criar Usurio**                  |
-|* adduser USUARIO                 |
-|* usermod -aG sudo USUARIO        |
+**Criar Usurio**                  
+* adduser USUARIO                 
+* usermod -aG sudo USUARIO        
 ------------------------------------
 
 ## :heavy_exclamation_mark: Requirements
