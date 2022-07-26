@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-L
 * https://github.com/iptv-org/iptv
 * https://www.cxtvenvivo.com/
 
+## :book: Installation Utilities
+1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
+
 ## :octocat: Credits
 1. illuminati Dev Team - Contributor  
 ```
