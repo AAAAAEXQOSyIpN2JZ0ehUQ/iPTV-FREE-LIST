@@ -1,4 +1,4 @@
-![logo](https://st.depositphotos.com/1092019/4295/i/450/depositphotos_42959315-stock-photo-iptv-concept-on-digital-background.jpg)
+﻿![logo](https://st.depositphotos.com/1092019/4295/i/450/depositphotos_42959315-stock-photo-iptv-concept-on-digital-background.jpg)
  
 # iPTV FREE LIST
 Canales de TV y Radios online, Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
 
 ## :octocat: Credits
-1. illuminati Dev Team - Contributor  
+1. illuminati Dev Team - Contributor 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
