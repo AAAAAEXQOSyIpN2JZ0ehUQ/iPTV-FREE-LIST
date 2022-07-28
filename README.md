@@ -21,27 +21,29 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 
 ## :book: IPTV Free Web
+* http://locomotiontv.com/envivo
+** http://51.222.85.85:81/hls/loco/index.m3u8
 * https://www.tvplusgratis.com/
 * https://www.televisionlibre.net/
 * https://www.televisiongratishd.com/
 * https://www.tvconexion.com/
 * https://www.cablegratis.online/
-* http://www.locomotiontv.com/
-* https://www.megamundotv.com/ver-futurama-24-horas
-* https://www.lao.pe/tv
-* https://www.chileiptv.cl/cl.m3u
-* https://www.m3u.cl/lista-iptv-chile.php
-* http://www.m3u.cl/lista/top.m3u
 * https://www.pluto.tv/es
 * https://www.plex.tv/watch-free-tv/
 * https://www.lookhu.tv/live-tv/
-* https://www.futurama-latino.net
 * https://www.pelisgratis.nu
 * https://www.chilenotas.com/
 * https://www.televall.online/
 * https://www.totv.org/
-* https://github.com/iptv-org/iptv
 * https://www.cxtvenvivo.com/
+* https://www.github.com/iptv-org/iptv
+* https://telefullenvivo.com/
+* https://www.megamundotv.com/ver-futurama-24-horas
+* https://www.futurama-latino.net
+* https://www.m3u.cl/lista-iptv-chile.php
+** http://www.m3u.cl/lista/top.m3u
+* https://www.lao.pe/tv
+* https://www.chileiptv.cl/cl.m3u
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
