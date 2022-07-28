@@ -1,4 +1,8 @@
 #!/bin/bash
+mkdir xtreamui_mirror
+cd xtreamui_mirror
+https://bitbucket.org/emre1393/xtreamui_mirror/raw/a86a37504b2f619201467fdd121a9786d7da1793/README.md
+https://bitbucket.org/emre1393/xtreamui_mirror/raw/a86a37504b2f619201467fdd121a9786d7da1793/install.py
 mkdir Download_repository
 cd Download_repository
 wget https://bitbucket.org/emre1393/xtreamui_mirror/get/a86a37504b2f.zip
@@ -19,3 +23,4 @@ wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/clearlogs.sh
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/pid_monitor.php
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/sub_xtreamcodes_reborn.tar.gz
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/main_xtreamcodes_reborn.tar.gz
+# FIN
