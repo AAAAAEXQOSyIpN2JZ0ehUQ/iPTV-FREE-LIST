@@ -1,21 +1,22 @@
 ﻿![logo](https://st.depositphotos.com/1092019/4295/i/450/depositphotos_42959315-stock-photo-iptv-concept-on-digital-background.jpg)
  
 # iPTV FREE LIST
-Canales de TV y Radios online, Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+Canales de TV y Radios online, Pueden usar esta lista en: 
+PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 ## :book: List Type
 
-**Playlist (No Adults)**
+Playlist (No Adults)
 ```
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-**Playlist (Adults Only)**
+Playlist (Adults Only)
 ```
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
-**Playlist (With Adults)**
+Playlist (With Adults)
 ```
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
 ```
