@@ -16,11 +16,6 @@ Playlist (Adults Only)
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
-Playlist (With Adults)
-```
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
-```
-
 ## :book: IPTV Free Web
 * http://locomotiontv.com/envivo
 * http://51.222.85.85:81/hls/loco/index.m3u8
