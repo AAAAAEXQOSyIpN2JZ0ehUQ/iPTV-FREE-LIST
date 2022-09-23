@@ -26,3 +26,5 @@ wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/pid_monitor.php
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/sub_xtreamcodes_reborn.tar.gz
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/main_xtreamcodes_reborn.tar.gz
 cd
+
+# fin
