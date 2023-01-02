@@ -2,6 +2,12 @@
  
 # iPTV FREE LIST
 
+
+| Contributor  | GPG key id |
+| ------------- | ------------- |
+| deltaxflux  | 40EAE3B9D0FBCE9C  |
+
+
  | Canales de TV y Radios online  | 
  | --------------- | ---------------  |
  | Pueden usar esta lista en  | 
