@@ -2,9 +2,12 @@
  
 # iPTV FREE LIST
 
-| Canales de TV y Radios online |
+| Canales de TV y Radios online | 
+
 | ------------- | ------------- |
+
 | Pueden usar esta lista en  |
+
 | PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.  |
 
 ## :book: List Type
