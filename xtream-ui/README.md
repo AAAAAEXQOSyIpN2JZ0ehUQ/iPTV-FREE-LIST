@@ -17,7 +17,7 @@ apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
 ```
 
 ```bash
-rm install.py* && wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && python install.py
+rm -rf install.py* && wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && python install.py
 ```
 
 ## :book: PERMISOS DE NGINX
