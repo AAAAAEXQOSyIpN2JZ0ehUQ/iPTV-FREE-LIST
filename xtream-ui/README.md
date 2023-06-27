@@ -29,7 +29,7 @@ chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
 chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx 
 ```
 ```bash
-/home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 ```
 
 
@@ -39,10 +39,10 @@ NOTE 2: Si no puede ver las nuevas tablas de la base de datos después de una nu
 touch /home/xtreamcodes/iptv_xtream_codes/admin/.update 
 ```
 ```bash
-/home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 ```
 ```bash
-/home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 ```
 
 ------------------------------------
