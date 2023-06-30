@@ -6,43 +6,42 @@ de sus transmiciones.
 
 ## :book: Installation
 ```bash
-apt-get update -y && 
-apt-get upgrade -y && 
-apt-get autoremove -y && 
-apt-get autoclean -y && 
-apt-get iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate &&  
-apt-get dpkg-reconfigure tzdata && 
-apt-get install software-properties-common build-essential && 
-apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
+sudo apt-get update -y && 
+sudo apt-get upgrade -y && 
+sudo apt-get autoremove -y && 
+sudo apt-get autoclean -y && 
+sudo apt-get iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate && 
+sudo apt-get dpkg-reconfigure tzdata && 
+sudo apt-get install software-properties-common build-essential && 
+sudo apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
 ```
 
 ```bash
-rm -rf install.py* && wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && python install.py
+sudo rm -rf install.py* && sudo wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && sudo python install.py 
 ```
 
-## :book: PERMISOS DE NGINX
+## :book: Nginx permissions
 NOTE 1: Si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los binarios de nginx sean ejecutables.
 ```bash
-chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp 
+sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
 ```
 ```bash
-chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx 
+sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
 ```
 ```bash
-./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
-
-## :book: TABLAS Y ARCHIVO .UPDATE
+## :book: Tables and .update Files
 NOTE 2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, agregue un archivo llamado ".update" en la carpeta de administración.
 ```bash
-touch /home/xtreamcodes/iptv_xtream_codes/admin/.update 
+sudo touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 ```
 ```bash
-./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 ```bash
-./home/xtreamcodes/iptv_xtream_codes/start_services.sh 
+sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
 ------------------------------------
