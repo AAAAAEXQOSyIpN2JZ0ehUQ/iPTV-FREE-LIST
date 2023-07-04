@@ -10,7 +10,7 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget  && chmod 777 * && ./*
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh* && ./gestorextream-ui.sh*
 ```
 DATA: 
 
