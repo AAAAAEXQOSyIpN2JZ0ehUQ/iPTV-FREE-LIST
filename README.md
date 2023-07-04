@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
+2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
 ## :octocat: Credits
 1. illuminati Dev Team - Contributor 
