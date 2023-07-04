@@ -59,7 +59,7 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 
 backups_file () {
 echo -e "\n\033[1;36mAGUARDE...\n\033[0m"
-rm -rf $HOME/download.sh* && bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/xtream-ui/download.sh)
+rm -rf $HOME/download.sh* && bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/download.sh)
 }
 
 while true $x != "ok"
@@ -77,7 +77,7 @@ echo -e "\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mINSTALL LIBR
 [\033[1;36m00\033[1;31m] \033[1;37m• \033[1;33mEXIT THE MENU \033[1;32m<\033[1;33m<\033[1;31m< \033[1;31m"
 echo ""
 echo ""
-echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]──[\033[1;37m~\033[1;32m]─[listener]"
+echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]─[\033[1;37m~\033[1;32m]─[$USER]"
 echo -ne "\033[1;32m└─────► $ "; read x
 
 case "$x" in 
