@@ -26,5 +26,5 @@ DATA:
 ## :octocat: Credits
 1. illuminati Dev Team - Contributor 
 ```
-â˜† https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  âƒ˜âƒ¤ê™°âœ° ] â˜†
+☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
