@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
+## :book: iptv-org Project
+* https://github.com/iptv-org/iptv
+
 ## :book: IPTV Free Web
 * https://tvplusgratis.com/
 * https://televisiongratishd.com/
@@ -31,7 +34,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://cxtvenvivo.com/
 * https://megamundotv.com/
 * http://locomotiontv.com/envivo
-* https://m3u.cl/
+* https://m3u.cl/ https://m3u.cl/lista/
 
 ## :book: Pelisplus | Cuevana | Gnula
 * https://www3.pelisplus.ws
@@ -55,7 +58,3 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
-
-* http://51.222.85.85:81/hls/loco/index.m3u8
-* https://m3u.cl/lista/
-* https://github.com/iptv-org/iptv
