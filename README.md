@@ -44,7 +44,6 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.pelisnow.to
 * https://www.cuevana.nz
 * https://gnula.nu/
-* https://gnula.su/
 * https://www.seriesflix.video
 
 ## :book: Installation Utilities
