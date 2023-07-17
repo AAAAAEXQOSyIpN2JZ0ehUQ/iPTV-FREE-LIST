@@ -18,7 +18,6 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: IPTV Free Web
 * https://tvplusgratis.com/
-* https://televisionlibre.net/
 * https://televisiongratishd.com/
 * https://tvconexion.com/
 * https://cablegratis.online/
@@ -29,14 +28,24 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://plex.tv/watch-free-tv/
 * https://lookhu.tv/live-tv/
 * https://televall.online/
-* https://totv.org/
 * https://cxtvenvivo.com/
-* https://github.com/iptv-org/iptv
-* https://megamundotv.com/ver-futurama-24-horas
-* https://futurama-latino.net
+* https://megamundotv.com/
 * http://locomotiontv.com/envivo
-* http://51.222.85.85:81/hls/loco/index.m3u8
-* https://m3u.cl/lista/
+* https://m3u.cl/
+
+## :book: Pelisplus | Cuevana | Gnula
+* https://www3.pelisplus.ws
+* https://www4.pelisplushd.lat
+* https://www.pelisplus.cx
+* https://www.pelisplus.icu
+* https://www.pelisplus2.io
+* https://www.pelisflix2.lat
+* https://www.pelisplushd.nz
+* https://www.pelisnow.to
+* https://www.cuevana.nz
+* https://gnula.nu/
+* https://gnula.su/
+* https://www.seriesflix.video
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
@@ -47,3 +56,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
+
+* http://51.222.85.85:81/hls/loco/index.m3u8
+* https://m3u.cl/lista/
+* https://github.com/iptv-org/iptv
