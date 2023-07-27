@@ -50,7 +50,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.seriesflix.video
 
 ## :book: Installation Utilities
-1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/tree/master/xtream-ui)
+1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
 ## :octocat: Credits
