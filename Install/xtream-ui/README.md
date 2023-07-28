@@ -6,16 +6,29 @@ de sus transmiciones.
 
 ## :book: Installation
 ```bash
-apt-get update -y && 
-apt-get upgrade -y && 
-apt-get autoremove -y && 
-apt-get autoclean -y && 
-apt-get iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate && 
-apt-get dpkg-reconfigure tzdata && 
-apt-get install software-properties-common build-essential && 
+apt-get update -y 
+```
+```bash
+apt-get upgrade -y
+```
+```bash
+apt-get autoremove -y
+```
+```bash
+apt-get autoclean -y
+```
+```bash
+apt-get iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate
+```
+```bash
+apt-get dpkg-reconfigure tzdata
+```
+```bash
+apt-get install software-properties-common build-essential
+```
+```bash
 apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
 ```
-
 ```bash
 rm -rf install.py* && wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && python install.py 
 ```
