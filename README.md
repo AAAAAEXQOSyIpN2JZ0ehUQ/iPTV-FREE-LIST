@@ -54,7 +54,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
 ## :octocat: Credits
-1. illuminati Dev Team - Contributor 
+1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```

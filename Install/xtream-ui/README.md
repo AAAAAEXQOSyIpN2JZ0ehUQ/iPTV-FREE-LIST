@@ -76,7 +76,7 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 
 ## :octocat: Credits
-1. illuminati Dev Team - Contributor 
+1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```

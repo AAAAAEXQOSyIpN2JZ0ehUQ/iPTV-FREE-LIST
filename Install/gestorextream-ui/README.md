@@ -24,7 +24,7 @@ DATA:
 * Se recomienda usar una distro nueva o formateada
 
 ## :octocat: Credits
-1. illuminati Dev Team - Contributor 
+1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor 
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
