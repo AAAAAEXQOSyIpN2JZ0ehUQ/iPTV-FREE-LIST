@@ -80,7 +80,7 @@ echo -e "\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mINSTALL LIBR
 echo ""
 echo ""
 echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]─[\033[1;37m~\033[1;32m]─[$(pwd)]"
-echo -ne "\033[1;32m└─────► $ "; read x
+echo -ne "\033[1;32m└─────► > "; read x
 
 case "$x" in 
    1 | 01)
@@ -112,7 +112,7 @@ case "$x" in
    ;;
    *)
    echo -e "\n\033[1;31mInvalid Option !\033[0m"
-   sleep 2
+   sleep 1
 esac
 done
 }
