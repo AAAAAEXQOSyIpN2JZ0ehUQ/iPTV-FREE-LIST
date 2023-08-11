@@ -10,15 +10,15 @@ x="ok"
 # apt-get dpkg-reconfigure tzdata
 # apt-get install software-properties-common build-essential 
 # apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y 
-
+# 
 # rm -rf install.py* 
 # wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py 
 # python install.py 
-
+# 
 # chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp 
 # chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx 
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh
-
+# 
 # touch /home/xtreamcodes/iptv_xtream_codes/admin/.update 
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh 
@@ -79,7 +79,7 @@ echo -e "\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mINSTALL LIBR
 [\033[1;36m00\033[1;31m] \033[1;37m• \033[1;33mEXIT THE MENU \033[1;32m<\033[1;33m<\033[1;31m< \033[1;31m"
 echo ""
 echo ""
-echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]─[\033[1;37m~\033[1;32m]─[$(pwd)]"
+echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]─[\033[1;37m~\033[1;32m]─[\033[1;37m$(pwd)\033[1;32m]"
 echo -ne "\033[1;32m└─────► > "; read x
 
 case "$x" in 
