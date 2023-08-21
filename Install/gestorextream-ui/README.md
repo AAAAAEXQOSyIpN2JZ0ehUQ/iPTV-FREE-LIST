@@ -12,7 +12,7 @@ apt-get upgrade -y
 ```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh* && ./gestorextream-ui.sh*
 ```
-DATA: Para ejecutar nuevamente solo use el comando "bash gestorextream-ui.sh"
+DATA: Para ejecutar nuevamente solo use el comando bash gestorextream-ui.sh o ./gestorextream-ui.sh
 
 ## :scroll: Changelog
 **VERSION: 1.0 BETA**
