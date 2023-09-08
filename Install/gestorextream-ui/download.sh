@@ -28,4 +28,4 @@ wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/sub_xtreamcodes_re
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/main_xtreamcodes_reborn.tar.gz
 cd
 
-# fin
+# Fin del script
