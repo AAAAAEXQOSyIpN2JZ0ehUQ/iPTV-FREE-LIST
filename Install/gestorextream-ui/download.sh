@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd
 mkdir xtreamui_mirror
 cd xtreamui_mirror
 wget https://bitbucket.org/emre1393/xtreamui_mirror/raw/a86a37504b2f619201467fdd121a9786d7da1793/README.md
