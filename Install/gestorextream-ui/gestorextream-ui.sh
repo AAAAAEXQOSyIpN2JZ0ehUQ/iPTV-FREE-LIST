@@ -24,7 +24,7 @@ x="ok"
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 #-----------------------------------------------------------------------------------
 
-gestorinstall ()
+fun_gestorinstall ()
 {
 install_libraries () {
 echo -e "\n\033[1;36mAGUARDE...\n\033[0m"
@@ -59,7 +59,7 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 
 backups_file () {
 echo -e "\n\033[1;36mAGUARDE...\n\033[0m"
-rm -rf $HOME/download.sh* && bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/download.sh)
+rm -rf $HOME/download.sh* && bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/download.sh)
 }
 
 while true $x != "ok"
@@ -93,7 +93,8 @@ case "$x" in
    install_xtreamui
    exit;
    ;;
-   3 | 03)   clear
+   3 | 03)
+   clear
    permissions_nginx
    echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
    ;;
@@ -108,17 +109,17 @@ case "$x" in
    echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
    ;;
    0 | 00)
-   echo -e "\033[1;31mSaindo...\033[0m"
+   echo -e "\n\033[1;31mExit...\033[0m"
    sleep 1
    clear
    exit;
    ;;
    *)
-   echo -e "\n\033[1;31mInvalid Option !\033[0m"
+   echo -e "\n\033[0;31mInvalid option !\033[0m"
    sleep 1
 esac
 done
 }
-gestorinstall
+fun_gestorinstall
 
-#fin scripts
+# Fin del script
