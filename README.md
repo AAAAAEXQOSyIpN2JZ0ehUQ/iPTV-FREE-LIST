@@ -1,6 +1,6 @@
 ﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
-# iPTV FREE LIST
+# iPTV FREE LIST 
 Canales de TV y Radios online
 
 ## :book: List Type
@@ -49,7 +49,6 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
 ## :book: m3u.cl Project
-
 M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
