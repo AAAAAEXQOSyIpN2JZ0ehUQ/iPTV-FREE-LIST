@@ -16,9 +16,6 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :book: iptv-org Project
-* https://github.com/iptv-org/iptv
-
 ## :book: IPTV Free Web
 * https://tvplusgratis.com/
 * https://televisiongratishd.com/
@@ -47,11 +44,36 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.cuevanahd.net
 * https://gnula.nu
 * https://www.vepelis.com
-* https://www.pelisplus.cx 	off
-* https://www.pelisplus.icu	off
-* https://www.pelisplus2.io 	off
-* https://www.cuevana.nz 	off
-* https://www.seriesflix.video	off
+
+## :book: iptv-org Project
+* https://github.com/iptv-org/iptv
+
+## :book: m3u.cl Project
+
+## :book: M3U Chile | m3u.cl
+```bash
+https://m3u.cl/lista/CL.m3u
+```
+## :book: Lista IPTV Música | m3u.cl
+```bash
+https://m3u.cl/lista/musica.m3u
+```
+## :book: Lista IPTV TOP | m3u.cl
+```bash
+https://m3u.cl/lista/top.m3u
+```
+## :book: Lista IPTV Total | m3u.cl
+```bash
+https://m3u.cl/lista/total.m3u
+```
+## :book: Lista IPTV Religiosos | m3u.cl
+```bash
+https://m3u.cl/lista/religiosos.m3u
+```
+## :book: Lista IPTV Adultos
+```bash
+https://m3u.cl/lista/XXX.m3u
+```
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
