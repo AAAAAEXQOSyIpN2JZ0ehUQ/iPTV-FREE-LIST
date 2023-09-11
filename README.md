@@ -46,31 +46,31 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.vepelis.com
 
 ## :book: iptv-org Project
-* https://github.com/iptv-org/iptv
+* [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
 ## :book: m3u.cl Project
 
-**M3U Chile**
+M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
 ```
-**Lista IPTV Música**
+Lista IPTV Música
 ```bash
 https://m3u.cl/lista/musica.m3u
 ```
-**Lista IPTV TOP**
+Lista IPTV TOP
 ```bash
 https://m3u.cl/lista/top.m3u
 ```
-**Lista IPTV Total**
+Lista IPTV Total
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
-**Lista IPTV Religiosos**
+Lista IPTV Religiosos
 ```bash
 https://m3u.cl/lista/religiosos.m3u
 ```
-**Lista IPTV Adultos**
+Lista IPTV Adultos
 ```bash
 https://m3u.cl/lista/XXX.m3u
 ```
