@@ -50,27 +50,27 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: m3u.cl Project
 
-## :book: M3U Chile | m3u.cl
+**M3U Chile**
 ```bash
 https://m3u.cl/lista/CL.m3u
 ```
-## :book: Lista IPTV Música | m3u.cl
+**Lista IPTV Música**
 ```bash
 https://m3u.cl/lista/musica.m3u
 ```
-## :book: Lista IPTV TOP | m3u.cl
+**Lista IPTV TOP**
 ```bash
 https://m3u.cl/lista/top.m3u
 ```
-## :book: Lista IPTV Total | m3u.cl
+**Lista IPTV Total**
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
-## :book: Lista IPTV Religiosos | m3u.cl
+**Lista IPTV Religiosos**
 ```bash
 https://m3u.cl/lista/religiosos.m3u
 ```
-## :book: Lista IPTV Adultos
+**Lista IPTV Adultos**
 ```bash
 https://m3u.cl/lista/XXX.m3u
 ```
