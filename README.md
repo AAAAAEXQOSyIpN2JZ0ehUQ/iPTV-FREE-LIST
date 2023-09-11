@@ -41,17 +41,18 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.pelisplushd.nz
 * https://pelisplushd.video
 * https://www3.pelisplus.ws
-* https://www.pelisplus.cx
-* https://www.pelisplus.icu
-* https://www.pelisplus2.io
 * https://www.pelisflix2.lat
 * https://v3.pelisplusgo.icu
 * https://www.pelisnow.to
-* https://www.cuevana.nz
 * https://www.cuevanahd.net
 * https://gnula.nu
 * https://www.vepelis.com
-* https://www.seriesflix.video
+
+* https://www.pelisplus.cx 	off
+* https://www.pelisplus.icu	off
+* https://www.pelisplus2.io 	off
+* https://www.cuevana.nz 	off
+* https://www.seriesflix.video	off
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
