@@ -17,21 +17,21 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 ## :book: IPTV Free Web
-* https://tvplusgratis.com/
-* https://televisiongratishd.com/
-* https://tvconexion.com/
-* https://cablegratis.online/
-* https://telefullenvivo.com/
-* https://supertelevisionhd.com/axn-en-vivo/
-* https://chilenotas.com/
+* https://tvplusgratis.com
+* https://televisiongratishd.com
+* https://tvconexion.com
+* https://cablegratis.online
+* https://telefullenvivo.com
+* https://supertelevisionhd.com/axn-en-vivo
+* https://chilenotas.com
 * https://pluto.tv/es
-* https://plex.tv/watch-free-tv/
-* https://lookhu.tv/live-tv/
-* https://televall.online/
-* https://cxtvenvivo.com/
-* https://megamundotv.com/
+* https://plex.tv/watch-free-tv
+* https://lookhu.tv/live-tv
+* https://televall.online
+* https://cxtvenvivo.com
+* https://megamundotv.com
 * http://locomotiontv.com/envivo
-* https://m3u.cl/
+* https://m3u.cl
 
 ## :book: Pelisplus | Cuevana | Gnula
 * https://www4.pelisplushd.lat
