@@ -47,7 +47,6 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://www.cuevanahd.net
 * https://gnula.nu
 * https://www.vepelis.com
-
 * https://www.pelisplus.cx 	off
 * https://www.pelisplus.icu	off
 * https://www.pelisplus2.io 	off
