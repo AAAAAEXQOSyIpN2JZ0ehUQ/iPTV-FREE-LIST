@@ -31,7 +31,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://cxtvenvivo.com/
 * https://megamundotv.com/
 * http://locomotiontv.com/envivo
-* https://m3u.cl/ https://m3u.cl/lista/
+* https://m3u.cl/
 
 ## :book: Pelisplus | Cuevana | Gnula
 * https://www4.pelisplushd.lat
@@ -57,6 +57,14 @@ Lista IPTV Música
 ```bash
 https://m3u.cl/lista/musica.m3u
 ```
+Lista IPTV Religiosos
+```bash
+https://m3u.cl/lista/religiosos.m3u
+```
+Lista IPTV Adultos
+```bash
+https://m3u.cl/lista/XXX.m3u
+```
 Lista IPTV TOP
 ```bash
 https://m3u.cl/lista/top.m3u
@@ -65,13 +73,8 @@ Lista IPTV Total
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
-Lista IPTV Religiosos
 ```bash
-https://m3u.cl/lista/religiosos.m3u
-```
-Lista IPTV Adultos
-```bash
-https://m3u.cl/lista/XXX.m3u
+https://m3u.cl/lista/
 ```
 
 ## :book: Installation Utilities
