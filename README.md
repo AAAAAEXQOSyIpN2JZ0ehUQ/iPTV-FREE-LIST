@@ -73,9 +73,6 @@ Lista IPTV Total
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
-```bash
-https://m3u.cl/lista/
-```
 
 ## :book: Installation Utilities
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
