@@ -113,6 +113,11 @@ case "$x" in
    backups_file
    echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
    ;;
+   update)
+   clear
+   wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh* && ./gestorextream-ui.sh*
+   echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
+   ;;
    0 | 00)
    echo -e "\n\033[1;31mExit...\033[0m"
    sleep 1
