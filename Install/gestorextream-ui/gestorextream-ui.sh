@@ -1,6 +1,11 @@
 #!/bin/bash
 x="ok"
 
+if [ "$EUID" -ne 0 ]; then
+  echo -e "\n\033[1;31mPor favor, ejecuta este script como root o usando sudo\n\033[0m"
+  exit
+fi
+
 #-----------------------------------------------------------------------------------
 # apt-get update -y 
 # apt-get upgrade -y 
@@ -23,11 +28,6 @@ x="ok"
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 # /home/xtreamcodes/iptv_xtream_codes/start_services.sh 
 #-----------------------------------------------------------------------------------
-
-if [ "$EUID" -ne 0 ]; then
-  echo -e "\n\033[1;31mPor favor, ejecuta este script como root o usando sudo\n\033[0m"
-  exit
-fi
 
 fun_gestorinstall ()
 {
@@ -141,7 +141,7 @@ case "$x" in
    update)
    clear
    echo -e "\n\033[1;36mAGUARDE...\n\033[1;32m"
-   wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh*
+   rm -rf $HOME/gestorextream-ui.sh* && wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh*
    echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
    ;;
    0 | 00)
