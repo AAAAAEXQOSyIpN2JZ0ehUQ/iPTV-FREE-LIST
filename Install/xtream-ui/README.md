@@ -18,19 +18,24 @@ apt-get autoremove -y
 apt-get autoclean -y
 ```
 ```bash
-apt-get iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate
+apt-get install iperf3 wget git curl nano bzip2 gzip zip unzip dos2unix iftop htop nload speedometer screen perl bc ca-certificate -y
 ```
 ```bash
 apt-get dpkg-reconfigure tzdata
 ```
 ```bash
-apt-get install software-properties-common build-essential
+apt-get install software-properties-common build-essential -y
 ```
 ```bash
 apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
 ```
 ```bash
-rm -rf install.py* && wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py && python install.py 
+rm -rf install.py* 
+``````bash
+wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py 
+```
+```bash
+python install.py 
 ```
 
 ## :book: Nginx permissions
@@ -56,12 +61,6 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 ```bash
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
-
-------------------------------------
-**Criar Usurio**                  
-* adduser USUARIO                 
-* usermod -aG sudo USUARIO        
-------------------------------------
 
 ## :heavy_exclamation_mark: Requirements
 * Un sistema operativo Ubuntu 18.04 Server x86_64
