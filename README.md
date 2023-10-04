@@ -36,8 +36,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: Pelisplus | Cuevana | Gnula
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
-* https://pelisplushd.video
-* https://www3.pelisplus.ws
+* https://pelisplushd.so/
 * https://pelisflix2.lat
 * https://v3.pelisplusgo.icu
 * https://pelisnow.to
