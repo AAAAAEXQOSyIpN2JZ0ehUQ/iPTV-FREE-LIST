@@ -35,15 +35,15 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: Pelisplus | Cuevana | Gnula
 * https://www4.pelisplushd.lat
-* https://www.pelisplushd.nz
+* https://pelisplushd.nz
 * https://pelisplushd.video
 * https://www3.pelisplus.ws
-* https://www.pelisflix2.lat
+* https://pelisflix2.lat
 * https://v3.pelisplusgo.icu
-* https://www.pelisnow.to
-* https://www.cuevanahd.net
+* https://pelisnow.to
+* https://cuevanahd.net
 * https://gnula.nu
-* https://www.vepelis.com
+* https://vepelis.com
 
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
