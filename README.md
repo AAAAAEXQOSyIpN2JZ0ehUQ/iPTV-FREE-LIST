@@ -47,7 +47,22 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
+IPTV Lenguaje Español
+```bash
+https://iptv-org.github.io/iptv/languages/spa.m3u
+```
+La lista de reproducción incluye todos los canales conocidos excepto los canales para adultos.
+```bash
+https://iptv-org.github.io/iptv/index.m3u
+```
+Lista de reproducción principal
+```bash
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+```
+
 ## :book: m3u.cl Project
+* [WebSite](https://m3u.cl) - Oficial
+
 M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
