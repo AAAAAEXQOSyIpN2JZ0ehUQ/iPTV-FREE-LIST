@@ -31,7 +31,8 @@ apt-get apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
 ```
 ```bash
 rm -rf install.py* 
-``````bash
+```
+```bash
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py 
 ```
 ```bash
