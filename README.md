@@ -41,6 +41,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://v3.pelisplusgo.icu
 * https://pelisnow.to
 * https://cuevanahd.net
+* https://ww3.cuevana8.com/
 * https://gnula.nu
 * https://vepelis.com
 
