@@ -5,12 +5,12 @@ Canales de TV y Radios online
 
 ## :book: List Type
 
-Playlist (Online TV)
+iPTV Free List - TV (Online TV Playlist)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Playlist (Online Adults)
+iPTV Free List - XXX (Online Adults Playlist)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
