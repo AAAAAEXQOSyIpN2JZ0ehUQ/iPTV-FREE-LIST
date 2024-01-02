@@ -64,14 +64,15 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 ```
 
 ## :heavy_exclamation_mark: Requirements
-* Un sistema operativo Ubuntu 18.04 Server x86_64
-* Se recomienda usar una distro nueva o formateada
+* Version recomendada: Ubuntu 18.04 Server x86_64
+* Se sugiere utilizar una distribución reciente o recién formateada
+* El idioma predeterminado es el ingles
+
+## :book: Utilities of the developer
 * Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
 * Guia No Oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
 * Instalcion Fuente [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
-
-## :book: Utilities of the developer
-**[Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)**
+** [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)**
 * https://bitbucket.org/emre1393/xtreamui_mirror/
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads/
 

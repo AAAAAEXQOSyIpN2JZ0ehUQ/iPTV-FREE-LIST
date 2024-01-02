@@ -12,16 +12,16 @@ apt-get upgrade -y
 ```bash
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh* && ./gestorextream-ui.sh*
 ```
-DATA: Para ejecutar nuevamente solo use el comando bash gestorextream-ui.sh o ./gestorextream-ui.sh
+DATA: Para usar nuevamente ejecute la secuencia: ./gestorextream-ui.sh
 
 ## :scroll: Changelog
 **VERSION: 1.0 BETA**
-* Correcciones y mejoras
-
+* [Details](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/versao)
 
 ## :heavy_exclamation_mark: Requirements
-* Un sistema operativo Ubuntu 18.04 Server x86_64
-* Se recomienda usar una distro nueva o formateada
+* Version recomendada: Ubuntu 18.04 Server x86_64
+* Se sugiere utilizar una distribución reciente o recién formateada
+* El idioma predeterminado es el ingles
 
 ## :octocat: Credits
 1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor 
