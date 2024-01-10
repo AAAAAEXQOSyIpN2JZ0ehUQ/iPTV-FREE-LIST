@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
+* Donaciones por [PayPal](https://paypal.me/jonyriverasepulveda)
+
 ## :book: IPTV Free Web
 * https://tvplusgratis.com
 * https://televisiongratishd.com
