@@ -3,6 +3,8 @@
 # iPTV FREE LIST 
 Canales de TV y Radios online
 
+* Donaciones por [PayPal](https://paypal.me/jonyriverasepulveda)
+
 ## :book: List Type
 
 iPTV Free List - TV (Online TV Playlist)
@@ -15,8 +17,6 @@ iPTV Free List - XXX (Online Adults Playlist)
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-
-* Donaciones por [PayPal](https://paypal.me/jonyriverasepulveda)
 
 ## :book: IPTV Free Web
 * https://tvplusgratis.com
