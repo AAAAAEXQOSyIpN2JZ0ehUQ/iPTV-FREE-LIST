@@ -28,6 +28,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 
+**IPTV Free Web**
 * https://tvplusgratis.com
 * https://televisiongratishd.com
 * https://tvconexion.com
@@ -54,6 +55,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 
+**Pelisplus | Cuevana | Gnula**
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
 * https://pelisplushd.so
