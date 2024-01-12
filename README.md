@@ -18,6 +18,14 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
+**SE RECOMIENDA VER EL CONTENIDO EN LOS NAVEGADORES [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) 
+O[LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMENTOS PARA BLOQUEAR EL CONTENIDO ADS EMERGENTE**
+
+1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
+3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
+4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+
 ## :book: IPTV Free Web
 * https://tvplusgratis.com
 * https://televisiongratishd.com
