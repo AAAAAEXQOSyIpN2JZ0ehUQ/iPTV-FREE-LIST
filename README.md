@@ -62,11 +62,11 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://pelisflix2.lat
 * https://v3.pelisplusgo.icu
 * https://pelisnow.to
+* https://vepelis.com
 * https://cuevanahd.net
 * https://ww3.cuevana8.com
 * https://www.ircuevana.com
 * https://gnula.nu
-* https://vepelis.com
 
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
