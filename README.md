@@ -31,18 +31,18 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 **IPTV Free Web**
 * https://tvplusgratis.com
 * https://televisiongratishd.com
+* https://supertelevisionhd.net/axn-en-vivo
+* https://supertelevisionhd.com/axn-en-vivo off
+* https://chilenotas.com
 * https://tvconexion.com
 * https://cablegratis.online
 * https://telefullenvivo.com
-* https://supertelevisionhd.net/axn-en-vivo
-* https://supertelevisionhd.com/axn-en-vivo
-* https://chilenotas.com
 * https://pluto.tv/es
 * https://plex.tv/watch-free-tv
 * https://lookhu.tv/live-tv
 * https://televall.online
 * https://cxtvenvivo.com
-* https://megamundotv.com
+* https://megamundotv.com 	off
 * http://locomotiontv.com/envivo
 * https://m3u.cl
 
