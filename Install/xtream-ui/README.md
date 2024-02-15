@@ -73,7 +73,6 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * Instalcion Fuente [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
 * Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
 * Librerias del developer [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
-* https://bitbucket.org/emre1393/xtreamui_mirror
 * https://bitbucket.org/emre1393/xtreamui_mirror/downloads
 
 ## :octocat: Credits
