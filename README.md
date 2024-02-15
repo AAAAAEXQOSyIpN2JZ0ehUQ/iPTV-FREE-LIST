@@ -37,14 +37,14 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://tvconexion.com
 * https://cablegratis.online
 * https://telefullenvivo.com
-* https://pluto.tv/es
-* https://plex.tv/watch-free-tv
 * https://lookhu.tv/live-tv
 * https://televall.online
 * https://cxtvenvivo.com
 * https://megamundotv.com 	off
 * http://locomotiontv.com/envivo
 * https://m3u.cl
+* https://pluto.tv/es
+* https://plex.tv/watch-free-tv
 
 ## :book: Pelisplus | Cuevana | Gnula
 
@@ -60,11 +60,11 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
 * https://pelisplushd.so
-* https://pelisflix2.lat
-* https://v3.pelisplusgo.icu
-* https://pelisnow.to
+* https://pelisflix2.lat off
+* https://v3.pelisplusgo.icu off
+* https://pelisnow.to off
 * https://vepelis.com
-* https://cuevanahd.net
+* https://cuevanahd.net off
 * https://ww3.cuevana8.com
 * https://www.ircuevana.com
 * https://gnula.nu
