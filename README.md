@@ -34,6 +34,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://tvconexion.com
 * https://cablegratis.online
 * https://telefullenvivo.com
+* https://supertelevisionhd.net/axn-en-vivo
 * https://supertelevisionhd.com/axn-en-vivo
 * https://chilenotas.com
 * https://pluto.tv/es

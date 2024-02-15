@@ -113,6 +113,12 @@ echo -e "\033[1;32m┌─[\033[1;31mwhat do you want to do\033[1;32m]──[\033
 echo -ne "\033[1;32m└─────► > "; read x
 
 case "$x" in 
+   update)
+   clear
+   echo -e "\n\033[1;36mAGUARDE...\n\033[1;32m"
+   rm -rf $HOME/gestorextream-ui.sh* && wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh*
+   echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
+   ;;
    1 | 01)
    clear
    install_libraries
@@ -136,12 +142,6 @@ case "$x" in
    5 | 05)
    clear
    backups_file
-   echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
-   ;;
-   update)
-   clear
-   echo -e "\n\033[1;36mAGUARDE...\n\033[1;32m"
-   rm -rf $HOME/gestorextream-ui.sh* && wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/gestorextream-ui/gestorextream-ui.sh && chmod +x gestorextream-ui.sh*
    echo -ne "\n\033[1;31mENTER \033[1;33mto return to \033[1;32mMENU!\033[0m"; read
    ;;
    0 | 00)
