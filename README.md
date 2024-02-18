@@ -32,7 +32,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://tvplusgratis.com
 * https://televisiongratishd.com
 * https://supertelevisionhd.net/axn-en-vivo
-* https://supertelevisionhd.com off
+* https://supertelevisionhd.com/axn-en-vivo 
 * https://chilenotas.com
 * https://tvconexion.com
 * https://cablegratis.online
