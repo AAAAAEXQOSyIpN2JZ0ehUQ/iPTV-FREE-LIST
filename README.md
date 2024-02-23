@@ -20,8 +20,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: IPTV Free Web
 
-**SE RECOMIENDA VER EL CONTENIDO EN LOS NAVEGADORES [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) 
-O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMENTOS PARA BLOQUEAR EL CONTENIDO ADS EMERGENTE**
+**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) O [LIBREWOLF](https://librewolf.net/), Y SE SUGIERE UTILIZAR EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
@@ -48,8 +47,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 
 ## :book: Pelisplus | Cuevana | Gnula
 
-**SE RECOMIENDA VER EL CONTENIDO EN LOS NAVEGADORES [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) 
-O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMENTOS PARA BLOQUEAR EL CONTENIDO ADS EMERGENTE**
+**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) O [LIBREWOLF](https://librewolf.net/), Y SE SUGIERE UTILIZAR EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
@@ -69,7 +67,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://www.ircuevana.com
 * https://gnula.nu
 
-## :book: ADD-ONS Optional
+## :book: ADD-ONS Optional 
 
 1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 2. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
