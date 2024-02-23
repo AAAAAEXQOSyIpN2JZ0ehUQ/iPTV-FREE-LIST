@@ -26,6 +26,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 
 **IPTV Free Web**
 * https://tvplusgratis.com
@@ -53,6 +54,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 
 **Pelisplus | Cuevana | Gnula**
 * https://www4.pelisplushd.lat
