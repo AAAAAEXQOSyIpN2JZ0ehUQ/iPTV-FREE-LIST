@@ -20,7 +20,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: IPTV Free Web
 
-**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) O [LIBREWOLF](https://librewolf.net/), Y SE SUGIERE UTILIZAR EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
+**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
@@ -49,7 +49,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: Pelisplus | Cuevana | Gnula
 
-**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/) O [LIBREWOLF](https://librewolf.net/), Y SE SUGIERE UTILIZAR EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
+**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
