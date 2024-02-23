@@ -69,7 +69,7 @@ O [LIBREWOLF](https://librewolf.net/) CON LAS SIGUIENTES EXTENCIONES O COMPLEMEN
 * https://www.ircuevana.com
 * https://gnula.nu
 
-## :ADD-ONS Optional
+## :book: ADD-ONS Optional
 
 1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 2. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
