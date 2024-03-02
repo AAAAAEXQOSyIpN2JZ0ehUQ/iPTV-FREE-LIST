@@ -28,6 +28,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 6. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+7. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 
 **IPTV Free Web**
 * https://tvplusgratis.com
@@ -57,6 +58,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 6. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+7. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 
 **Pelisplus | Cuevana | Gnula**
 * https://www4.pelisplushd.lat
