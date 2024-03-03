@@ -16,10 +16,11 @@ iPTV Free List - XXX (Online Adults Playlist)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
-
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-- [Descargar SimpleTV 0.5.0 b12 (32-bit 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
+-- [Descargar SimpleTV 0.5.0 b12 (32-bit 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
+
+----------------------------------------------------------------------------------------------------------------
 
 **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
@@ -51,7 +52,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://pluto.tv/es
 * https://plex.tv/watch-free-tv
 
-## :book: Pelisplus | Cuevana | Gnula
+## :book: Pelisplus Cuevana Gnula
 
 **Pelisplus | Cuevana | Gnula**
 * https://www4.pelisplushd.lat
