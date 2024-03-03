@@ -16,7 +16,7 @@ iPTV Free List - XXX (Online Adults Playlist)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
-[Descargar SimpleTV 0.5.0 b12 (32-bit 64bit)](https://www.filehorse.com/es/buscar?q=simpletv)
+[Descargar SimpleTV 0.5.0 b12 (32-bit 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
 
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
