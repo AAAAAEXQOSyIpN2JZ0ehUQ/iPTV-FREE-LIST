@@ -56,6 +56,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://ww3.cuevana8.com
 * https://www.ircuevana.com
 * https://gnula.nu
+* https://www.lacartoons.com
 
 **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
