@@ -25,21 +25,21 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: IPTV Free Web
 
 **IPTV Free Web**
-* https://tvplusgratis.com/axn-en-vivo.html
+* https://tvplusgratis.com/axn-en-vivo.html off
 * https://television-libre.online/en-vivo/axn/
 * https://telegratishd.com/axn-en-vivo/
-* https://vertvcable.com
+* https://vertvcable.com off
 * https://televisiongratishd.com
-* https://supertelevisionhd.net
+* https://supertelevisionhd.net off
 * https://supertelevisionhd.com
 * https://chilenotas.com
-* https://tvconexion.com
+* https://tvconexion.com off
 * https://cablegratis.online
 * https://telefullenvivo.com
-* https://lookhu.tv/live-tv
 * https://televall.online
+* https://lookhu.tv/ off
 * https://cxtvenvivo.com
-* https://megamundotv.com 	off
+* https://megamundotv.com off
 * http://locomotiontv.com/envivo
 * https://m3u.cl
 * https://pluto.tv/es
@@ -59,6 +59,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://ww3.cuevana8.com off
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
+* https://wwi.cuevana3.vip
 * https://gnula.nu
 * https://www.lacartoons.com
 
