@@ -53,10 +53,11 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://pelisplushd.so
 * https://pelisflix2.lat off
 * https://v3.pelisplusgo.icu off
-* https://pelisnow.to off
+* https://pelisnow.to
 * https://vepelis.com
 * https://cuevanahd.net off
-* https://ww3.cuevana8.com
+* https://ww3.cuevana8.com off
+* https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://gnula.nu
 * https://www.lacartoons.com
@@ -64,7 +65,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
-2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
+2. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
 3. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 4. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
@@ -76,6 +77,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 2. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
 3. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
+4. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
