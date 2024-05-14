@@ -1,9 +1,13 @@
-﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
+![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
 # iPTV FREE LIST 
 Canales de TV y Radios online
 
-* Donaciones por [PayPal](https://paypal.me/jonyriverasepulveda)
+## Donaciones por PayPal 
+
+Si crees que esto es útil y te ahorra mucho trabajo, muchos costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sería genial.
+
+[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :book: List Type
 
@@ -79,6 +83,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 3. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
 4. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
+5. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
