@@ -69,7 +69,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://gnula.nu
 * https://www.lacartoons.com
 * https://animeflv.io/
-* https://animeyt.pro/anime/kaiju-no-8-audio-latino-capitulo-1/
+* https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
 
 ----------------------------------------------------------------------------------------------------------------
 
