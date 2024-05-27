@@ -5,7 +5,7 @@ Canales de TV y Radios online
 
 ## Donaciones por PayPal 
 
-Si crees que esto es útil y te ahorra mucho trabajo, muchos costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sería genial.
+Si crees que esto es útil y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sería genial.
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
@@ -29,21 +29,20 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: IPTV Free Web
 
 **IPTV Free Web**
-* https://tvplusgratis.com/axn-en-vivo.html off
-* https://television-libre.online/en-vivo/axn/
-* https://telegratishd.com/axn-en-vivo/
-* https://vertvcable.com off
+* https://tvplusgratis2.com/axn-en-vivo.html
+* https://telegratishd.com/axn-en-vivo.html
+* https://telegratishd.com/axn-en-vivo
+* https://vertvcable.com
 * https://televisiongratishd.com
-* https://supertelevisionhd.net off
+* https://supertelevisionhd.net
+* https://supertelevisionhd.com/page/8/
 * https://supertelevisionhd.com
 * https://chilenotas.com
-* https://tvconexion.com off
 * https://cablegratis.online
 * https://telefullenvivo.com
 * https://televall.online
-* https://lookhu.tv/ off
+* https://lookhu.tv 
 * https://cxtvenvivo.com
-* https://megamundotv.com off
 * http://locomotiontv.com/envivo
 * https://m3u.cl
 * https://pluto.tv/es
@@ -51,39 +50,53 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ## :book: Pelisplus Cuevana Gnula
 
-**Pelisplus | Cuevana | Gnula**
+**Pelisplus | Cuevana | Gnula | Anime**
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
 * https://pelisplushd.so
-* https://pelisflix2.lat off
-* https://v3.pelisplusgo.icu off
+* https://pelisflix2.charity
+* https://pelisplusgo.vip
 * https://pelisnow.to
 * https://vepelis.com
-* https://cuevanahd.net off
-* https://ww3.cuevana8.com off
+
+* https://cuevanahd-3.com/inicio-2
+* https://wli3.cuevana3.vip
+* https://cuevana8.live
+* https://25.cuevana4.me/
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
+
 * https://gnula.nu
+
 * https://www.lacartoons.com
+* https://animeflv.io/
+* https://animeyt.pro/anime/kaiju-no-8-audio-latino-capitulo-1/
+
+----------------------------------------------------------------------------------------------------------------
 
 **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 3. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
-4. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-5. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
-6. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-7. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+4. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+5. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+6. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
+7. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+8. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+
+## :book: ADD-ONS Temas 
+
+1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
+1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
 ## :book: ADD-ONS Optional 
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-3. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
-4. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
-5. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+
+----------------------------------------------------------------------------------------------------------------
 
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
@@ -129,7 +142,9 @@ Lista IPTV Total
 https://m3u.cl/lista/total.m3u
 ```
 
-## :book: Installation Utilities
+----------------------------------------------------------------------------------------------------------------
+
+## :book: Useful Projects
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
