@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 -- [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
+
 -- [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html)
 
 ----------------------------------------------------------------------------------------------------------------
