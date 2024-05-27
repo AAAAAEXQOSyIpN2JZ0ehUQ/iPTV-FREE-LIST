@@ -22,9 +22,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
--- [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
-
--- [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html)
+* [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
+* [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -60,7 +59,6 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://pelisplusgo.vip
 * https://pelisnow.to
 * https://vepelis.com
-
 * https://cuevanahd-3.com/inicio-2
 * https://wli3.cuevana3.vip
 * https://cuevana8.live
@@ -68,9 +66,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
-
 * https://gnula.nu
-
 * https://www.lacartoons.com
 * https://animeflv.io/
 * https://animeyt.pro/anime/kaiju-no-8-audio-latino-capitulo-1/
