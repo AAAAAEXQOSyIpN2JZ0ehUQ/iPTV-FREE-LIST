@@ -1,11 +1,11 @@
-![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
+﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
 # iPTV FREE LIST 
 Canales de TV y Radios online
 
 ## Donaciones por PayPal 
 
-Si crees que esto es útil y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sería genial.
+Si crees que esto es Ãºtil y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeÃ±a cantidad serÃ­a genial.
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
@@ -73,7 +73,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ----------------------------------------------------------------------------------------------------------------
 
-**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
+**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÃ“N.**
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
@@ -100,9 +100,21 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
-Lista IPTV Principal completa
+Lista de reproducción principal 
 ```bash
 https://iptv-org.github.io/iptv/index.m3u
+```
+Agrupados por categoría 
+```bash
+https://iptv-org.github.io/iptv/index.category.m3u
+```
+Agrupados por idioma 
+```bash
+https://iptv-org.github.io/iptv/index.language.m3u
+```
+Agrupados por país 
+```bash
+https://iptv-org.github.io/iptv/index.country.m3u
 ```
 Lista IPTV Lenguaje Español
 ```bash
@@ -116,7 +128,7 @@ M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
 ```
-Lista IPTV Música
+Lista IPTV MÃºsica
 ```bash
 https://m3u.cl/lista/musica.m3u
 ```
@@ -144,7 +156,7 @@ https://m3u.cl/lista/total.m3u
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
 ## :octocat: Credits
-1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor 
+1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
