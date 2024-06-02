@@ -97,8 +97,19 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ----------------------------------------------------------------------------------------------------------------
 
+
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Listas de reproducción:
+
+```
+https://iptv-org.github.io/iptv/index.category.m3u
+```
 
 Lista de reproducción principal 
 ```bash
@@ -120,6 +131,8 @@ Lista IPTV Lenguaje Español
 ```bash
 https://iptv-org.github.io/iptv/languages/spa.m3u
 ```
+
+</details>
 
 ## :book: m3u.cl Project
 * [WebSite](https://m3u.cl) - Oficial
