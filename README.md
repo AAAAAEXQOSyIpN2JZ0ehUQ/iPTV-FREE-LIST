@@ -5,7 +5,7 @@ Canales de TV y Radios online
 
 ## Donaciones por PayPal 
 
-Si crees que esto es Ãºtil y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeÃ±a cantidad serÃ­a genial.
+Si crees que esto es util y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sera genial.
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
