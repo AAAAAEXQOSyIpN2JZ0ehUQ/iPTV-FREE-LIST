@@ -100,17 +100,13 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
-Lista IPTV Lenguaje Español
-```bash
-https://iptv-org.github.io/iptv/languages/spa.m3u
-```
-Lista IPTV canales conocidos excepto los canales para adultos
+Lista IPTV Principal completa
 ```bash
 https://iptv-org.github.io/iptv/index.m3u
 ```
-Lista IPTV Principal completa
+Lista IPTV Lenguaje Español
 ```bash
-https://iptv-org.github.io/iptv/index.nsfw.m3u
+https://iptv-org.github.io/iptv/languages/spa.m3u
 ```
 
 ## :book: m3u.cl Project
