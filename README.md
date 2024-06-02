@@ -22,8 +22,11 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-* [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv)
-* [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html)
+* [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv/) - Free media player for Windows.
+* [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html/) - Free media player for Windows.
+* [Descargar PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
+* [Descargar Megacubo](https://megacubo.tv) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
+* [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -137,6 +140,12 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 ## :book: m3u.cl Project
 * [WebSite](https://m3u.cl) - Oficial
 
+<details>
+<summary>Expand</summary>
+<br>
+
+Listas de reproducción:
+
 M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
@@ -161,6 +170,8 @@ Lista IPTV Total
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
+
+</details>
 
 ----------------------------------------------------------------------------------------------------------------
 
