@@ -32,7 +32,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 **IPTV Free Web**
 * https://tvplusgratis2.com/axn-en-vivo.html
 * https://telegratishd.com/axn-en-vivo.html
-* https://telegratishd.com/axn-en-vivo
+* https://television-libre.online/en-vivo/axn/
 * https://vertvcable.com
 * https://televisiongratishd.com
 * https://supertelevisionhd.net
