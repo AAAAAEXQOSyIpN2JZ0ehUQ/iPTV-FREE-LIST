@@ -39,24 +39,24 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ## :film_strip: IPTV Free Web
 
 **IPTV Free Web**
-<a href="https://tvplusgratis2.com/axn-en-vivo.html" target="_blank">https://tvplusgratis2.com/axn-en-vivo.html</a>
-<a href="https://telegratishd.com/axn-en-vivo.html" target="_blank">https://telegratishd.com/axn-en-vivo.html</a>
-<a href="https://television-libre.online/en-vivo/axn/" target="_blank">https://television-libre.online/en-vivo/axn/</a>
-<a href="https://vertvcable.com" target="_blank">https://vertvcable.com</a>
-<a href="https://televisiongratishd.com" target="_blank">https://televisiongratishd.com</a>
-<a href="https://supertelevisionhd.net" target="_blank">https://supertelevisionhd.net</a>
-<a href="https://supertelevisionhd.com/page/8/" target="_blank">https://supertelevisionhd.com/page/8/</a>
-<a href="https://supertelevisionhd.com" target="_blank">https://supertelevisionhd.com</a>
-<a href="https://chilenotas.com" target="_blank">https://chilenotas.com</a>
-<a href="https://cablegratis.online" target="_blank">https://cablegratis.online</a>
-<a href="https://telefullenvivo.com" target="_blank">https://telefullenvivo.com</a>
-<a href="https://televall.online" target="_blank">https://televall.online</a>
-<a href="https://lookhu.tv" target="_blank">https://lookhu.tv</a>
-<a href="https://cxtvenvivo.com" target="_blank">https://cxtvenvivo.com</a>
-<a href="http://locomotiontv.com/envivo" target="_blank">http://locomotiontv.com/envivo</a>
-<a href="https://m3u.cl" target="_blank">https://m3u.cl</a>
-<a href="https://pluto.tv/es" target="_blank">https://pluto.tv/es</a>
-<a href="https://plex.tv/watch-free-tv" target="_blank">https://plex.tv/watch-free-tv</a>
+- <a href="https://tvplusgratis2.com/axn-en-vivo.html" target="_blank">TV Plus Gratis 2</a>
+- <a href="https://telegratishd.com/axn-en-vivo.html" target="_blank">TeleGratisHD</a>
+- <a href="https://television-libre.online/en-vivo/axn/" target="_blank">Television Libre Online</a>
+- <a href="https://vertvcable.com" target="_blank">VertvCable</a>
+- <a href="https://televisiongratishd.com" target="_blank">Television Gratis HD</a>
+- <a href="https://supertelevisionhd.net" target="_blank">Super Television HD</a>
+- <a href="https://supertelevisionhd.com/page/8/" target="_blank">Super Television HD - Página 8</a>
+- <a href="https://chilenotas.com" target="_blank">Chilenotas</a>
+- <a href="https://cablegratis.online" target="_blank">Cable Gratis Online</a>
+- <a href="https://telefullenvivo.com" target="_blank">Tele Full En Vivo</a>
+- <a href="https://televall.online" target="_blank">Televall Online</a>
+- <a href="https://lookhu.tv" target="_blank">Lookhu TV</a>
+- <a href="https://cxtvenvivo.com" target="_blank">CXTV En Vivo</a>
+- <a href="http://locomotiontv.com/envivo" target="_blank">Locomotion TV En Vivo</a>
+- <a href="https://m3u.cl" target="_blank">M3U</a>
+- <a href="https://pluto.tv/es" target="_blank">Pluto TV</a>
+- <a href="https://plex.tv/watch-free-tv" target="_blank">Plex TV - Watch Free TV</a>
+
 
 ## :film_strip: Pelisplus Cuevana Gnula
 
