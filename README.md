@@ -1,6 +1,6 @@
 ﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
-# iPTV FREE LIST 
+## :information_source: iPTV FREE LIST 
 Canales de TV y Radios online
 
 ## Donaciones por PayPal 
@@ -9,7 +9,7 @@ Si crees que esto es util y te ahorra mucho tiempo, y te ahorras costos y te per
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
-## :book: List Type
+## :satellite: List Type
 
 iPTV Free List - TV (Online TV Playlist)
 ```bash
@@ -20,7 +20,9 @@ iPTV Free List - XXX (Online Adults Playlist)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
-DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+:memo: Notas: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+
+## :desktop_computer: App Windows
 
 <details>
 <summary>Expand</summary>
@@ -33,9 +35,8 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
 </details>
-----------------------------------------------------------------------------------------------------------------
 
-## :book: IPTV Free Web
+## :film_frames: IPTV Free Web
 
 **IPTV Free Web**
 * https://tvplusgratis2.com/axn-en-vivo.html
@@ -57,7 +58,7 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 * https://pluto.tv/es
 * https://plex.tv/watch-free-tv
 
-## :book: Pelisplus Cuevana Gnula
+## :film_frames: Pelisplus Cuevana Gnula
 
 **Pelisplus | Cuevana | Gnula | Anime**
 * https://www4.pelisplushd.lat
@@ -81,7 +82,13 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 
 ----------------------------------------------------------------------------------------------------------------
 
-**ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÃ“N.**
+:memo: Notas: **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
+
+<details>
+<summary>Expand</summary>
+<br>
+
+## :gear: ADD-ONS Main 
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
@@ -91,22 +98,21 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 6. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 7. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 
-## :book: ADD-ONS Temas 
+## :gear: ADD-ONS Temas 
 
 1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
 1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
-## :book: ADD-ONS Optional 
+## :gear: ADD-ONS Optional 
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 2. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
 3. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 4. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
-----------------------------------------------------------------------------------------------------------------
+</details>
 
-
-## :book: iptv-org Project
+## :satellite: iptv-org Project
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
 <details>
@@ -142,7 +148,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 
 </details>
 
-## :book: m3u.cl Project
+## :satellite: m3u.cl Project
 * [WebSite](https://m3u.cl) - Oficial
 
 <details>
@@ -178,14 +184,12 @@ https://m3u.cl/lista/total.m3u
 
 </details>
 
-----------------------------------------------------------------------------------------------------------------
-
-## :book: Useful Projects
+## :file_folder: Useful Projects
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
-## :octocat: Credits
-1. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor
+## :octocat: Credits## :email: Contacto
+* :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
 ```
