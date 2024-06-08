@@ -39,24 +39,24 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ## :film_strip: IPTV Free Web
 
 **IPTV Free Web**
-* [https://tvplusgratis2.com/axn-en-vivo.html](https://tvplusgratis2.com/axn-en-vivo.html)
-* [https://telegratishd.com/axn-en-vivo.html](https://telegratishd.com/axn-en-vivo.html)
-* [https://television-libre.online/en-vivo/axn/](https://television-libre.online/en-vivo/axn/)
-* [https://vertvcable.com](https://vertvcable.com)
-* [https://televisiongratishd.com](https://televisiongratishd.com)
-* [https://supertelevisionhd.net](https://supertelevisionhd.net)
-* [https://supertelevisionhd.com/page/8/](https://supertelevisionhd.com/page/8/)
-* [https://supertelevisionhd.com](https://supertelevisionhd.com)
-* [https://chilenotas.com](https://chilenotas.com)
-* [https://cablegratis.online](https://cablegratis.online)
-* [https://telefullenvivo.com](https://telefullenvivo.com)
-* [https://televall.online](https://televall.online)
-* [https://lookhu.tv](https://lookhu.tv)
-* [https://cxtvenvivo.com](https://cxtvenvivo.com)
-* [http://locomotiontv.com/envivo](http://locomotiontv.com/envivo)
-* [https://m3u.cl](https://m3u.cl)
-* [https://pluto.tv/es](https://pluto.tv/es)
-* [https://plex.tv/watch-free-tv](https://plex.tv/watch-free-tv)
+* https://tvplusgratis2.com/axn-en-vivo.html
+* https://telegratishd.com/axn-en-vivo.html
+* https://television-libre.online/en-vivo/axn/
+* https://vertvcable.com
+* https://televisiongratishd.com
+* https://supertelevisionhd.net
+* https://supertelevisionhd.com/page/8/
+* https://supertelevisionhd.com
+* https://chilenotas.com
+* https://cablegratis.online
+* https://telefullenvivo.com
+* https://televall.online
+* https://lookhu.tv 
+* https://cxtvenvivo.com
+* http://locomotiontv.com/envivo
+* https://m3u.cl
+* https://pluto.tv/es
+* https://plex.tv/watch-free-tv
 
 ## :film_strip: Pelisplus Cuevana Gnula
 
@@ -81,6 +81,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
 * https://hentaiyt.net/
 
+:memo: Notas: Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 ----------------------------------------------------------------------------------------------------------------
 
 :memo: Notas: **ES ACONSEJABLE VISUALIZAR ESTE CONTENIDO EN NAVEGADORES COMO [LIBREWOLF](https://librewolf.net/) o [FIREFOX](https://www.mozilla.org/es-CL/firefox/new/), Y SE SUGIERE UTILIZAR E INSTALAR LAS EXTENSIONES (COMPLEMENTOS) QUE BLOQUEEAN MOLESTOS ANUNCIOS EMERGENTES PARA UNA MEJOR EXPERIENCIA DE NAVEGACIÓN.**
