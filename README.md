@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 <summary>Expand</summary>
 <br>
 
-- [Descargar SimpleTV 0.5.0 b12 (32-bit, 64-bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv/) - Reproductor multimedia gratuito para Windows.
+- [Descargar SimpleTV 0.5.0 b12 (32-bit, 64-bit) para Windows](https://www.filehorse.com/es/descargar-simpletv/#review) - Reproductor multimedia gratuito para Windows.
 - [Descargar VLC media player (32-bit, 64-bit) para Windows](https://www.videolan.org/vlc/index.es.html/) - Reproductor multimedia gratuito y de código abierto para múltiples plataformas.
 - [Descargar PotPlayer](https://potplayer.daum.net/) - Reproductor multimedia gratuito para Windows.
 - [Descargar Megacubo](https://megacubo.tv) - Aplicación de IPTV de código abierto multiplataforma con múltiples características como favoritos, recomendaciones basadas en EPG, etc. Compatible con listas M3U, Xtream y dispositivos Mag.
