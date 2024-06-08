@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 </details>
 
-## :film_frames: IPTV Free Web
+## :film_strip: IPTV Free Web
 
 **IPTV Free Web**
 * https://tvplusgratis2.com/axn-en-vivo.html
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * https://pluto.tv/es
 * https://plex.tv/watch-free-tv
 
-## :film_frames: Pelisplus Cuevana Gnula
+## :film_strip: Pelisplus Cuevana Gnula
 
 **Pelisplus | Cuevana | Gnula | Anime**
 * https://www4.pelisplushd.lat
