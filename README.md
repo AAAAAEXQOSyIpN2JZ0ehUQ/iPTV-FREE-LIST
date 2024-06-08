@@ -9,20 +9,20 @@ Si crees que esto es util y te ahorra mucho tiempo, y te ahorras costos y te per
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
-## :satellite: List Type
+## :satellite: Tipo de lista
 
-iPTV Free List - TV (Online TV Playlist)
+Lista gratuita de iPTV - TV (lista de reproducción de TV en línea) 
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-iPTV Free List - XXX (Online Adults Playlist)
+Lista gratuita de iPTV - XXX (Lista de reproducción para adultos en línea) 
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 :memo: Notas: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :desktop_computer: App Windows
+## :desktop_computer: Aplicación de Windows 
 
 <details>
 <summary>Expand</summary>
@@ -36,9 +36,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 </details>
 
-## :film_strip: IPTV Free Web
+## :film_strip: IPTV Web Gratis 
 
-**IPTV Free Web**
+**IPTV Web Gratis**
 * https://tvplusgratis2.com/axn-en-vivo.html
 * https://telegratishd.com/axn-en-vivo.html
 * https://television-libre.online/en-vivo/axn/
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * https://pluto.tv/es
 * https://plex.tv/watch-free-tv
 
-## :film_strip: Pelisplus Cuevana Gnula
+## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
 **Pelisplus | Cuevana | Gnula | Anime**
 * https://www4.pelisplushd.lat
@@ -85,13 +85,11 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 :memo: Notas: **Es aconsejable visualizar este contenido en navegadores como [librewolf](https://librewolf.Net/) o [firefox](https://www.Mozilla.Org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
 
-----------------------------------------------------------------------------------------------------------------
-
 <details>
 <summary>Expand</summary>
 <br>
 
-## :gear: ADD-ONS Main 
+## :gear: ADD-ONS Principal 
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
@@ -106,7 +104,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
 1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
-## :gear: ADD-ONS Optional 
+## :gear: ADD-ONS Opcional
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 2. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
@@ -115,7 +113,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 </details>
 
-## :satellite: iptv-org Project
+----------------------------------------------------------------------------------------------------------------
+
+## :satellite: iptv-org Proyecto
 * [GitHub](https://github.com/iptv-org/iptv) - Oficial 
 
 <details>
@@ -151,7 +151,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 
 </details>
 
-## :satellite: m3u.cl Project
+## :satellite: m3u.cl Proyecto
 * [WebSite](https://m3u.cl) - Oficial
 
 <details>
@@ -187,11 +187,11 @@ https://m3u.cl/lista/total.m3u
 
 </details>
 
-## :file_folder: Useful Projects
+## :file_folder: Proyectos útiles 
 1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
 2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
 
-## :octocat: Credits## :email: Contacto
+## :email: Contacto 
 * :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:
 ```
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
