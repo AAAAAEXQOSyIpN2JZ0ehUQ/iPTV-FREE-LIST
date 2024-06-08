@@ -79,6 +79,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * https://www.lacartoons.com
 * https://animeflv.io/
 * https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
+* https://hentaiyt.net/
 
 ----------------------------------------------------------------------------------------------------------------
 
