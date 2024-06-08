@@ -39,24 +39,24 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ## :film_strip: IPTV Free Web
 
 **IPTV Free Web**
-* https://tvplusgratis2.com/axn-en-vivo.html
-* https://telegratishd.com/axn-en-vivo.html
-* https://television-libre.online/en-vivo/axn/
-* https://vertvcable.com
-* https://televisiongratishd.com
-* https://supertelevisionhd.net
-* https://supertelevisionhd.com/page/8/
-* https://supertelevisionhd.com
-* https://chilenotas.com
-* https://cablegratis.online
-* https://telefullenvivo.com
-* https://televall.online
-* https://lookhu.tv 
-* https://cxtvenvivo.com
-* http://locomotiontv.com/envivo
-* https://m3u.cl
-* https://pluto.tv/es
-* https://plex.tv/watch-free-tv
+* [https://tvplusgratis2.com/axn-en-vivo.html](https://tvplusgratis2.com/axn-en-vivo.html){:target="_blank"}
+* [https://telegratishd.com/axn-en-vivo.html](https://telegratishd.com/axn-en-vivo.html){:target="_blank"}
+* [https://television-libre.online/en-vivo/axn/](https://television-libre.online/en-vivo/axn/){:target="_blank"}
+* [https://vertvcable.com](https://vertvcable.com){:target="_blank"}
+* [https://televisiongratishd.com](https://televisiongratishd.com){:target="_blank"}
+* [https://supertelevisionhd.net](https://supertelevisionhd.net){:target="_blank"}
+* [https://supertelevisionhd.com/page/8/](https://supertelevisionhd.com/page/8/){:target="_blank"}
+* [https://supertelevisionhd.com](https://supertelevisionhd.com){:target="_blank"}
+* [https://chilenotas.com](https://chilenotas.com){:target="_blank"}
+* [https://cablegratis.online](https://cablegratis.online){:target="_blank"}
+* [https://telefullenvivo.com](https://telefullenvivo.com){:target="_blank"}
+* [https://televall.online](https://televall.online){:target="_blank"}
+* [https://lookhu.tv](https://lookhu.tv){:target="_blank"}
+* [https://cxtvenvivo.com](https://cxtvenvivo.com){:target="_blank"}
+* [http://locomotiontv.com/envivo](http://locomotiontv.com/envivo){:target="_blank"}
+* [https://m3u.cl](https://m3u.cl){:target="_blank"}
+* [https://pluto.tv/es](https://pluto.tv/es){:target="_blank"}
+* [https://plex.tv/watch-free-tv](https://plex.tv/watch-free-tv){:target="_blank"}
 
 ## :film_strip: Pelisplus Cuevana Gnula
 
