@@ -22,12 +22,17 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
+<details>
+<summary>Expand</summary>
+<br>
+
 * [Descargar SimpleTV 0.5.0 b12 (32-bit, 64bit) para Windows](https://www.filehorse.com/es/buscar?q=simpletv/) - Free media player for Windows.
-* [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html/) - Free media player for Windows.
+* [Descargar VLC media player (32-bit, 64bit) para Windows](https://www.videolan.org/vlc/index.es.html/) - Free and open-source portable cross-platform media player.
 * [Descargar PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 * [Descargar Megacubo](https://megacubo.tv) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
 * [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
+</details>
 ----------------------------------------------------------------------------------------------------------------
 
 ## :book: IPTV Free Web
@@ -81,11 +86,10 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 3. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
-4. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
-5. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
-6. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-7. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-8. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+4. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
+6. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+7. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 
 ## :book: ADD-ONS Temas 
 
@@ -95,8 +99,9 @@ DATA: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, S
 ## :book: ADD-ONS Optional 
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-3. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+2. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
+3. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+4. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
 ----------------------------------------------------------------------------------------------------------------
 
