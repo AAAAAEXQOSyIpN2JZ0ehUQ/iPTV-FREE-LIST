@@ -65,10 +65,10 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * El idioma predeterminado es el inglés
 
 ## :blue_book: Utilidades del desarrollador
-* Guia Oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
-* Instalcion Fuente externas [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
+* Guia oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
+* Instalcion fuente externas [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/) | [Foroisp](http://foroisp.com/threads/1776-Cabecera-IPTV-Servidor-Xtream-UI-Parte-6)
 * Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/@emre1393)
-* Librerias del developer [Instalador](https://bitbucket.org/emre1393/xtreamui_mirror/src/master) | [Downloads](https://bitbucket.org/emre1393/xtreamui_mirror/downloads)
+* Desarrollador del proyecto [Instalador](https://bitbucket.org/emre1393/xtreamui_mirror/src/master) | [Librerias](https://bitbucket.org/emre1393/xtreamui_mirror/downloads)
 
 ## :email: Contacto 
 * :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:
