@@ -250,7 +250,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :film_strip: IPTV Web Gratis 
 
-**IPTV Web Gratis**
 * https://tvplusgratis2.com/axn-en-vivo.html
 * https://telegratishd.com/axn-en-vivo.html
 * https://television-libre.online/en-vivo/axn/
@@ -272,7 +271,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
-**Pelisplus | Cuevana | Gnula | Anime**
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
 * https://pelisplushd.so
@@ -328,7 +326,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ----------------------------------------------------------------------------------------------------------------
 
 ## :satellite: lista iptv-org
-* [GitHub](https://github.com/iptv-org/iptv) - Oficial Proyecto
+* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
 <details>
 <summary>Expand</summary>
@@ -364,7 +362,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 </details>
 
 ## :satellite: lista m3u-cl 
-* [WebSite](https://m3u.cl) - Oficial Proyecto
+* [Pagina web](https://m3u.cl) - Proyecto Oficial 
 
 <details>
 <summary>Expand</summary>
