@@ -31,6 +31,7 @@ timedatectl
 # Descargar e instalar Xtream-UI
 ```bash
 cd /tmp
+rm -rf install.py*
 wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py
 python install.py
 ```
