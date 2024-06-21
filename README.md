@@ -1,4 +1,4 @@
-﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
+﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/blob/master/Imagenes/Que-es-IPTV.png)
  
 # iPTV-FREE-LIST
  

@@ -1,10 +1,13 @@
-﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
+﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/Xtreme-UI.png)
 
 # xTream-UI-r22f
 
 ## :information_source: Descripción
 Xtream-UI es un sistema de gestión de recursos que incluye una base de datos 
 de sus transmiciones.
+
+:memo: Notas: Asegúrate de tener privilegios de administrador para ejecutar los comandos. 
+Antes de la instalación, verifica la documentación oficial para cualquier cambio o actualización.
 
 ## :computer: Actualizar el sistema
 ```bash
@@ -61,7 +64,7 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * Se sugiere utilizar una distribución reciente o recién formateada
 * El idioma predeterminado es el inglés
 
-:memo: Notas: Asegúrate de tener privilegios de administrador para ejecutar los comandos. Antes de la instalación, verifica la documentación oficial para cualquier cambio o actualización.
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
 
 ## :blue_book: Utilidades del desarrollador
 * Guia Oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
