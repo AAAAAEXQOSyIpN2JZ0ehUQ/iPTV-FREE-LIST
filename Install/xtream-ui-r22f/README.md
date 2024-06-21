@@ -65,10 +65,9 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 
 ## :blue_book: Utilidades del desarrollador
 * Guia Oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
-* Instalcion Fuente [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
-* Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/playlist?list=PLJB51brdC_w7dTDxi1MPqiuk3JH5U2ekn)
-* Librerias del developer [Emre1393](https://bitbucket.org/emre1393/xtreamui_mirror/src/master)
-* https://bitbucket.org/emre1393/xtreamui_mirror/downloads
+* Instalcion Fuente externas [Lofertech Ver aqui](https://lofertech.com/xtream-ui-installation) | [Mexiqueando Ver aqui](https://mexiqueando.site/xtream-ui-r22f-instalacion-paso-a-paso/)
+* Tutoriales Emre1393 [Ver aqui](https://www.youtube.com/@emre1393)
+* Librerias del developer [Instalador](https://bitbucket.org/emre1393/xtreamui_mirror/src/master) [Downloads](https://bitbucket.org/emre1393/xtreamui_mirror/downloads)
 
 ## :email: Contacto 
 * :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:

@@ -400,8 +400,8 @@ https://m3u.cl/lista/total.m3u
 </details>
 
 ## :file_folder: Proyectos útiles 
-1. [XTREAM-UI R22F /CODES](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui)
-2. [GERENCIAR XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/gestorextream-ui)
+1. [XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xtream-ui-r22f)
+2. [Administrador XTREAM-UI R22F](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/administrador-ui-r22f)
 
 ## :email: Contacto 
 * :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:
