@@ -1,4 +1,5 @@
 ﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/Xtreme-UI.png)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
 
 # xTream-UI-r22f
 
@@ -63,8 +64,6 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * Versión recomendada: Ubuntu 18.04 Server x86_64
 * Se sugiere utilizar una distribución reciente o recién formateada
 * El idioma predeterminado es el inglés
-
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
 
 ## :blue_book: Utilidades del desarrollador
 * Guia Oficial [Website Ver aqui](https://xtream-ui.org/xtream-ui-r22f) | [Github Ver aqui](https://github.com/xtream-ui-org/xtream-ui-install)
