@@ -1,6 +1,6 @@
 ﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/blob/master/Imagenes/xtreamui-R22F.jpg)
 
-# xtream-ui
+# xtream-ui-r22f
 
 ## :information_source: Descripción
 Xtream-UI es un sistema de gestión de recursos que incluye una base de datos 
