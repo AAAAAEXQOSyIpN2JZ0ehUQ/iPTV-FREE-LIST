@@ -1,6 +1,8 @@
 ﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
-## :information_source: iPTV FREE LIST 
+# iPTV-FREE-LIST
+ 
+## :information_source: Descripción
 Una colección gratuita de enlaces para transmitir canales de TV y radios en línea.
 
 Esta lista proporciona una variedad de opciones para ver y escuchar contenido 
@@ -32,7 +34,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 :memo: Notas: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :desktop_computer: Aplicación de Windows 
+## :desktop_computer: Aplicaciones  
 
 <details>
 <summary>Expand</summary>
