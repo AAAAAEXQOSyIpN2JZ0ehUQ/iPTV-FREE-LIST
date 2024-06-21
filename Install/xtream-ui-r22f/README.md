@@ -40,7 +40,7 @@ wget https://bitbucket.org/emre1393/xtreamui_mirror/downloads/install.py
 python install.py
 ```
 
-## :bulb: Nginx permissions
+## :bulb: Permisos nginx
 NOTE 1: Si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los 
 binarios de nginx sean ejecutables.
 ```bash
@@ -49,7 +49,7 @@ chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
-## :bulb: Tables and .update Files
+## :bulb: Tablas y archivos .update
 NOTE 2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, 
 agregue un archivo llamado ".update" en la carpeta de administración.
 ```bash
