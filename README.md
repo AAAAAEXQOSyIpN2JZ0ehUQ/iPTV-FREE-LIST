@@ -1,11 +1,21 @@
 ﻿![logo](https://cuarteldelmetal.com/wp-content/uploads/2023/04/Que-es-IPTV.webp)
  
 ## :information_source: iPTV FREE LIST 
-Canales de TV y Radios online
+Una colección gratuita de enlaces para transmitir canales de TV y radios en línea.
+
+Esta lista proporciona una variedad de opciones para ver y escuchar contenido 
+multimedia desde tu dispositivo. Incluye enlaces a plataformas populares de 
+transmisión de televisión en vivo, así como estaciones de radio en línea. Es una 
+excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin 
+necesidad de una suscripción paga.
 
 ## Donaciones por PayPal 
 
-Si crees que esto es util y te ahorra mucho tiempo, y te ahorras costos y te permite dormir mucho mejor, entonces donar una pequeña cantidad sera genial.
+Este proyecto de IPTV gratuito está diseñado para ahorrarte tiempo y dinero, 
+ofreciéndote una experiencia de transmisión sin complicaciones. Si este recurso te 
+ha sido útil, considera hacer una donación a través de PayPal., Cualquier contribución, 
+por pequeña que sea, es muy apreciada y ayuda a mantener este proyecto en 
+marcha. ¡Gracias por tu apoyo!
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
