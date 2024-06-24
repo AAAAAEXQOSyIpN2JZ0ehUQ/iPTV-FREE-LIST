@@ -283,15 +283,21 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://cuevanahd-3.com/inicio-2
 * https://wli3.cuevana3.vip
 * https://cuevana8.live
-* https://25.cuevana4.me/
+* https://25.cuevana4.me
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
 * https://gnula.nu
+* https://ww5.series24.org/
 * https://www.lacartoons.com
-* https://animeflv.io/
+* https://animeflv.io
 * https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
-* https://hentaiyt.net/
+* https://hentaiyt.net
+* https://ww5.series24.org
+* https://animeflv1.net
+* https://ww3.animeonline.ninja/
+* https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2
+* https://freakelitex.com/kaiju-no-8-episodio-11-horario-donde-ver-online-y-fecha-de-estreno/
 
 :memo: Notas: Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
