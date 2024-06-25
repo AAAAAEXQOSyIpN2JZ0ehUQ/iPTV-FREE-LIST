@@ -2,82 +2,80 @@
 
 #*****************************
 #
-# Canales de TV y Radios online
+# Canales de TV y Radios Online
 # Recopilado por: iLLuminati Dev Team
-# https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+# Contacto: https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
 #
 # Playlist: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_TV.m3u
 #
-#*****************************
-#
-# Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+# Esta lista puede ser utilizada en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #*****************************
-#   Index
+#
+# Índice
 #   
-#   Lo Mas Visto
-#   Chileiptv
-#   M3U Chile
-#   Lao TV
-#   Canales Chilenos
-#   Canales Chilenos Regionales
-#   Diarios Chilenos
-#   Canales de Animacion
-#   Canales Juveniles
-#   Canales de Cultura
-#   Canales de Latinos
-#   Canales de Cine
-#   Canales de Noticias
-#   Canales de Deportes
-#   Canales Argentinos
-#   Canales Brasileños
-#   Canales Bolivianos
-#   Canales Colombianos
-#   Canales Costarricenses
-#   Canales Dominicanos
-#   Canales Ecuatorianos
-#   Canales Españoles
-#   Canales Guatemaltecos
-#   Canales Haitianos
-#   Canales Hondureños
-#   Canales Mexicanos
-#   Canales Panameños
-#   Canales Paraguayos
-#   Canales Peruanos
-#   Canales Puertorriqueños
-#   Canales Salvadoreños
-#   Canales Uruguayos
-#   Canales Venezolanos
-#   Canales Australianos
-#   Canales Ingleses
-#   Canales Italianos
-#   Canales Japoneses
-#   Canales Koreanos
-#   Canales Miscelaneos
-#   Radios Chilenas
-#   Radios Chilenas con Video
-#   Radios Internacionales
-#   Radios Online
-#   Canales de Musica
-#   Musica
+# - Lo Mas Visto
+# - Chileiptv
+# - M3U Chile
+# - Lao TV
+# - Canales Chilenos
+# - Canales Chilenos Regionales
+# - Diarios Chilenos
+# - Canales de Animacion
+# - Canales Juveniles
+# - Canales de Cultura
+# - Canales de Latinos
+# - Canales de Cine
+# - Canales de Noticias
+# - Canales de Deportes
+# - Canales Argentinos
+# - Canales Brasileños
+# - Canales Bolivianos
+# - Canales Colombianos
+# - Canales Costarricenses
+# - Canales Dominicanos
+# - Canales Ecuatorianos
+# - Canales Españoles
+# - Canales Guatemaltecos
+# - Canales Haitianos
+# - Canales Hondureños
+# - Canales Mexicanos
+# - Canales Panameños
+# - Canales Paraguayos
+# - Canales Peruanos
+# - Canales Puertorriqueños
+# - Canales Salvadoreños
+# - Canales Uruguayos
+# - Canales Venezolanos
+# - Canales Australianos
+# - Canales Ingleses
+# - Canales Italianos
+# - Canales Japoneses
+# - Canales Koreanos
+# - Canales Miscelaneos
+# - Radios Chilenas
+# - Radios Chilenas con Video
+# - Radios Internacionales
+# - Radios Online
+# - Canales de Musica
+# - Musica
 #   
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://saved.im/mtg4nda2znr0/img_iptv_logo.png" group-title="iPTV Free List", - 30/07/2021 Actualizado -
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRTEVoyGO2nMzjbXBvJqNq6jvHU8w7SFP0A&s" group-title="Leeme",- [COLOR cyan]Actualizado 30/07/2021[/COLOR] -
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]Lo Mas Visto[/COLOR]-
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]iPTV Free List XXX[/COLOR]-
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="Lo Mas Visto", TV Educa Chile | HD
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2da9f99-dd2f-4581-bcde-f9bbea999fdb/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZGE5Zjk5LWRkMmYtNDU4MS1iY2RlLWY5YmJlYTk5OWZkYlwvZGNwZmVnMS04ODlmMWQ1NC05Zjk4LTQ3ZDEtODdlMi0zMWY5MTAzZTJlMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e9WbdzFKsQchtSR1wBZmdY1WgcLW7wS5AomJVJMCTcA" group-title="Lo Mas Visto", Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
-http://51.222.85.85:81/hls/loco/34353063000.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Lo Mas Visto", Retro Cartoon | SD
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
