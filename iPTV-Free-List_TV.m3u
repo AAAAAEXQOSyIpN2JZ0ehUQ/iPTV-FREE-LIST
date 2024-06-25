@@ -62,12 +62,12 @@
 #   
 #*****************************
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRTEVoyGO2nMzjbXBvJqNq6jvHU8w7SFP0A&s" group-title="Leeme",- [COLOR cyan]Actualizado 30/07/2021[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 30/07/2021[/COLOR] -
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]iPTV Free List TV[/COLOR]-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRTEVoyGO2nMzjbXBvJqNq6jvHU8w7SFP0A&s" group-title="Lo Mas Visto", -[COLOR red]iPTV Free List TV[/COLOR]-
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="Lo Mas Visto", TV Educa Chile | HD
