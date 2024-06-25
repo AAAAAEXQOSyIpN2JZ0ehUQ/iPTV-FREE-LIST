@@ -67,7 +67,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]iPTV Free List XXX[/COLOR]-
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Mas Visto", -[COLOR red]iPTV Free List TV[/COLOR]-
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="Lo Mas Visto", TV Educa Chile | HD
