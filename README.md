@@ -326,9 +326,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ## :gear: ADD-ONS Opcional
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-2. [Skip Redirect by Sebastian Blask](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/)
-3. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-4. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+3. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
 </details>
 
