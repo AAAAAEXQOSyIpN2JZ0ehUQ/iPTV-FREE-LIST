@@ -252,14 +252,14 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :film_strip: IPTV Web Gratis 
 
-* https://tvplusgratis2.com/axn-en-vivo.html
-* https://telegratishd.com/axn-en-vivo.html
-* https://television-libre.online/en-vivo/axn/
+* https://tvplusgratis2.com
+* https://telegratishd.com
+* https://television-libre.online
 * https://vertvcable.com
-* https://televisiongratishd.com
+* https://televisiongratishd.com/axn-en-vivo.html
 * https://supertelevisionhd.net
 * https://supertelevisionhd.com/page/8/
-* https://supertelevisionhd.com
+* https://supertelevisionhd.com/axn-en-vivo/
 * https://chilenotas.com
 * https://cablegratis.online
 * https://telefullenvivo.com
