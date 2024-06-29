@@ -287,7 +287,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
-* https://cuevana8.com/
+* https://cuevana8.com
 * https://gnula.nu
 * https://wv5n.gnula.cc
 * https://ww5.series24.org
