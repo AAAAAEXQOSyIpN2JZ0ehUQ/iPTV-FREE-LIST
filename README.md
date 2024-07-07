@@ -276,12 +276,15 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www4.pelisplushd.lat
 * https://pelisplushd.nz
 * https://pelisplushd.so
+* https://www17.pelisplushd.to
 * https://pelisflix2.charity
 * https://pelisplusgo.vip
+* https://pelisplus.in
 * https://pelisnow.to
 * https://vepelis.com
 * https://cuevanahd-3.com/inicio-2/
 * https://wli3.cuevana3.vip
+* https://imu.cuevana3.vip/
 * https://cuevana8.live
 * https://25.cuevana4.me
 * https://ww3.cuevana3.to
@@ -294,12 +297,14 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.lacartoons.com
 * https://animeflv.io
 * https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
-* https://hentaiyt.net
-* https://ww5.series24.org
+* https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
 * https://animeflv1.net
 * https://ww3.animeonline.ninja
 * https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
-* https://freakelitex.com/kaiju-no-8-episodio-11-horario-donde-ver-online-y-fecha-de-estreno/
+* https://www2.verhentai.top
+* https://veohentai.com/genero/hentai-sin-censura/
+* https://hentaiyt.net
+* https://freakelitex.com
 
 :memo: Notas: Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
