@@ -252,59 +252,59 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :film_strip: IPTV Web Gratis 
 
-* https://tvplusgratis2.com
-* https://telegratishd.com
-* https://television-libre.online
-* https://vertvcable.com
-* https://televisiongratishd.com/axn-en-vivo.html
-* https://supertelevisionhd.net
-* https://supertelevisionhd.com/page/8/
-* https://supertelevisionhd.com/axn-en-vivo/
-* https://chilenotas.com
-* https://cablegratis.online
-* https://telefullenvivo.com
-* https://televall.online
-* https://lookhu.tv 
-* https://cxtvenvivo.com
-* http://locomotiontv.com/envivo
-* https://m3u.cl
-* https://pluto.tv/es
-* https://plex.tv/watch-free-tv
+* https://www.tvplusgratis2.com
+* https://www.telegratishd.com
+* https://www.television-libre.online
+* https://www.vertvcable.com
+* https://www.televisiongratishd.com/axn-en-vivo.html
+* https://www.supertelevisionhd.net
+* https://www.supertelevisionhd.com/page/8/
+* https://www.supertelevisionhd.com/axn-en-vivo/
+* https://www.chilenotas.com
+* https://www.cablegratis.online
+* https://www.telefullenvivo.com
+* https://www.televall.online
+* https://www.lookhu.tv 
+* https://www.cxtvenvivo.com
+* https://www.locomotiontv.com/envivo
+* https://www.m3u.cl
+* https://www.pluto.tv/es
+* https://www.plex.tv/watch-free-tv
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
-* https://www4.pelisplushd.lat
-* https://pelisplushd.nz
-* https://pelisplushd.so
+* https://www.www4.pelisplushd.lat
+* https://www.pelisplushd.nz
+* https://www.pelisplushd.so
 * https://www17.pelisplushd.to
-* https://pelisflix2.charity
-* https://pelisplusgo.vip
-* https://pelisplus.in
-* https://pelisnow.to
-* https://vepelis.com
-* https://cuevanahd-3.com/inicio-2/
+* https://www.pelisflix2.charity
+* https://www.pelisplusgo.vip
+* https://www.pelisplus.in
+* https://www.pelisnow.to
+* https://www.vepelis.com
+* https://www.cuevanahd-3.com/inicio-2/
 * https://wli3.cuevana3.vip
 * https://imu.cuevana3.vip/
-* https://cuevana8.live
+* https://www.cuevana8.live
 * https://25.cuevana4.me
 * https://ww3.cuevana3.to
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
-* https://cuevana8.com
-* https://gnula.nu
+* https://www.cuevana8.com
+* https://www.gnula.nu
 * https://wv5n.gnula.cc
 * https://ww5.series24.org
 * https://www.lacartoons.com
-* https://animeflv.io
-* https://animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
+* https://www.animeflv.io
+* https://www.animeflv1.net
+* https://www.animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
 * https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
-* https://animeflv1.net
 * https://ww3.animeonline.ninja
 * https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
 * https://www2.verhentai.top
-* https://veohentai.com/genero/hentai-sin-censura/
-* https://hentaiyt.net
-* https://freakelitex.com
+* https://www.veohentai.com/genero/hentai-sin-censura/
+* https://www.hentaiyt.net
+* https://www.freakelitex.com
 
 :memo: Notas: Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
