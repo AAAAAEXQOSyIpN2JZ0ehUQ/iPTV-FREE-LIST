@@ -265,7 +265,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.televall.online
 * https://www.lookhu.tv 
 * https://www.cxtvenvivo.com
-* https://www.locomotiontv.com/envivo
+* http://www.locomotiontv.com/envivo
 * https://www.m3u.cl
 * https://www.pluto.tv/es
 * https://app.plex.tv/desktop
