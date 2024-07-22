@@ -269,9 +269,11 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.m3u.cl
 * https://www.pluto.tv/es
 * https://app.plex.tv/desktop
+* https://plus.nasa.gov/
 
 - https://www.televisiongratishd.com/axn-en-vivo.html
 - https://www.supertelevisionhd.com/axn-en-vivo/
+- https://www.vertvcable.com/hbo-en-vivo/
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
