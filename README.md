@@ -254,25 +254,23 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
-* https://www.messi7.com
 * https://www.vertvcable.com
 * https://www.televisiongratishd.com
-* https://www.supertelevisionhd.net
-* https://www.supertelevisionhd.com/page/8/
+* https://www.supertelevisionhd.com
 * https://www.chilenotas.com
 * https://www.cablegratis.online
 * https://www.telefullenvivo.com
 * https://www.televall.online
 * https://www.lookhu.tv 
 * https://www.cxtvenvivo.com
-* http://www.locomotiontv.com/envivo
 * https://www.m3u.cl
 * https://www.pluto.tv/es
 * https://app.plex.tv/desktop
 * https://plus.nasa.gov/
+* http://www.locomotiontv.com/envivo
+* http://www.locomotiontv.com/envivo
 
-- https://www.televisiongratishd.com/axn-en-vivo.html
-- https://www.supertelevisionhd.com/axn-en-vivo/
+- https://www.tvplusgratis2.com/axn-en-vivo.html
 - https://www.vertvcable.com/hbo-en-vivo/
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
