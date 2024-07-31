@@ -267,7 +267,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pluto.tv/es
 * https://app.plex.tv/desktop
 * https://plus.nasa.gov/
-* http://www.locomotiontv.com/envivo
+* https://www.viendotele.cl/
 * http://www.locomotiontv.com/envivo
 
 - https://www.tvplusgratis2.com/axn-en-vivo.html
