@@ -1,7 +1,7 @@
 ﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/blob/master/Imagenes/16e49668-fd3d-4358-b2ce-338b05d11b90.jpg)
- 
+
 # iPTV-FREE-LIST
- 
+
 ## :information_source: Descripción
 Una colección gratuita de enlaces para transmitir canales de TV y radios en línea.
 
@@ -11,28 +11,26 @@ transmisión de televisión en vivo, así como estaciones de radio en línea. Es
 excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin 
 necesidad de una suscripción paga.
 
-## :dollar: Donaciones por PayPal 
-
+## :dollar: Donaciones por PayPal
 Este proyecto de IPTV gratuito está diseñado para ahorrarte tiempo y dinero, 
 ofreciéndote una experiencia de transmisión sin complicaciones. Si este recurso te 
-ha sido útil, considera hacer una donación a través de PayPal., Cualquier contribución, 
+ha sido útil, considera hacer una donación a través de PayPal. Cualquier contribución, 
 por pequeña que sea, es muy apreciada y ayuda a mantener este proyecto en 
 marcha. ¡Gracias por tu apoyo!
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :satellite: Tipo de lista
-
-Lista gratuita de iPTV - TV (lista de reproducción de TV en línea) 
+Lista gratuita de iPTV - TV (lista de reproducción de TV en línea)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Lista gratuita de iPTV - XXX (Lista de reproducción para adultos en línea) 
+Lista gratuita de iPTV - XXX (Lista de reproducción para adultos en línea)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
-:memo: Notas: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+:memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 ## :desktop_computer: Aplicaciones  
 
@@ -40,7 +38,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 <summary>Expand</summary>
 <br>
 
-## Web
+## 🌐 Web
 
 - [Jackal](http://jackal.surge.sh) - Ver televisión en vivo desde tu navegador con la ayuda de la aplicación Next.
 - [IPTV Player](https://dev-iptv.web.app/) - Aplicación Flutter de código abierto que te permite ver transmisiones públicamente accesibles desde tu navegador.
@@ -56,7 +54,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [Pleyr](https://pleyr.net/) - Reproductor de IPTV para navegador web tanto para listas de reproducción m3u8 como mpeg2-ts.
 - [TV Tuner](https://tvtuner.vercel.app/) - Ver IPTV en línea con características como mantener el último canal seleccionado, buscar canal, buscar país y soportado para diseños web y móviles.
 
-## Windows
+## 🖥️ Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Reproductor multimedia portátil gratuito y de código abierto compatible con múltiples plataformas.
 - [Kodi](https://kodi.tv/) - Reproductor multimedia gratuito y multiplataforma con soporte de biblioteca.
@@ -68,7 +66,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Reproductor multimedia personalizable para PCs con Windows.
 - [Descargar SimpleTV 0.5.0 b12 (32-bit, 64-bit) para Windows](https://www.filehorse.com/es/descargar-simpletv/#review) - SimpleTV es una aplicación optimizada de reproducción de TV por Internet que puede ayudarle a organizar mejor sus listas de reproducción.
 
-## macOS
+## 🍏 macOS
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Reproductor multimedia portátil gratuito y de código abierto compatible con múltiples plataformas.
 - [IINA](https://iina.io/) - Reproductor multimedia moderno para macOS.
@@ -80,7 +78,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Reproductor de IPTV fácil de usar y administrador de listas que admite listas de reproducción M3U remotas y locales, reproducción en Picture-in-Picture y sincronización de contenido basada en iCloud para tus otros dispositivos Apple.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Reproductor de IPTV multiplataforma para todos tus dispositivos incluyendo iOS, iPad, MacOS, Apple TV, Android y Android Tv.
 
-## Linux
+## 🐧 Linux
 
 - [VLC for Linux](https://www.videolan.org/vlc/#download) - Reproductor multimedia portátil gratuito y de código abierto compatible con múltiples plataformas.
 - [Kodi](https://kodi.tv/) - Reproductor multimedia gratuito y multiplataforma con soporte de biblioteca.
@@ -93,7 +91,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - Reproductor de IPTV de terminal escrito en Python.
 - [yuki-iptv](https://codeberg.org/Ame-chan-angel/yuki-iptv) - Reproductor de IPTV con soporte EPG (fork de Astroncia IPTV).
 
-## iOS
+## 📱 iOS
 
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Permite ver TV en vivo y streams IPTV basados en tecnología.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Reproductor multimedia con soporte DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
@@ -105,7 +103,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Reproductor IPTV multiplataforma para todos tus dispositivos incluyendo iOS, iPad, MacOS, Apple TV, Android y Android TV.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - Una aplicación de alta calidad para reproducción en vivo que puede previsualizar en tiempo real. Es un reproductor multifuncional que puede reproducir y visualizar (requiere soporte del origen de transmisión en vivo).
 
-## Android
+## 🤖 Android
 
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Reproductor multimedia gratuito y multiplataforma con soporte de biblioteca.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - Reproductor IPTV con soporte para cambio de calidad, búsqueda, exportación y modificación de canales.
@@ -126,17 +124,17 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) - Reproductor IPTV para Android.
 - [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Reproductor de streaming de código abierto para Android para reproducir canales favoritos en modo zapping con mejoras en el reproductor multimedia.
 
-## Smart TV
+## 📺 Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Aplicación para Smart TV que permite la visualización de IPTV para sus usuarios.
 
-## Apple TV
+## 🍏 Apple TV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - Reproductor IPTV/M3U para Apple TV.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Reproductor gratuito de IPTV con soporte para M3U, Xtream Codes y sincronización iCloud para una experiencia conectada en Apple TV, iPhone, iPad y Mac.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Reproductor IPTV multiplataforma para todos tus dispositivos incluyendo iOS, iPad, MacOS, Apple TV, Android y Android TV.
 
-## Xbox
+## 🎮 Xbox
 
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - Un moderno reproductor IPTV para Xbox One.
 
@@ -145,11 +143,11 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Permite al navegador reproducir urls de video HLS (m3u8) de manera 'nativa'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - Permite visualizar archivos XMLTV directamente en el navegador.
 
-## Roku
+## 📺 Roku
 
 - [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - Reproductor IPTV para Roku.
 
-## Providers
+## 🌐 Providers
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Enlaces públicos a 3018 canales de TV lineales y 2963 canales de radio transmitidos por Internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Base de datos gratuita de WebTV y Web Radio.
@@ -177,7 +175,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [Chinese TV](https://www.tvchinese.net/) - Enlaces a transmisiones en vivo de canales de TV chinos.
 - [photocall.tv](https://photocall.tv/) - Televisión y radio en línea.
 
-## Fuentes de datos de canales
+## 📦 Fuentes de datos de canales
 
 Una lista de fuentes útiles que contienen información sobre canales de televisión.
 
@@ -203,7 +201,7 @@ Una lista de fuentes útiles que contienen información sobre canales de televis
 - [CEM](https://www.cem.bg/linear_reg.php) - Registro oficial de canales de TV transmitidos en Bulgaria.
 - [Sat-address](https://www.sat-address.com/) - Información sobre canales vía satélite, terrestres, cable, IPTV y streaming en todo el mundo.
 
-## Fuentes de EPG
+## 📺 Fuentes de EPG
 
 Fuentes de EPG (Guía Electrónica de Programas) para canales de IPTV.
 
@@ -216,7 +214,7 @@ Fuentes de EPG (Guía Electrónica de Programas) para canales de IPTV.
 - [bevy.be](https://www.bevy.be/epg-guide/) - EPG gratuito de 2 días ordenado por país.
 - [EPGSHARE01](https://epgshare01.online/) - Guías de programación para múltiples países.
 
-## Herramientas
+## 🛠️ Herramientas
 
 Herramientas útiles para trabajar con IPTV.
 
@@ -228,7 +226,7 @@ Herramientas útiles para trabajar con IPTV.
 - [m3u.in](https://m3u.in/) - Crea, edita y fusiona listas de reproducción m3u en línea.
 - [IPTV Tools](http://www.iptvtools.net/) - Herramientas para IPTV como comprobador de enlaces.
 
-## Programación
+## 💻 Programación
 
 Bibliotecas y frameworks para trabajar con datos de IPTV
 
@@ -240,11 +238,11 @@ Bibliotecas y frameworks para trabajar con datos de IPTV
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - Reproductor IPTV con soporte para listas M3U.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - Proxy M3U para Plex DVR y Emby Live TV.
 
-## Contribución
+## 🤝 Contribución
 
 Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando esté relacionado con el tema de IPTV, es muy probable que sea aceptado.
 
-## Licencia
+## 📝 Licencia
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
