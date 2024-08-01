@@ -310,9 +310,11 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 - https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
 - https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
 
-:memo: Notas: Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
+## :memo: Notas
+Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
-:memo: Notas: **Es aconsejable visualizar este contenido en navegadores como [librewolf](https://librewolf.Net/) o [firefox](https://www.Mozilla.Org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
+## :bulb: Recomendaciones
+**Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
 
 <details>
 <summary>Expand</summary>
