@@ -255,6 +255,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
 * https://www.vertvcable.com
+* https://www.tvspacehd.com
 * https://www.televisiongratishd.com
 * https://www.supertelevisionhd.com
 * https://www.chilenotas.com
@@ -271,6 +272,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * http://www.locomotiontv.com/envivo
 
 - https://www.tvplusgratis2.com/axn-en-vivo.html
+- https://www.tvspacehd.com/2022/10/axn.html
 - https://www.vertvcable.com/hbo-en-vivo/
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
@@ -321,12 +323,11 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ## :gear: ADD-ONS Principal 
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
-2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 3. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 4. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
 5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-6. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-7. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+6. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+7. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 
 ## :gear: ADD-ONS Temas 
 
@@ -336,8 +337,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ## :gear: ADD-ONS Opcional
 
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-3. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
+3. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+4. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
 </details>
 
