@@ -269,9 +269,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.viendotele.cl/
 * http://www.locomotiontv.com/envivo
 
-* https://www.tvplusgratis2.com/axn-en-vivo.html
-* https://www.tvspacehd.com/2022/10/axn.html
-* https://www.vertvcable.com/hbo-en-vivo/
+- https://www.tvplusgratis2.com/axn-en-vivo.html
+- https://www.tvspacehd.com/2022/10/axn.html
+- https://www.vertvcable.com/hbo-en-vivo/
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
@@ -306,9 +306,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.veohentai.com/genero/hentai-sin-censura/
 * https://www.hentaiyt.net
 
-* https://www.animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
-* https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
-* https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
+- https://www.animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
+- https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
+- https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
 
 ## :memo: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
