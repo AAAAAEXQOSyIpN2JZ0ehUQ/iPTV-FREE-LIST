@@ -419,7 +419,6 @@ https://m3u.cl/lista/total.m3u
 1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xTream-UI-r22f)
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Grupo Oficial en Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de versión
 * :busts_in_silhouette: **Jony Rivera**: [Telegram](https://t.me/Jony_Rivera) - Colaborador
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
