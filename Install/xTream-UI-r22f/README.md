@@ -6,7 +6,8 @@
 Xtream-UI es un sistema de gestión de recursos que incluye una base de datos 
 de sus transmiciones.
 
-:memo: Notas: Asegúrate de tener privilegios de administrador para ejecutar los comandos. 
+## :memo: Notas
+Asegúrate de tener privilegios de administrador para ejecutar los comandos. 
 Antes de la instalación, verifica la documentación oficial para cualquier cambio o actualización.
 
 ## :computer: Actualizar el sistema
@@ -41,8 +42,9 @@ python install.py
 ```
 
 ## :bulb: Permisos nginx
-NOTE 1: Si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los 
+Si obtiene un error de denegación de permiso de nginx, vuelva a hacer que los 
 binarios de nginx sean ejecutables.
+
 ```bash
 chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
 chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
@@ -50,8 +52,9 @@ chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
 ```
 
 ## :bulb: Tablas y archivos .update
-NOTE 2: Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, 
+Si no puede ver las nuevas tablas de la base de datos después de una nueva instalación, 
 agregue un archivo llamado ".update" en la carpeta de administración.
+
 ```bash
 touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
@@ -70,7 +73,6 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * Proyecto Emre1393 [Instalador](https://bitbucket.org/emre1393/xtreamui_mirror/src/master) | [Librerias](https://bitbucket.org/emre1393/xtreamui_mirror/downloads)
 
 ## :email: Contacto 
-* :busts_in_silhouette: [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor :octocat:
-```
+* :busts_in_silhouette: **Jony Rivera**: [Telegram](https://t.me/Jony_Rivera) - Colaborador
+
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
-```
