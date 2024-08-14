@@ -21,7 +21,7 @@ marcha. ¡Gracias por tu apoyo!
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :satellite: Tipo de lista
-Lista gratuita de iPTV - TV (lista de reproducción de TV en línea)
+Lista gratuita de iPTV - TV (Lista de reproducción de TV en línea)
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
@@ -310,7 +310,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 - https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
 - https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
 
-## :memo: Notas
+## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
 ## :bulb: Recomendaciones
@@ -418,8 +418,18 @@ https://m3u.cl/lista/total.m3u
 ## :file_folder: Proyectos útiles 
 1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xTream-UI-r22f)
 
+## :open_file_folder: Estructura del Repositorio
+
+| Icono            | Nombre         | Descripción                                 |
+|------------------|------------------------|-------------------------------------|
+| :file_folder:    | Imagenes               | Carpeta para imágenes               |
+| :file_folder:    | Install                | Carpeta para scripts de instalación |
+| :page_facing_up: | .gitattributes         | Archivo para configuración de Git   |
+| :book:           | README.md              | Archivo de documentación principal  |
+| :package:        | iPTV-Free-List_TV.m3u  | Lista para de TV general            |
+| :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
+
 ## :email: Contacto 
-* :busts_in_silhouette: **Jony Rivera**: [Telegram](https://t.me/Jony_Rivera) - Colaborador
+* :busts_in_silhouette: **Jony Rivera**: [Telegram](https://t.me/Jony_Rivera) - Actualización de repositorio
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
-
