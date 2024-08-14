@@ -275,7 +275,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
-* https://www.www4.pelisplushd.lat
+* https://www4.pelisplushd.lat
 * https://www.pelisplushd.nz
 * https://www.pelisplushd.so
 * https://www17.pelisplushd.to
