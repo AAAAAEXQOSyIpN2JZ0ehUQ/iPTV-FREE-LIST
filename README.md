@@ -426,7 +426,7 @@ https://m3u.cl/lista/total.m3u
 | :file_folder:    | Install                | Carpeta para scripts de instalación |
 | :page_facing_up: | .gitattributes         | Archivo para configuración de Git   |
 | :book:           | README.md              | Archivo de documentación principal  |
-| :package:        | iPTV-Free-List_TV.m3u  | Lista para de TV general            |
+| :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                 |
 | :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
 
 ## :email: Contacto 
