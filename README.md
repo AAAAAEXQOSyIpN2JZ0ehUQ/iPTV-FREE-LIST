@@ -430,6 +430,6 @@ https://m3u.cl/lista/total.m3u
 | :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Jony Rivera**: [Telegram](https://t.me/Jony_Rivera) - Actualización de repositorio
+* :busts_in_silhouette: **Jony Rivera**: [Grupo](https://t.me/Jony_Rivera) - Actualización de repositorio
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
