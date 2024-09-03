@@ -280,6 +280,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pelisplushd.so
 * https://www17.pelisplushd.to
 * https://www.pelisflix2.charity
+* https://pelisflix2.my
+* https://www.https://pelisflixhd.cam
+* https://www.https://pelisflix.toys
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
 * https://www.pelisnow.to
