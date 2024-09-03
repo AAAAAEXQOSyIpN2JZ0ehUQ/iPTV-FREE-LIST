@@ -326,6 +326,7 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 ## :gear: ADD-ONS Principal 
 
 1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+2. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 3. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
 4. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
 5. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
@@ -335,14 +336,13 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 ## :gear: ADD-ONS Temas 
 
 1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
-1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
+2. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
 ## :gear: ADD-ONS Opcional
 
-1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-2. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
-3. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-4. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+1. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
+2. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+3. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
 </details>
 
