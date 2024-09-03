@@ -253,7 +253,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
 * https://www.vertvcable.com
+- https://www.vertvcable.com/hbo-en-vivo/
 * https://www.tvspacehd.com
+* https://www.tvspacehd.com/2022/10/axn.html/
 * https://www.televisiongratishd.com
 * https://www.supertelevisionhd.com
 * https://www.chilenotas.com
@@ -268,10 +270,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://plus.nasa.gov/
 * https://www.viendotele.cl/
 * http://www.locomotiontv.com/envivo
-
-- https://www.tvplusgratis2.com/axn-en-vivo.html
-- https://www.tvspacehd.com/2022/10/axn.html
-- https://www.vertvcable.com/hbo-en-vivo/
 
 ## :film_strip: Pelisplus | Cuevana | Gnula | Anime
 
@@ -289,7 +287,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.vepelis.com
 * https://www.cuevanahd-3.com/inicio-2/
 * https://wli3.cuevana3.vip
-* https://imu.cuevana3.vip/
+* https://imu.cuevana3.vip
 * https://www.cuevana8.live
 * https://25.cuevana4.me
 * https://ww3.cuevana3.to
@@ -308,10 +306,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www2.verhentai.top
 * https://www.veohentai.com/genero/hentai-sin-censura/
 * https://www.hentaiyt.net
-
-- https://www.animeyt.pro/anime/kaijuu-no-8-audio-latino-capitulo-1/
-- https://ww3.animeonline.ninja/online/kaiju-no-8-041924/
-- https://vvv.animeyt.one/anime/house-of-the-dragon-la-casa-del-dragon-temporada-2/
 
 ## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
