@@ -278,9 +278,10 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pelisplushd.so
 * https://www17.pelisplushd.to
 * https://www.pelisflix2.charity
-* https://pelisflix2.my
-* https://www.https://pelisflixhd.cam
-* https://www.https://pelisflix.toys
+* https://www.pelisflix2.my
+* https://www.pelisflixhd.cam
+* https://pelisflixhd.biz/?s=Terminator+Zero
+* https://www.pelisflix.toys
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
 * https://www.pelisnow.to
@@ -295,7 +296,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://wwi.cuevana3.vip
 * https://www.cuevana8.com
 * https://www.gnula.nu
-* https://wv5n.gnula.cc
+* https://wv5h.gnula.cc/ver-episode/terminator-zero-1x4/
 * https://ww5.series24.org
 * https://www.lacartoons.com
 * https://www.animeflv.io
