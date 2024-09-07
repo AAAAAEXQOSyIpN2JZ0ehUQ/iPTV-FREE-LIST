@@ -279,8 +279,9 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www17.pelisplushd.to
 * https://www.pelisflix2.charity
 * https://www.pelisflix2.my
+* https://www.pelisflix2.pet/episodio/the-flash-zzyb-1x1/
 * https://www.pelisflixhd.cam
-* https://pelisflixhd.biz/?s=Terminator+Zero
+* https://www.pelisflixhd.biz/?s=Terminator+Zero
 * https://www.pelisflix.toys
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
