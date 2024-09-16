@@ -253,7 +253,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
 * https://www.vertvcable.com
-- https://www.vertvcable.com/hbo-en-vivo/
+* https://www.vertvcable.com/hbo-en-vivo/
 * https://www.tvspacehd.com
 * https://www.tvspacehd.com/2022/10/axn.html/
 * https://www.televisiongratishd.com
