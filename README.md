@@ -286,6 +286,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
 * https://www.pelisnow.to
+* https://www.vepelis.com
 
 **Cuevana**
 * https://www.cuevanahd-3.com/inicio-2/
@@ -303,7 +304,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://wv5h.gnula.cc/ver-episode/terminator-zero-1x4/
 
 **Extras**
-* https://www.vepelis.com
 * https://ww5.series24.org
 * https://www.lacartoons.com
 
