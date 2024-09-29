@@ -248,7 +248,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 </details>
 
-## :film_strip: IPTV y web gratis 
+## :film_strip: iPTV online
 
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
