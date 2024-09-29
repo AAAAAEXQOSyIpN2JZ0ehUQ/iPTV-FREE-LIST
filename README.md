@@ -286,6 +286,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
 * https://www.pelisnow.to
+
 **Cuevana**
 * https://www.cuevanahd-3.com/inicio-2/
 * https://wli3.cuevana3.vip
@@ -296,6 +297,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
 * https://www.cuevana8.com
+
 **Gnula**
 * https://www.gnula.nu
 * https://wv5h.gnula.cc/ver-episode/terminator-zero-1x4/
@@ -309,6 +311,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.animeyt.pro
 * https://ww3.animeonline.ninja
 * https://vvv.animeyt.one
+
 **Hentai**
 * https://www2.verhentai.top
 * https://www.veohentai.com/genero/hentai-sin-censura/
