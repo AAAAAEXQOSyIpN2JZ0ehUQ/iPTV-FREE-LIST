@@ -271,7 +271,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.viendotele.cl/
 * http://www.locomotiontv.com/envivo
 
-## :film_strip: Pelis | Cuevana | Gnula | Anime
+## :film_strip: Peliculas , series y anime
 **Pelis**
 * https://www4.pelisplushd.lat
 * https://www.pelisplushd.nz
