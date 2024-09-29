@@ -301,10 +301,12 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 **Gnula**
 * https://www.gnula.nu
 * https://wv5h.gnula.cc/ver-episode/terminator-zero-1x4/
+
 **Extras**
 * https://www.vepelis.com
 * https://ww5.series24.org
 * https://www.lacartoons.com
+
 **Anime**
 * https://www.animeflv.io
 * https://www.animeflv1.net
