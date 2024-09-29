@@ -138,7 +138,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - Un moderno reproductor IPTV para Xbox One.
 
-## Google Chrome
+## 🌐 Google Chrome
 
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Permite al navegador reproducir urls de video HLS (m3u8) de manera 'nativa'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - Permite visualizar archivos XMLTV directamente en el navegador.
@@ -271,7 +271,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.viendotele.cl/
 * http://www.locomotiontv.com/envivo
 
-## :film_strip: Pelisplus | Cuevana | Gnula | Anime
+## :film_strip: Pelis | Cuevana | Gnula | Anime
 
 * https://www4.pelisplushd.lat
 * https://www.pelisplushd.nz
@@ -286,7 +286,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
 * https://www.pelisnow.to
-* https://www.vepelis.com
+
 * https://www.cuevanahd-3.com/inicio-2/
 * https://wli3.cuevana3.vip
 * https://imu.cuevana3.vip
@@ -296,15 +296,20 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.ircuevana.com
 * https://wwi.cuevana3.vip
 * https://www.cuevana8.com
+
 * https://www.gnula.nu
 * https://wv5h.gnula.cc/ver-episode/terminator-zero-1x4/
+
+* https://www.vepelis.com
 * https://ww5.series24.org
 * https://www.lacartoons.com
+
 * https://www.animeflv.io
 * https://www.animeflv1.net
 * https://www.animeyt.pro
 * https://ww3.animeonline.ninja
 * https://vvv.animeyt.one
+
 * https://www2.verhentai.top
 * https://www.veohentai.com/genero/hentai-sin-censura/
 * https://www.hentaiyt.net
