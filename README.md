@@ -1,4 +1,4 @@
-﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/blob/master/Imagenes/16e49668-fd3d-4358-b2ce-338b05d11b90.jpg)
+﻿![logo](https://scl.edge.grupoz.cl/transmision/live/chunklist_w1170763023.m3u8)
 
 # iPTV-FREE-LIST
 
