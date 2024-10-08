@@ -1,4 +1,4 @@
-﻿![logo](https://scl.edge.grupoz.cl/transmision/live/chunklist_w1170763023.m3u8)
+﻿![logo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhscGtjNGUxeHhyOWk5czJtMGlhem5ucGU3eDVzaWdmMDgwM3UwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1J4X5chVxtBFS/giphy.webp)
 
 # iPTV-FREE-LIST
 
