@@ -301,7 +301,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 **Gnula**
 * https://www.gnula.nu
-* https://wv5n.gnula.cc/ver-serie/terminator-zero-2024/
+* [https://wv5n.gnula.cc](https://wv5n.gnula.cc/ver-serie/terminator-zero-2024/)
 
 **Extras**
 * https://ww5.series24.org
