@@ -253,9 +253,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.tvplusgratis2.com
 * https://www.telegratishd.com
 * https://www.vertvcable.com
-* https://www.vertvcable.com/hbo-en-vivo/
 * https://www.tvspacehd.com
-* https://www.tvspacehd.com/2022/10/axn.html/
 * https://www.televisiongratishd.com
 * https://www.supertelevisionhd.com
 * https://www.chilenotas.com
@@ -267,8 +265,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.m3u.cl
 * https://www.pluto.tv/es
 * https://app.plex.tv/desktop
-* https://plus.nasa.gov/
-* https://www.viendotele.cl/
+* https://plus.nasa.gov
+* https://www.viendotele.cl
 * http://www.locomotiontv.com/envivo
 
 ## :film_strip: Peliculas , series y anime
@@ -279,9 +277,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www17.pelisplushd.to
 * https://www.pelisflix2.charity
 * https://www.pelisflix2.my
-* https://www.pelisflix2.pet/episodio/the-flash-zzyb-1x1/
 * https://www.pelisflixhd.cam
-* https://www.pelisflixhd.biz/?s=Terminator+Zero
 * https://www.pelisflix.toys
 * https://www.pelisplusgo.vip
 * https://www.pelisplus.in
@@ -301,7 +297,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 **Gnula**
 * https://www.gnula.nu
-* [https://wv5n.gnula.cc](https://wv5n.gnula.cc/ver-serie/terminator-zero-2024/)
+* https://wv5n.gnula.cc
 
 **Extras**
 * https://ww5.series24.org
@@ -316,7 +312,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 **Hentai**
 * https://www2.verhentai.top
-* https://www.veohentai.com/genero/hentai-sin-censura/
+* [https://www.veohentai.com](https://www.veohentai.com/genero/hentai-sin-censura/)
 * https://www.hentaiyt.net
 
 ## :bookmark_tabs: Notas
