@@ -285,15 +285,16 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.vepelis.com
 
 **Cuevana**
-* https://www.cuevanahd-3.com/inicio-2/
+* https://www.ircuevana.com
+* https://www.cuevana.biz/serie/274242/vencer-o-morir
 * https://wli3.cuevana3.vip
 * https://imu.cuevana3.vip
-* https://www.cuevana8.live
-* https://25.cuevana4.me
 * https://ww3.cuevana3.to
-* https://www.ircuevana.com
 * https://wwi.cuevana3.vip
+* https://www.cuevanahd-3.com/inicio-2/
+* https://25.cuevana4.me
 * https://www.cuevana8.com
+* https://www.cuevana8.live
 
 **Gnula**
 * https://www.gnula.nu
