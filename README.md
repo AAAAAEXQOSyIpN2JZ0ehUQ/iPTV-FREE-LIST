@@ -286,6 +286,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 **Cuevana**
 * https://www.ircuevana.com
+* https://znr.cuevana.pro/
 * https://www.cuevana.biz/serie/274242/vencer-o-morir
 * https://wli3.cuevana3.vip
 * https://imu.cuevana3.vip
