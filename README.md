@@ -213,6 +213,8 @@ Fuentes de EPG (Guía Electrónica de Programas) para canales de IPTV.
 - [EPG.pw](https://epg.pw/) - Guía de Programación Electrónica personalizada para IPTV a nivel mundial.
 - [bevy.be](https://www.bevy.be/epg-guide/) - EPG gratuito de 2 días ordenado por país.
 - [EPGSHARE01](https://epgshare01.online/) - Guías de programación para múltiples países.
+- [pluginsxbmc.com](https://www.pluginsxbmc.com/2019/10/guias-epg-actualizadas.html/) - Guías de programación EPG válidas para ser usadas con listas IPTV.
+- [capa9.net](https://www.capa9.net/temas/gu%C3%ADa-epg-chile-incluye-regionales.1141372/) - Guías de programación EPG para IPTV.
 
 ## 🛠️ Herramientas
 
@@ -322,6 +324,8 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 
 ## :bulb: Recomendaciones
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
+
+* [Descarga de TV Librewolf Browser Preconfigurado](https://www.dropbox.com/scl/fi/sk3m4fvfd5kndgcng76cp/TV-Librewolf-Browser.zip?rlkey=tw8zg2eorsj1922uvv2uh8f28&st=lqvi28zw&dl=0/)
 
 <details>
 <summary>Expand</summary>
