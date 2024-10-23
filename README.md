@@ -32,6 +32,10 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
+**Microsoft Store**
+* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/)
+* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/)
+
 ## :desktop_computer: Aplicaciones  
 
 <details>
