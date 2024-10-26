@@ -33,8 +33,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 **Microsoft Store**
-* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/)
-* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/)
+* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8
+* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas de paga 
 
 ## :desktop_computer: Aplicaciones  
 
@@ -294,10 +294,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://www.ircuevana.com
 * https://znr.cuevana.pro/
 * https://www.cuevana.biz/serie/274242/vencer-o-morir
-* https://wli3.cuevana3.vip
-* https://imu.cuevana3.vip
+* https://mia.cuevana3.vip/
 * https://ww3.cuevana3.to
-* https://wwi.cuevana3.vip
 * https://www.cuevanahd-3.com/inicio-2/
 * https://25.cuevana4.me
 * https://www.cuevana8.com
