@@ -1,6 +1,8 @@
-﻿```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/Lao-Pe-TV/utZa2XUs-06JUN.m3u
-```
+﻿
 ```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/Install/Lao-Pe-TV/utZa2XUs12NOV.m3u
+https://web.archive.org/web/20201112024727/https://pastebin.com/raw/utZa2XUs
+```
+
+```bash
+https://web.archive.org/web/20200606144142/https://pastebin.com/raw/utZa2XUs
 ```
