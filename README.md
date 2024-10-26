@@ -35,7 +35,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de ALL IPTV Player](https://www.microsoft.com/store/productId/9N7DWMX898LB?ocid=pdpshare/) para lista M3U y M3U8 Windows
-* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows 
+* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows
+ 
 **Play Store Android - IPTV Player**
 * [Descarga de IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_CL/) para lista M3U y M3U8 Android
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
