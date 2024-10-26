@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-**Microsoft Store**
+**Microsoft Store - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de ALL IPTV Player](https://www.microsoft.com/store/productId/9N7DWMX898LB?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows 
