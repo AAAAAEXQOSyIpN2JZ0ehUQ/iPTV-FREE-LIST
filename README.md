@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 - [IPTVnator](https://github.com/4gray/iptvnator) - Aplicación gratuita de IPTV de transmisión multiplataforma con características como favoritos, EPG, archivo de TV, etc.
 - [termv](https://github.com/Roshan-R/termv) - Reproductor de IPTV de terminal escrito en bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Reproductor multimedia personalizable para PCs con Windows.
-- [Descargar SimpleTV 0.5.0 b12 (32-bit, 64-bit) para Windows](https://www.filehorse.com/es/descargar-simpletv/#review) - SimpleTV es una aplicación optimizada de reproducción de TV por Internet que puede ayudarle a organizar mejor sus listas de reproducción.
+- [SimpleTV](https://www.filehorse.com/es/descargar-simpletv/#review) - SimpleTV es una aplicación optimizada de reproducción de TV por Internet que puede ayudarle a organizar mejor sus listas de reproducción.
 
 ## 🍏 macOS
 
