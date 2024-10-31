@@ -5420,171 +5420,171 @@ http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="Canales EspaÃ±oles", Canales EspaÃ±oles
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="Canales Españoles", Canales Españoles
 https://i.imgur.com/AfOPg8p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Canales EspaÃ±oles", La Xarxa | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="Canales EspaÃ±oles", Canal 13 EspaÃ±a | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="Canales Españoles", Canal 13 EspaÃ±a | SD
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="Canales EspaÃ±oles", Lancelot TV | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="Canales Españoles", Lancelot TV | SD
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="Canales EspaÃ±oles", ETBSAT | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="Canales Españoles", ETBSAT | SD
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="Canales EspaÃ±oles", Lebrija TV | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales EspaÃ±oles", TV Galicia America | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales Españoles", TV Galicia America | SD
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales EspaÃ±oles", TV Galicia Europa | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales Españoles", TV Galicia Europa | SD
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="Canales EspaÃ±oles", Calle 13 | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="Canales Españoles", Calle 13 | SD
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="Canales EspaÃ±oles", TeleSafor | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="Canales EspaÃ±oles", 7TV | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ROPlvzc.png" group-title="Canales EspaÃ±oles", A Punt | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROPlvzc.png" group-title="Canales Españoles", A Punt | SD
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales EspaÃ±oles", ETB 1 | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 1 | HD
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales EspaÃ±oles", ETB 2 | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 2 | HD
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales EspaÃ±oles", ETB 3 | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 3 | SD
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7JyLXg.jpg" group-title="Canales EspaÃ±oles", Telemadrid | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7JyLXg.jpg" group-title="Canales Españoles", Telemadrid | SD
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U0JcDHg.png" group-title="Canales EspaÃ±oles", La Otra | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0JcDHg.png" group-title="Canales Españoles", La Otra | SD
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99mztxa.png" group-title="Canales EspaÃ±oles", Canal Costa | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99mztxa.png" group-title="Canales Españoles", Canal Costa | HD
 http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/omjtgw0.png" group-title="Canales EspaÃ±oles", Canaria Sat Television | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZhkP9Q.png" group-title="Canales EspaÃ±oles", Intereconomia TV | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZhkP9Q.png" group-title="Canales Españoles", Intereconomia TV | SD
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hr1LLrh.png" group-title="Canales EspaÃ±oles", Cuatro | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hr1LLrh.png" group-title="Canales Españoles", Cuatro | HD
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tq6xYkf.png" group-title="Canales EspaÃ±oles", Telecinco | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tq6xYkf.png" group-title="Canales Españoles", Telecinco | HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="Canales EspaÃ±oles", Extremadura | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="Canales Españoles", Extremadura | SD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="Canales EspaÃ±oles", Canal 4 Tenerife | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="Canales Españoles", Canal 4 Tenerife | SD
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGAUabe.png" group-title="Canales EspaÃ±oles", Andalucia Cocina | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGAUabe.png" group-title="Canales Españoles", Andalucia Cocina | SD
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales EspaÃ±oles", Miami TV EspaÃ±a | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Españoles", Miami TV EspaÃ±a | HD
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2N3zyn.png" group-title="Canales EspaÃ±oles", FDF | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2N3zyn.png" group-title="Canales Españoles", FDF | HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SHfp18P.png" group-title="Canales EspaÃ±oles", Divinity | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHfp18P.png" group-title="Canales Españoles", Divinity | HD
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xBT6mH.png" group-title="Canales EspaÃ±oles", Be Mad | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xBT6mH.png" group-title="Canales Españoles", Be Mad | HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ip8u3zy.png" group-title="Canales EspaÃ±oles", Energy | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ip8u3zy.png" group-title="Canales Españoles", Energy | HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6rxSi6.png" group-title="Canales EspaÃ±oles", Distrito TV | SD | Madrid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6rxSi6.png" group-title="Canales Españoles", Distrito TV | SD | Madrid
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvG7eAN.png" group-title="Canales EspaÃ±oles", Canal Sur AndalucÃ­a | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvG7eAN.png" group-title="Canales Españoles", Canal Sur AndalucÃ­a | SD
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/chunklist_b628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S40QKpm.png" group-title="Canales EspaÃ±oles", Canal Sur AndalucÃ­a Flamenco | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S40QKpm.png" group-title="Canales Españoles", Canal Sur AndalucÃ­a Flamenco | SD
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w32442243.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zdU1PfU.png" group-title="Canales EspaÃ±oles", Castilla-La Mancha Media | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdU1PfU.png" group-title="Canales Españoles", Castilla-La Mancha Media | SD
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1eE29d.png" group-title="Canales EspaÃ±oles", mtmad 24h | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1eE29d.png" group-title="Canales Españoles", mtmad 24h | HD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8b0g6X.png" group-title="Canales EspaÃ±oles", Paramount Network | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8b0g6X.png" group-title="Canales Españoles", Paramount Network | SD
 https://paramount-live.flumotion.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4u1ax9.png" group-title="Canales EspaÃ±oles", 7 Televalencia | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4u1ax9.png" group-title="Canales Españoles", 7 Televalencia | SD
 https://live-edge-bhs-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Canales EspaÃ±oles", Antena 3 Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Canales Españoles", Antena 3 Internacional
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="Canales EspaÃ±oles", La Cuatro
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="Canales Españoles", La Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="Canales EspaÃ±oles", Telecinco
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="Canales Españoles", Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="Canales EspaÃ±oles", La Sexta
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="Canales Españoles", La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="Canales EspaÃ±oles", 13 TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="Canales Españoles", 13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="Canales EspaÃ±oles", TVE 24h
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="Canales Españoles", TVE 24h
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="Canales EspaÃ±oles", Rtv ce
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="Canales Españoles", Rtv ce
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="Canales EspaÃ±oles", Be Mad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="Canales Españoles", Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Canales EspaÃ±oles", COSMO TV
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Canales Españoles", COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales EspaÃ±oles", Divinity
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Españoles", Divinity
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Canales EspaÃ±oles", Energy
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Canales Españoles", Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Canales EspaÃ±oles", FDF
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Canales Españoles", FDF
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Canales EspaÃ±oles", Ten
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Canales Españoles", Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Canales EspaÃ±oles", DMAX EspaÃ±a
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Canales Españoles", DMAX EspaÃ±a
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="Canales EspaÃ±oles", Historia
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="Canales Españoles", Historia
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="Canales EspaÃ±oles", Lancelot TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="Canales Españoles", Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg" group-title="Canales EspaÃ±oles", TV Canal Vasco
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg" group-title="Canales Españoles", TV Canal Vasco
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="Canales EspaÃ±oles", Telemadrid
+#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="Canales Españoles", Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="Canales EspaÃ±oles", TV GALICIA
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="Canales Españoles", TV GALICIA
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #*****************************
@@ -6030,7 +6030,7 @@ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AaNHbei.png" group-title="Canales Miscelaneos", CGTN | SD
 https://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHhonak.png" group-title="Canales Miscelaneos", CGTN en EspaÃ±ol | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHhonak.png" group-title="Canales Miscelaneos", CGTN en Español | SD
 https://live.cgtn.com/cctv-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfEkv76.png" group-title="Canales Miscelaneos", BNTV Bosnia | SD
