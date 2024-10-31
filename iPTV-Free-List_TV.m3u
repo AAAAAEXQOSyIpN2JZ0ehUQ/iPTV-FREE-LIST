@@ -5902,14 +5902,24 @@ http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xe2uQkH.png" group-title="Canales Japoneses", Canales Japoneses
 https://i.imgur.com/AfOPg8p.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", NTV News24 | SD
+http://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", QVC JP | SD
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edbJeuy.jpg" group-title="Canales Japoneses", Japanet Channel DX | SD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uAyVuO.png" group-title="Canales Japoneses", NTV News 24 | SD
 http://www.news24.jp/livestream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9LlnBAJ.png" group-title="Canales Japoneses", Family Gekijyo | SD
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
@@ -5937,9 +5947,6 @@ ttp://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w2062741319.
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w282551791_b600000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", NTV News24 | SD
-http://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", TBS News | SD
 https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
 
@@ -5953,13 +5960,6 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ????? (Japanet) | SD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", QVC JP | SD
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #*****************************
 #*****************************
