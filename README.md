@@ -1,4 +1,4 @@
-﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/blob/master/Imagenes/16e49668-fd3d-4358-b2ce-338b05d11b90.jpg)
+﻿![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/ALL-IPTV-Player.jpg)
 
 # iPTV-FREE-LIST
 
