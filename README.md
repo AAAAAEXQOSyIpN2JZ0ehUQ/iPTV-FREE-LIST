@@ -21,12 +21,12 @@ marcha. ¡Gracias por tu apoyo!
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :satellite: Tipo de lista
-Lista gratuita de iPTV - TV (Lista de reproducción de TV en línea)
+Lista de reproducción de iPTV en línea
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Lista gratuita de iPTV - XXX (Lista de reproducción para adultos en línea)
+Lista de reproducción de iPTV para `adultos` en línea
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
