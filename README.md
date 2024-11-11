@@ -369,12 +369,6 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 <summary>Expand</summary>
 <br>
 
-Listas de reproducción:
-
-```
-https://iptv-org.github.io/iptv/index.category.m3u
-```
-
 Lista de reproducción principal 
 ```bash
 https://iptv-org.github.io/iptv/index.m3u
