@@ -405,7 +405,7 @@ M3U Chile
 ```bash
 https://m3u.cl/lista/CL.m3u
 ```
-Lista IPTV MÃºsica
+Lista IPTV Música
 ```bash
 https://m3u.cl/lista/musica.m3u
 ```
