@@ -26,7 +26,7 @@ Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Lista de reproducción de iPTV para `adultos` 😨😳🥵😵🥴
+Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
