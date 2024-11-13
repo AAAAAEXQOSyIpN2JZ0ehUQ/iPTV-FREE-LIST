@@ -21,12 +21,12 @@ marcha. ¡Gracias por tu apoyo!
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :satellite: Tipo de lista
-Lista de reproducción de iPTV para `todo publico`
+Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Lista de reproducción de iPTV para `adultos`
+Lista de reproducción de iPTV para `adultos` 😨😳🥵😵🥴
 ```bash
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
@@ -315,7 +315,7 @@ Bibliotecas y frameworks para trabajar con datos de IPTV
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - Reproductor IPTV con soporte para listas M3U.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - Proxy M3U para Plex DVR y Emby Live TV.
 
-## 🤝 Contribución
+## �� Contribución
 
 Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando esté relacionado con el tema de IPTV, es muy probable que sea aceptado.
 
