@@ -315,7 +315,7 @@ Bibliotecas y frameworks para trabajar con datos de IPTV
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - Reproductor IPTV con soporte para listas M3U.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - Proxy M3U para Plex DVR y Emby Live TV.
 
-## �� Contribución
+##    Contribución
 
 Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando esté relacionado con el tema de IPTV, es muy probable que sea aceptado.
 
@@ -379,6 +379,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 **Extras**
 * https://ww5.series24.org
 * https://www.lacartoons.com
+* https://play.mercadolibre.cl
 
 **Anime**
 * https://www.animeflv.io
