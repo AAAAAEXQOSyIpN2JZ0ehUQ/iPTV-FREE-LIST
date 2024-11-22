@@ -344,7 +344,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * https://app.plex.tv/desktop
 * https://plus.nasa.gov
 * https://www.viendotele.cl
-- 📺 ![locomotiontv](http://www.locomotiontv.com/envivo) 
+* 📺 ![https://www.viendotele.cl](https://www.viendotele.cl) 
+* 📺 ![locomotiontv](http://www.locomotiontv.com/envivo) 
 
 ## :film_strip: Peliculas , series y anime
 **Pelis**
