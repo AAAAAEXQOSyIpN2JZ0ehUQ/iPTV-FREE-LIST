@@ -446,6 +446,6 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 | :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: ![Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio 
+* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio 
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
