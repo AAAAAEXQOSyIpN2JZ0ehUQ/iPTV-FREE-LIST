@@ -12,11 +12,9 @@ excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin
 necesidad de una suscripción paga.
 
 ## :dollar: Donaciones por PayPal
-Este proyecto de IPTV gratuito está diseñado para ahorrarte tiempo y dinero, 
-ofreciéndote una experiencia de transmisión sin complicaciones. Si este recurso te 
-ha sido útil, considera hacer una donación a través de PayPal. Cualquier contribución, 
-por pequeña que sea, es muy apreciada y ayuda a mantener este proyecto en 
-marcha. ¡Gracias por tu apoyo!
+Si este recurso te ha sido útil, considera hacer una donación a través de PayPal. 
+Cualquier contribución, por pequeña que sea, es muy apreciada y ayuda 
+a mantener este proyecto en marcha. ¡Gracias por tu apoyo!
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
@@ -444,6 +442,10 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 | :book:           | README.md              | Archivo de documentación principal  |
 | :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                 |
 | :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
+
+## :star2: Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este script o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
 * :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio 
