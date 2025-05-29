@@ -18,7 +18,7 @@ ha sido útil, considera hacer una donación a través de PayPal. Cualquier cont
 por pequeña que sea, es muy apreciada y ayuda a mantener este proyecto en 
 marcha. ¡Gracias por tu apoyo!
 
-![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
+![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
 ## :satellite: Tipo de lista
 Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
@@ -321,7 +321,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## 📝 Licencia
 
-![!![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </details>
 
