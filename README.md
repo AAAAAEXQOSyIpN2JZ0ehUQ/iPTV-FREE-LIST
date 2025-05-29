@@ -323,78 +323,115 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 </details>
 
-## :film_strip: iPTV online
+# 📺 Lista de iPTV, Películas, Series, Anime y Más
 
-* https://www.tvplusgratis2.com
-* https://www.telegratishd.com
-* https://www.vertvcable.com
-* https://www.tvspacehd.com
-* https://www.televisiongratishd.com
-* https://www.supertelevisionhd.com
-* https://www.chilenotas.com
-* https://www.cablegratis.online
-* https://www.telefullenvivo.com
-* https://www.televall.online
-* https://www.lookhu.tv 
-* https://www.cxtvenvivo.com
-* https://www.m3u.cl
-* https://www.pluto.tv/es
-* https://app.plex.tv/desktop
-* https://plus.nasa.gov
-* https://www.viendotele.cl
-* http://www.locomotiontv.com/envivo
+Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar. 🌐🎥
 
-## :film_strip: Peliculas , series y anime
+---
 
-**Pelis**
-* https://www4.pelisplushd.lat
-* https://www.pelisplushd.nz
-* https://www.pelisplushd.so
-* https://www17.pelisplushd.to
-* https://www.pelisflix2.charity
-* https://www.pelisflix2.my
-* https://www.pelisflixhd.cam
-* https://www.pelisflix.toys
-* https://www.pelisplusgo.vip
-* https://www.pelisplus.in
-* https://www.pelisnow.to
-* https://www.vepelis.com
+## 📡 iPTV Online
 
-**Cuevana**
-* https://www.ircuevana.com
-* https://znr.cuevana.pro/
-* https://www.cuevana.biz/serie/274242/vencer-o-morir
-* https://mia.cuevana3.vip/
-* https://ww3.cuevana3.to
-* https://www.cuevanahd-3.com/inicio-2/
-* https://25.cuevana4.me
-* https://www.cuevana8.com
-* https://www.cuevana8.live
+| 🌐 Enlace                              | Descripción               |
+|----------------------------------------|---------------------------|
+| https://www.tvplusgratis2.com          | TV Plus Gratis            |
+| https://www.telegratishd.com           | Tele Gratis HD            |
+| https://www.vertvcable.com             | Ver TV Cable              |
+| https://www.tvspacehd.com              | TV Space HD               |
+| https://www.televisiongratishd.com     | Televisión Gratis HD      |
+| https://www.supertelevisionhd.com      | Super Televisión HD       |
+| https://www.chilenotas.com             | Chile Notas               |
+| https://www.cablegratis.online         | Cable Gratis Online       |
+| https://www.telefullenvivo.com         | Tele Full en Vivo         |
+| https://www.televall.online            | Tele Vall Online          |
+| https://www.lookhu.tv                  | LookHu TV                 |
+| https://www.cxtvenvivo.com             | CXTV en Vivo              |
+| https://www.m3u.cl                     | M3U Chile                 |
+| https://www.pluto.tv/es                | Pluto TV                  |
+| https://app.plex.tv/desktop            | Plex Desktop              |
+| https://plus.nasa.gov                  | NASA Plus                 |
+| https://www.viendotele.cl              | Viendo Tele               |
+| http://www.locomotiontv.com/envivo     | Locomotion TV En Vivo     |
 
-**Gnula**
-* https://www.gnula.nu
-* https://wv5n.gnula.cc
+---
 
-**Extras**
-* https://ww5.series24.org
-* https://www.lacartoons.com
-* https://play.mercadolibre.cl
+## 🎞️ Películas, Series y Anime
 
-**Anime**
-* https://www.animeflv.io
-* https://www3.animeflv.net
-* https://www.animeflv1.net
-* https://www.animeyt.pro
-* https://ww3.animeonline.ninja
-* https://vvv.animeyt.one
-* https://tioanime.com/
+### 🎬 Películas
 
-**Hentai**
-* https://www2.verhentai.top
-* https://www.veohentai.com/genero/hentai-sin-censura
-* https://www.hentaiyt.net
-* https://hentaijk.com/
-* https://hentaijl.com/
+| 🎥 Enlace                              |
+|----------------------------------------|
+| https://www4.pelisplushd.lat           |
+| https://www.pelisplushd.nz             |
+| https://www.pelisplushd.so             |
+| https://www17.pelisplushd.to           |
+| https://www.pelisflix2.charity         |
+| https://www.pelisflix2.my              |
+| https://www.pelisflixhd.cam            |
+| https://www.pelisflix.toys             |
+| https://www.pelisplusgo.vip            |
+| https://www.pelisplus.in               |
+| https://www.pelisnow.to                |
+| https://www.vepelis.com                |
+
+### 📺 Cuevana
+
+| 🍿 Enlace                              |
+|----------------------------------------|
+| https://www.ircuevana.com              |
+| https://znr.cuevana.pro                |
+| https://www.cuevana.biz/serie/274242/vencer-o-morir |
+| https://mia.cuevana3.vip               |
+| https://ww3.cuevana3.to                |
+| https://www.cuevanahd-3.com/inicio-2   |
+| https://25.cuevana4.me                 |
+| https://www.cuevana8.com               |
+| https://www.cuevana8.live              |
+
+### 🎞️ Gnula
+
+| 🎬 Enlace                              |
+|----------------------------------------|
+| https://www.gnula.nu                   |
+| https://wv5n.gnula.cc                  |
+
+### 🔗 Extras
+
+| 💡 Enlace                              |
+|----------------------------------------|
+| https://ww5.series24.org               |
+| https://www.lacartoons.com             |
+| https://play.mercadolibre.cl           |
+
+---
+
+## 🍥 Anime
+
+| 🧠 Enlace                              |
+|----------------------------------------|
+| https://www.animeflv.si                |
+| https://www3.animeflv.net              |
+| https://www.animeflv1.net              |
+| https://ww3.animeonline.ninja          |
+| https://vvv.animeyt.one                |
+| https://tioanime.com                   |
+
+---
+
+## 🔞 Hentai
+
+| 🔥 Enlace                              |
+|----------------------------------------|
+| https://www2.verhentai.top             |
+| https://www.veohentai.com/genero/hentai-sin-censura |
+| https://www.hentaiyt.net               |
+| https://hentaijk.com/                  |
+| https://hentaijl.com                   |
+
+---
+
+📬 **Contacto:** Si quieres colaborar o enviar nuevas sugerencias, abre un *Pull Request* o contacta a [Jenn Valentine](https://github.com/JennValentine).
+
+
 
 ## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
