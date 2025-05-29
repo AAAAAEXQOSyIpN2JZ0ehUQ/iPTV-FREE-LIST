@@ -336,12 +336,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.telegratishd.com           | Tele Gratis HD            |
 | https://www.vertvcable.com             | Ver TV Cable              |
 | https://www.tvspacehd.com              | TV Space HD               |
-| https://www.televisiongratishd.com     | Televisión Gratis HD      |
-| https://www.supertelevisionhd.com      | Super Televisión HD       |
-| https://www.chilenotas.com             | Chile Notas               |
-| https://www.cablegratis.online         | Cable Gratis Online       |
 | https://www.telefullenvivo.com         | Tele Full en Vivo         |
-| https://www.televall.online            | Tele Vall Online          |
 | https://www.lookhu.tv                  | LookHu TV                 |
 | https://www.cxtvenvivo.com             | CXTV en Vivo              |
 | https://www.m3u.cl                     | M3U Chile                 |
