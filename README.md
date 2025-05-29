@@ -347,6 +347,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 * http://www.locomotiontv.com/envivo
 
 ## :film_strip: Peliculas , series y anime
+
 **Pelis**
 * https://www4.pelisplushd.lat
 * https://www.pelisplushd.nz
@@ -392,16 +393,16 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 **Hentai**
 * https://www2.verhentai.top
-* [https://www.veohentai.com](https://www.veohentai.com/genero/hentai-sin-censura/)
+* https://www.veohentai.com/genero/hentai-sin-censura
 * https://www.hentaiyt.net
 
 ## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
 ## :bulb: Recomendaciones
-**Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
+**Es aconsejable visualizar este contenido en navegadores como ![LibreWolf](https://librewolf.net/) o ![Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
 
-* [Descarga de TV Librewolf Browser Preconfigurado](https://www.dropbox.com/scl/fi/sk3m4fvfd5kndgcng76cp/TV-Librewolf-Browser.zip?rlkey=tw8zg2eorsj1922uvv2uh8f28&st=lqvi28zw&dl=0/)
+* [Descarga de TV Librewolf Browser Preconfigurado](#)
 
 <details>
 <summary>Expand</summary>
@@ -445,6 +446,6 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 | :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio 
+* :busts_in_silhouette: **illuminati Dev Team**: ![Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio 
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
