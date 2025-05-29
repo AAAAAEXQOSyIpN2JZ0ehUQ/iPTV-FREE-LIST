@@ -327,7 +327,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar. 🌐🎥
 
----
 
 ## 📡 iPTV Online
 
@@ -352,13 +351,12 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.viendotele.cl              | Viendo Tele               |
 | http://www.locomotiontv.com/envivo     | Locomotion TV En Vivo     |
 
----
 
 ## 🎞️ Películas, Series y Anime
 
 ### 🎬 Películas
 
-| 🎥 Enlace                              |
+| 🍿 Enlace                              |
 |----------------------------------------|
 | https://www4.pelisplushd.lat           |
 | https://www.pelisplushd.nz             |
@@ -372,6 +370,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.pelisplus.in               |
 | https://www.pelisnow.to                |
 | https://www.vepelis.com                |
+
 
 ### 📺 Cuevana
 
@@ -387,22 +386,23 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.cuevana8.com               |
 | https://www.cuevana8.live              |
 
+
 ### 🎞️ Gnula
 
-| 🎬 Enlace                              |
+| 🍿 Enlace                              |
 |----------------------------------------|
 | https://www.gnula.nu                   |
 | https://wv5n.gnula.cc                  |
 
+
 ### 🔗 Extras
 
-| 💡 Enlace                              |
+| 🍿 Enlace                              |
 |----------------------------------------|
 | https://ww5.series24.org               |
 | https://www.lacartoons.com             |
 | https://play.mercadolibre.cl           |
 
----
 
 ## 🍥 Anime
 
@@ -415,7 +415,6 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://vvv.animeyt.one                |
 | https://tioanime.com                   |
 
----
 
 ## 🔞 Hentai
 
@@ -426,12 +425,6 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.hentaiyt.net               |
 | https://hentaijk.com/                  |
 | https://hentaijl.com                   |
-
----
-
-📬 **Contacto:** Si quieres colaborar o enviar nuevas sugerencias, abre un *Pull Request* o contacta a [Jenn Valentine](https://github.com/JennValentine).
-
-
 
 ## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
