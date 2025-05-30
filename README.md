@@ -139,11 +139,13 @@ https://m3u.cl/lista/total.m3u
 
 </details>
 
-## 📺 Contenido en línea de iPTV
+----------------------------------------------------------------------------------------------------------
 
 **Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar.**
 
 **Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.**
+
+## 📺 Contenido en línea de iPTV
 
 <details>
 <summary>Expandir</summary>
