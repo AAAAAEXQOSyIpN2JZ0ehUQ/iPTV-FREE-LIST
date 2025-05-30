@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 <br>
 
 Lista de reproducción principal 
@@ -73,7 +73,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 * [Pagina web](https://m3u.cl) - Proyecto Oficial 
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 <br>
 
 Listas de reproducción:
@@ -108,7 +108,7 @@ https://m3u.cl/lista/total.m3u
 ## :desktop_computer: Aplicaciones  
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 <br>
 
 ## 🌐 Web
@@ -420,7 +420,7 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 <br>
 
 **ADD-ONS Principal** 
