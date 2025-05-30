@@ -330,6 +330,10 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 
 ## 📡 iPTV Online
 
+<details>
+<summary>Expandir</summary>
+<br>
+
 | 🌐 Enlace                              | Descripción               |
 |----------------------------------------|---------------------------|
 | https://www.tvplusgratis2.com          | TV Plus Gratis            |
@@ -346,10 +350,15 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.viendotele.cl              | Viendo Tele               |
 | http://www.locomotiontv.com/envivo     | Locomotion TV En Vivo     |
 
+</details>
 
 ## 🎞️ Películas, Series y Anime
 
-### 🎬 Películas
+<details>
+<summary>Expandir</summary>
+<br>
+
+🎬 **Películas**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -362,7 +371,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.vepelis.com                |
 
 
-### 🎬 Cuevana
+🎬 **Cuevana**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -374,7 +383,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://cuevana3new.lol                |
 
 
-### 🎬 Gnula
+🎬 **Gnula**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -382,7 +391,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://wv5n.gnula.cc                  |
 
 
-### 🔗 Extras
+🔗 **Extras**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -391,7 +400,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://play.mercadolibre.cl           |
 
 
-## 🍥 Anime
+🍥 **Anime**
 
 | 🧠 Enlace                              |
 |----------------------------------------|
@@ -403,7 +412,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://tioanime.com                   |
 
 
-## 🔞 Hentai
+🔞 Hentai
 
 | 🔥 Enlace                              |
 |----------------------------------------|
