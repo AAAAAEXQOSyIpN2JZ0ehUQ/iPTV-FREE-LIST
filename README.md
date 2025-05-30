@@ -354,16 +354,11 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | 🍿 Enlace                              |
 |----------------------------------------|
 | https://www4.pelisplushd.lat           |
-| https://www.pelisplushd.nz             |
-| https://www.pelisplushd.so             |
 | https://www17.pelisplushd.to           |
-| https://www.pelisflix2.charity         |
 | https://www.pelisflix2.my              |
 | https://www.pelisflixhd.cam            |
 | https://www.pelisflix.toys             |
-| https://www.pelisplusgo.vip            |
 | https://www.pelisplus.in               |
-| https://www.pelisnow.to                |
 | https://www.vepelis.com                |
 
 
@@ -371,15 +366,12 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 
 | 🍿 Enlace                              |
 |----------------------------------------|
-| https://www.ircuevana.com              |
 | https://znr.cuevana.pro                |
 | https://www.cuevana.biz/serie/274242/vencer-o-morir |
 | https://mia.cuevana3.vip               |
 | https://ww3.cuevana3.to                |
-| https://www.cuevanahd-3.com/inicio-2   |
 | https://25.cuevana4.me                 |
-| https://www.cuevana8.com               |
-| https://www.cuevana8.live              |
+| https://cuevana3new.lol                |
 
 
 ### 🎞️ Gnula
@@ -418,7 +410,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www2.verhentai.top             |
 | https://www.veohentai.com/genero/hentai-sin-censura |
 | https://www.hentaiyt.net               |
-| https://hentaijk.com/                  |
+| https://hentaijk.com                   |
 | https://hentaijl.com                   |
 
 ## :bookmark_tabs: Notas
