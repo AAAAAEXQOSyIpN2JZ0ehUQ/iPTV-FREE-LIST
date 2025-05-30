@@ -3,7 +3,8 @@
 # iPTV-FREE-LIST
 
 ## :information_source: Descripción
-Una colección gratuita de enlaces para transmitir canales de TV y radios en línea.
+
+Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai, radios y más. Todo en un solo lugar.
 
 Esta lista proporciona una variedad de opciones para ver y escuchar contenido 
 multimedia desde tu dispositivo. Incluye enlaces a plataformas populares de 
@@ -138,12 +139,6 @@ https://m3u.cl/lista/total.m3u
 1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
 </details>
-
-----------------------------------------------------------------------------------------------------------
-
-**Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar.**
-
-**Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.**
 
 ## 📺 Contenido en línea de iPTV
 
@@ -460,6 +455,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </details>
+
+**Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.**
 
 ## :file_folder: Proyectos útiles 
 1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
