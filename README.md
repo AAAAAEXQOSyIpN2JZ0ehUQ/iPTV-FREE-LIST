@@ -362,7 +362,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.vepelis.com                |
 
 
-### 📺 Cuevana
+### 🎬 Cuevana
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -374,7 +374,7 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://cuevana3new.lol                |
 
 
-### 🎞️ Gnula
+### 🎬 Gnula
 
 | 🍿 Enlace                              |
 |----------------------------------------|
