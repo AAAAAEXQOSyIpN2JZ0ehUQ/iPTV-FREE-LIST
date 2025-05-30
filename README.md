@@ -325,14 +325,14 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 # 📺 Lista de iPTV, Películas, Series, Anime y Más
 
+<details>
+<summary>Expandir</summary>
+<br>
+
 Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar. 🌐🎥
 
 
 ## 📡 iPTV Online
-
-<details>
-<summary>Expandir</summary>
-<br>
 
 | 🌐 Enlace                              | Descripción               |
 |----------------------------------------|---------------------------|
@@ -421,6 +421,8 @@ Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV
 | https://www.hentaiyt.net               |
 | https://hentaijk.com                   |
 | https://hentaijl.com                   |
+
+</details>
 
 ## :bookmark_tabs: Notas
 Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
