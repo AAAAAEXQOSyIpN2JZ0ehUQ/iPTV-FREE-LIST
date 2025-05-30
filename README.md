@@ -449,7 +449,7 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 </details>
 
 ## :file_folder: Proyectos útiles 
-1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/Install/xTream-UI-r22f)
+1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
 
 ## :open_file_folder: Estructura del Repositorio
 
@@ -457,6 +457,7 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 |------------------|------------------------|-------------------------------------|
 | :file_folder:    | Imagenes               | Carpeta para imágenes               |
 | :file_folder:    | Install                | Carpeta para scripts de instalación |
+| :file_folder:    | xTream-UI-r22f         | Carpeta para xTream-UI-r22f         |
 | :page_facing_up: | .gitattributes         | Archivo para configuración de Git   |
 | :book:           | README.md              | Archivo de documentación principal  |
 | :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                 |
