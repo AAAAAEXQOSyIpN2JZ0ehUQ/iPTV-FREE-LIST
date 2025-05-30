@@ -323,7 +323,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 </details>
 
-# 📺 Lista de iPTV, Películas, Series, Anime y Más
+## 📺 Contenido en línea de iPTV, Películas, Series, Anime y Más
 
 <details>
 <summary>Expandir</summary>
