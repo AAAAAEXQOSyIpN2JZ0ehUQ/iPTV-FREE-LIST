@@ -140,7 +140,7 @@ https://m3u.cl/lista/total.m3u
 <summary>Expandir</summary>
 <br>
 
-🎬 **Películas**
+🎬 **Pelisplus**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
@@ -429,6 +429,8 @@ Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón d
 
 ## :bulb: Recomendaciones
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
+
+* [Descarga de TV Librewolf Browser Preconfigurado](#)
 
 <details>
 <summary>Expandir</summary>
