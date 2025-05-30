@@ -95,8 +95,6 @@ https://m3u.cl/lista/total.m3u
 
 </details>
 
-:memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de ALL IPTV Player](https://www.microsoft.com/store/productId/9N7DWMX898LB?ocid=pdpshare/) para lista M3U y M3U8 Windows
@@ -109,6 +107,9 @@ https://m3u.cl/lista/total.m3u
 ## 📺 Contenido en línea de iPTV
 
 **Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar.** 🌐🎥
+
+:memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
+Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
 <details>
 <summary>Expandir</summary>
@@ -423,9 +424,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </details>
-
-## :bookmark_tabs: Notas
-Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
 ## :bulb: Recomendaciones
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
