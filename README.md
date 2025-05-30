@@ -32,7 +32,9 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 ## 📺 Contenido en línea de iPTV
 
-**Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar.** 🌐🎥
+:memo: **Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai y más. Todo en un solo lugar.** 🌐🎥
+
+:memo: **Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.**
 
 <details>
 <summary>Expandir</summary>
@@ -129,9 +131,6 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 | https://hentaijl.com                   |
 
 </details>
-
-## :bookmark_tabs: Notas
-Para abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.
 
 ## :bulb: Recomendaciones
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
