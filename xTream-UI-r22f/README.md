@@ -73,6 +73,6 @@ touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 * Proyecto Emre1393 [Instalador](https://bitbucket.org/emre1393/xtreamui_mirror/src/master) | [Librerias](https://bitbucket.org/emre1393/xtreamui_mirror/downloads)
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Colaborador
+* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Solo lectura 
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
