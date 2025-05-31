@@ -478,6 +478,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este script o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de repositorio
+* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
 
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
