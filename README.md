@@ -459,7 +459,8 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 </details>
 
 ## :file_folder: Proyectos útiles 
-1. [xTream-UI-r22f](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
+
+- xTream-UI-r22f: [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
 
 ## :open_file_folder: Estructura del Repositorio
 
@@ -478,6 +479,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este script o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Grupo](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
+* :busts_in_silhouette: **illuminati Dev Team**: [Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
