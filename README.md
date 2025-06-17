@@ -119,22 +119,23 @@ https://m3u.cl/lista/total.m3u
 <br>
 
 **ADD-ONS Principal** 
-1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
-1. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
+
+1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 1. [PopUpOFF by RomanistHere](https://addons.mozilla.org/en-US/firefox/addon/popupoff/)
 1. [Port Authority by Hacks and Hops](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
-1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 
 **ADD-ONS Opcional**
-1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
-1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 1. [NoScript Security Suite by Giorgio Maone](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+1. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
 
 **ADD-ONS Temas**
 1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
@@ -476,7 +477,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :star2: Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar este script o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
 * :busts_in_silhouette: **illuminati Dev Team**: [Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
