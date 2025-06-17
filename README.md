@@ -98,7 +98,7 @@ https://m3u.cl/lista/total.m3u
 
 </details>
 
-**Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva ventana" o "Abrir enlace en una nueva pestaña", dependiendo de tu navegador.**
+**Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
 
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
