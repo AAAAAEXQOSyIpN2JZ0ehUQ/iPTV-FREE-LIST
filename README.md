@@ -465,15 +465,15 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :open_file_folder: Estructura del Repositorio
 
-| Icono            | Nombre         | Descripción                                 |
-|------------------|------------------------|-------------------------------------|
-| :file_folder:    | Imagenes               | Carpeta para imágenes               |
-| :file_folder:    | Install                | Carpeta para scripts de instalación |
-| :file_folder:    | xTream-UI-r22f         | Carpeta para xTream-UI-r22f         |
-| :page_facing_up: | .gitattributes         | Archivo para configuración de Git   |
-| :book:           | README.md              | Archivo de documentación principal  |
-| :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                 |
-| :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                  |
+| Icono            | Nombre         | Descripción                                   |
+|------------------|------------------------|---------------------------------------|
+| :file_folder:    | Imagenes               | Carpeta para imágenes                 |
+| :file_folder:    | Recopilacion           | Carpeta para archivos de recopilacion |
+| :file_folder:    | xTream-UI-r22f         | Carpeta para xTream-UI-r22f           |
+| :page_facing_up: | .gitattributes         | Archivo para configuración de Git     |
+| :book:           | README.md              | Archivo de documentación principal    |
+| :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                   |
+| :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                    |
 
 ## :star2: Contribuciones
 
