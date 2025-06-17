@@ -1,0 +1,7 @@
+Latam 🌐 | Instagram | Linktree
+
+Set-ExecutionPolicy RemoteSigned -Force
+ 
+.\extractor.ps1
+
+Set-ExecutionPolicy Restricted -Force
