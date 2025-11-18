@@ -1,4 +1,4 @@
-﻿![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
+﻿![logo](https://raw.githubusercontent.com/Thony_DroidYT/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
 
 # iPTV-FREE-LIST
 
@@ -22,12 +22,12 @@ a mantener este proyecto en marcha. ¡Gracias por tu apoyo!
 ## :satellite: Tipo de lista
 Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
 ```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
+https://raw.githubusercontent.com/Thony_DroidYT/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
 Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
 ```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
+https://raw.githubusercontent.com/Thony_DroidYT/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
 ## :satellite: lista iptv-org
@@ -461,7 +461,7 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 
 ## :file_folder: Proyectos útiles 
 
-- xTream-UI-r22f: [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
+- xTream-UI-r22f: [Ver Repositorio](https://github.com/Thony_DroidYT/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
 
 ## :open_file_folder: Estructura del Repositorio
 
@@ -480,6 +480,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
+* :busts_in_silhouette: **illuminati Dev Team**: [Telegram](https://t.me/Thony_DroidYT) - Actualización de Repositorio
 
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+☆ https://t.me/Thony_DroidYT ☆
