@@ -106,7 +106,7 @@ https://m3u.cl/lista/total.m3u
 
 ## :satellite: lista PlutoTV
 * [Pagina web](https://github.com/HankLloydRight/pluto-for-channels-php) - Proyecto Oficial 
-* [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308)
+* [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308) - Community GetChannels
 
 <details>
 <summary>Expandir</summary>
