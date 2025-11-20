@@ -30,6 +30,15 @@ Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
+**Microsoft Store Windows - IPTV Player**
+* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
+* [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator/) para lista M3U y M3U8 Windows
+* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows
+  
+**Play Store Android - IPTV Player**
+* [Descarga de IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_CL/) para lista M3U y M3U8 Android
+* [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
+
 ## :satellite: lista iptv-org
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
@@ -93,21 +102,41 @@ Lista IPTV Total
 ```bash
 https://m3u.cl/lista/total.m3u
 ```
+</details>
+
+## :satellite: lista PlutoTV m3u
+* [Pagina web](https://github.com/HankLloydRight/pluto-for-channels-php) - Proyecto Oficial 
+* [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308)
+
+<details>
+<summary>Expandir</summary>
+<br>
+
+Listas de reproducción:
+
+M3U PlutoTV
+```bash
+https://nocords.xyz/pluto/playlist.m3u
+```
+PlutoTV EPG
+```bash
+https://nocords.xyz/pluto/epg.xml
+```
+
+M3U PlutoTV Stirr
+```bash
+https://nocords.xyz/stirr/playlist.m3u
+```
+PlutoTV EPG
+```bash
+https://nocords.xyz/stirr/epg.xml
+```
 
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
 
 </details>
 
 **Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
-
-**Microsoft Store Windows - IPTV Player**
-* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
-* [Descarga de ALL IPTV Player](https://www.microsoft.com/store/productId/9N7DWMX898LB?ocid=pdpshare/) para lista M3U y M3U8 Windows
-* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows
-  
-**Play Store Android - IPTV Player**
-* [Descarga de IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_CL/) para lista M3U y M3U8 Android
-* [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
 
 ## :bulb: Recomendaciones
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
