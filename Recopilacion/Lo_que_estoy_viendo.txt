@@ -9,7 +9,7 @@
 | 7  | Halo                                                | T1        | E1       |          |
 | 8  | Urban Legend                                        | T1        | E1       |          |
 | 9  | Loki                                                | T1        | E1       |          |
-|10  | Boruto: Naruto Next Generations (TV) c               | T1        | E1       |          |
+|10  | Boruto: Naruto Next Generations (TV)                | T1        | E1       |          |
 |11  | Fallout                                             | T1        | E1       |          |
 
 
