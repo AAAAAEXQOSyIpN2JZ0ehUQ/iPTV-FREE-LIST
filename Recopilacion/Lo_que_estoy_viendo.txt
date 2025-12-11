@@ -1,4 +1,4 @@
-| #  | RecomendaciÓN                                      | Temporada | CapÃ­tulo | Aáo     |
+| #  | RecomendaciÃ³n                                      | Temporada | CapÃ­tulo | AÃ±o     |
 |----|-----------------------------------------------------|-----------|----------|----------|
 | 1  | Doctor Who                                          | T2        | E7       | 2025     |
 | 2  | El Problema de los 3 Cuerpos                        | T1        | E1       |          |
