@@ -13,6 +13,7 @@
 # 📖 ÍNDICE
 #   
 # - Lo Más Visto
+# - PlutoTV
 # - Chileiptv
 # - M3U Chile
 # - Lao TV
@@ -68,7 +69,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 # **********************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Lo Más Visto", Lo Más Visto
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Lo Más Visto", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
@@ -112,8 +113,157 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #*****************************
 #*****************************
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="PlutoTV", PlutoTV
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
+
+#EXTINF:0 channel-id="little-angels-playroom-en-espanol" channel-number="3750" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60493283ffc52f000710edae/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Little Angel's Playroom en Español" tvc-guide-description="Bebecito Bum y sus amigos" es el hogar de divertidos y educativos videos para niños con canciones infantiles clásicas y nuevas. Con sus amigos y familiares, Mia, de 6 años, experimenta el mundo que la rodea a través de canciones y un poco de magia." group-title="Kids", Little Angel's Playroom en Español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cc4c-c01c-11f0-9164-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ed95a75-86ea-4b3a-b5dd-a9abc8aadbf8&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="nick-en-espanol" channel-number="3780" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nickelodeon en español" tvc-guide-description="¡Bienvenido a Nickelodeon en español en Pluto TV, donde puedes disfrutar de tus programas favoritos como SpongeBob (Bob Esponja), Loud House (Una casa de locos), Henry Danger, PAW Patrol (Patrulla de cachorros), Blaze & the Monster Machines y más!" group-title="Kids", Nickelodeon en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="90s-kids-tv" channel-number="3785" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" tvc-guide-art="https://images.pluto.tv/channels/6452c814939a590008567a3b/featuredImage_1731837942915.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="90's Kids" tvc-guide-description="Nickelodeon takes you back to the 90s with Rugrats, Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="Kids", 90's Kids
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4ce22-c01c-11f0-9a41-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=336f37e7-4d5d-42f0-a41e-52c47718bbe5&userId=&serverSideAds=true
+
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a7b0-c01c-11f0-b786-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4ce97c4-e243-4086-8742-e317f0ef266f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="lupin-the-3rd" channel-number="4040" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png" tvc-guide-art="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/featuredImage_1731835687210.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Lupin the 3rd" tvc-guide-description="Master thief Lupin III and his gang trot the globe in search of world's most valued treasures while always staying one step ahead of the Interpol's Inspector Zenigata." group-title="Anime", Lupin the 3rd
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a83c-c01c-11f0-b9a4-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9730da93-3493-4517-8161-65174566b077&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-premiere" channel-number="4090" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Premiere" tvc-guide-description="¡Lo mejor del cine de Hollywood está en Cine Premiere! Comedias, romance, películas de acción, terror y joyas independientes. Lo más grande del celuloide doblado al español, las 24 horas del día, todos los días de la semana." group-title="En Español", Cine Premiere
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a8aa-c01c-11f0-a8c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cadf2f3-c69c-493d-9d43-7dac1865ab0f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-007-en-espanol" channel-number="4095" tvg-logo="https://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG_1732662300905.png" tvc-guide-art="https://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/featuredImage_1732662522402.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV 007 en español" tvc-guide-description="La acción, los autos, los martinis y el traje impecable del espía más famoso del mundo están ahora en Pluto TV 007 en español. Mira a Connery, Moore, Lazenby, Dalton, Brosnan, y Craig las 24 horas del día, 7 días a la semana." group-title="En Español", Pluto TV 007 en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a92c-c01c-11f0-937e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f6d891d6-e9c3-44c3-9e1f-73774437c877&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-en-espanol" channel-number="4100" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine en español" tvc-guide-description="El cine iberoamericano tiene su hogar aquí. Rendimos homenaje a los grandes actores, a los mejores directores y a los genios de la cinematografía en español. Si la película nació en nuestro idioma, está aquí." group-title="En Español", Cine en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a99a-c01c-11f0-9fe3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2cee87cc-2da3-4553-a1d2-7c8f6bfa3bd9&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-clasico" channel-number="4110" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Clásico" tvc-guide-description="Sumérgete en la época dorada del cine con auténticos clásicos de México, España y más. Ríe, llora y enamórate con estas películas premiadas, actuaciones estelares y joyas independientes que incluyen comedia, drama, romance y mucho más en Cine Clásico." group-title="En Español", Cine Clásico
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aa08-c01c-11f0-887c-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da77f0f6-1b51-4813-b258-a42a64002f80&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-aventura" channel-number="4120" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvc-guide-art="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage_1757954279355.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine aventura" tvc-guide-description="¡Ponte cómodo porque no querrás perderte ni un segundo de las mejores películas llenas de aventuras con los héroes más valientes e inesperados! Cine aventura te mantendrá al borde de tu asiento." group-title="En Español", Cine aventura
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aac6-c01c-11f0-8584-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4e54b3-d7bf-467b-a218-52d10831d5f3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-adrenalina" channel-number="4130" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine adrenalina" tvc-guide-description="Tu boleto para los éxitos más grandes de taquilla está en Cine adrenalina. Las películas más rompedoras de acción, emoción y aventura las tenemos aquí. Solo en Pluto TV." group-title="En Español", Cine adrenalina
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ab70-c01c-11f0-9fc8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ceb34b1-f949-44ba-ad24-dca6fbd4b716&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mas-adrenalina" channel-number="4132" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" tvc-guide-art="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/featuredImage_1755151030750.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Más adrenalina" tvc-guide-description="Pluto TV te trae otro rincón más donde encontrar lo que te gusta: pelis y patadas." group-title="En Español", Más adrenalina
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6abca-c01c-11f0-8155-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1d4c5cd-66ea-4664-b15b-76679c35c94f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-crimen" channel-number="4135" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" tvc-guide-art="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/featuredImage_1751915821616.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Crimen" tvc-guide-description="Encuentra aquí fascinantes historias de crímenes, misterios difíciles de explicar e investigaciones tortuosas. El cine preferido del detective que llevas dentro." group-title="En Español", Cine Crimen
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686c1c873ffa5e0c91a85938/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac24-c01c-11f0-b52f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce4c7f59-3469-4a8f-87c1-947ec27d7e37&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-terror" channel-number="4140" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine terror" tvc-guide-description="¡Aguanta la respiración, tápate los ojos y no hagas ruido! Todos los días, Cine terror te trae los más aterradores y escalofriantes éxitos del cine de miedo, suspense y terror en español y doblados. Todo para asegurarnos de que no puedas dormir." group-title="En Español", Cine terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac88-c01c-11f0-8c46-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22d2c7aa-5019-40f9-a408-7e88d0729058&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-comedia" channel-number="4150" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" tvc-guide-art="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/featuredImage_1757954350105.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine comedia" tvc-guide-description="Agarra las palomitas pero... cuidado con atragantarte, porque Cine comedia hará que te partas de risa con estos genios del humor. La misión es hacerte reír sin parar hasta que no puedas más." group-title="En Español", Cine comedia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ace2-c01c-11f0-b297-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1c225d9-5099-4a7e-827d-63356bfd2d9d&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-amor" channel-number="4160" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png" tvc-guide-art="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage_1757957533592.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Amor" tvc-guide-description="Si eres una persona incorregiblemente romántica, invita a tu media naranja a disfrutar juntos de las comedias más amorosas, los dramones con final feliz y las mejores historias épicas que solo se miran abrazaditos." group-title="En Español", Cine Amor
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ad46-c01c-11f0-a309-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee9a1e51-e102-4c45-910f-28a0f7aa9e16&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-navideno-ptv1" channel-number="4165" tvg-logo="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/colorLogoPNG_1761088385653.png" tvc-guide-art="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/featuredImage_1761088386655.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine navideño" tvc-guide-description="Las mejores películas y especiales navideños están en un solo lugar: Cine navideño. Reúne a toda tu familia y prepárense para descubrir que este canal es el mejor regalo para disfrutar." group-title="En Español", Cine navideño
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a4d7ae975100073994a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ada0-c01c-11f0-a0dc-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d5102f03-2378-4ab3-80c4-45eb59ee6ca1&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="hallmark-en-espanol" channel-number="4170" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG_1762020092325.png" tvc-guide-art="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/featuredImage_1762020091697.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Hallmark en español" tvc-guide-description="Hallmark en español te ofrece películas originales de romance y festividades orientadas a la familia que los hispanos adoran. Con una amplia colección de contenido del catálogo de Hallmark doblado al español, hay algo para todos." group-title="En Español", Hallmark en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae04-c01c-11f0-afad-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a4ac7dd-cc48-4997-a4d8-995935009a5c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="telemundo-telenovelas-clasicas-ptv1" channel-number="4180" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Telemundo telenovelas clásicas" tvc-guide-description="Telemundo telenovelas clásicas es tu destino obligatorio para encontrar los mejores dramas, comedias románticas y las telenovelas más populares. Si quieres ser conmovido e inspirado por inolvidables historias de amor, éste es el lugar para ti." group-title="En Español", Telemundo telenovelas clásicas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae5e-c01c-11f0-a1b3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29c128fe-0c7f-4e99-889c-7986fd2c851f&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-novelas" channel-number="4185" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Novelas" tvc-guide-description="Te ofrecemos gratis el catálogo más completo de novelas en español para verlas cuando quieras y donde quieras. Las novelas que te acompañan a lo largo del tiempo: las más memorables y las que te conmueven. Historias poderosas, emotivas y actuales." group-title="En Español", Pluto TV Novelas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96c0222df39f1a338d163/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aecc-c01c-11f0-b5a8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f5670cc5-988b-4230-9d60-d7aaa4204f6c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cbs-en-espanol" channel-number="4245" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CBS en español" tvc-guide-description="Las mejores series de televisión te esperan en este canal: drama, explosiones, pistas y mucho más… todos viven en CBS en español." group-title="En Español", CBS en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af26-c01c-11f0-84eb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14a420be-6647-4761-b50b-9b9d5f4b6be7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="csi-en-espanol" channel-number="4250" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI en Español" tvc-guide-description="CSI, la serie de crímenes que revolucionó la televisión, está disponible en Pluto TV 24/7. Acompaña al elenco original mientras descifran las pistas, interrogan a los sospechosos y ponen luz sobre las maldades de la “ciudad del pecado”." group-title="En Español", CSI en Español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af80-c01c-11f0-92ab-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78d0e50c-9697-4aef-8bb9-0a212131d2b3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="csi-miami-en-espanol" channel-number="4260" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" tvc-guide-art="https://images.pluto.tv/channels/632b5950b515b000079e6b81/featuredImage_1731837335005.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: Miami en español" tvc-guide-description="Ponte las gafas de sol y siente el calor. CSI: Miami fue la serie de televisión más popular del mundo y ahora la puedes ver cuando quieras en su canal de Pluto TV. Será suficiente para hacerte gritar: “YEEEEAAAAAHHH!”" group-title="En Español", CSI: Miami en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b016-c01c-11f0-99c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db101fb7-07c3-4406-8fbc-db07c4fb2273&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="csi-ny-en-espanol" channel-number="4270" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" tvc-guide-art="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/featuredImage_1731837279366.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: NY en español" tvc-guide-description="La Gran Manzana necesita de los mejores investigadores. Acompaña al mejor equipo de Nueva York mientras siguen las pistas y atrapan a los sospechosos en el único canal que te trae CSI: NY cada día, todo el día, aquí en Pluto TV." group-title="En Español", CSI: NY en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b07a-c01c-11f0-9278-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dbed597-c8eb-428f-8817-97e5b5144db3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="the-walking-dead-en-espanol" channel-number="4280" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="The Walking Dead en español" tvc-guide-description="¡No importa lo que pase, pero no te dejes morder! Los zombis más escalofriantes de la televisión van sueltos 24 horas al día y 7 días a la semana en The Walking Dead en español. Sé parte del drama donde los muertos vivientes son los protagonistas." group-title="En Español", The Walking Dead en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b0d4-c01c-11f0-b292-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16a42637-e439-4042-8348-8363689fffd5&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="la-familia-del-barrio-ptv1" channel-number="4335" tvg-logo="https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/668c566d08d5490008075948/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="La Familia del Barrio" tvc-guide-description="El exitoso dibujo animado para adultos, La Familia del Barrio, está en Pluto TV. Esta divertida serie sigue a una familia mexicana disfuncional que vive en una ciudad mexicana ficticia donde cualquier cosa puede pasar." group-title="En Español", La Familia del Barrio
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c566d08d5490008075948/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b138-c01c-11f0-971f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1c5106b7-e414-4ee7-a95e-2bad42bf64b6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="acapulco-shore-ptv1" channel-number="4340" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" tvc-guide-art="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/featuredImage_1751300628169.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Acapulco Shore" tvc-guide-description="Los reventones, los revolcones, y el desmadre no paran en Acapulco Shore. Sigue la pista a estos alocados chavitos durante la odisea más salvaje e inapropiada de la televisión. La fiesta no se detiene con los Acapulco Shore, ¿Qué esperas para sintonizar?" group-title="En Español", Acapulco Shore
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b192-c01c-11f0-9342-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=455b25ff-21a5-4a76-87d3-947e2649909d&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-en-espanol" channel-number="4350" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/featuredImage-1641928374769.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MTV en español" tvc-guide-description="¿Eres fan de los realities y la música? MTV en español te ofrece un mix de los realities más descabellados como Catfish, Are You the One? y Acapulco Shore. Además, toda la música que puedas desear. ¡Solo en español y solo por MTV en español!" group-title="En Español", MTV en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b1f6-c01c-11f0-a6cf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4596d49-4a45-4604-a2be-92bc1444701b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español" tvc-guide-description="Comedy Central en español es un mundo de comedia súper divertida y lo tiene todo: series de ficción, animaciones, especiales de stand-up, formatos cortos y sketches." group-title="En Español", Comedy Central en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="estrella-tv" channel-number="4370" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="EstrellaTV" tvc-guide-description="EstrellaTV es el canal líder en español de noticias y entretenimiento con una gran variedad de programación que abarca noticias y juegos, realities, competencias de talento y “talk shows”. ¡Una experiencia que no se pueden perder!" group-title="En Español", EstrellaTV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b2f0-c01c-11f0-aeeb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb51c0f6-849a-4e2f-bcaf-62f1cb3919f7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="casos-de-la-dra-polo" channel-number="4390" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60d393e5579a420007ee553c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Casos de la Dra. Polo" tvc-guide-description="“He dicho, ¡Caso cerrado!” Disfruta de los casos más escandalosos, polémicos y divertidos de la Dra. Polo. No te pierdas lo mejor de Caso Cerrado y Sala de Parejas aquí, en Pluto TV." group-title="En Español", Casos de la Dra. Polo
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b354-c01c-11f0-ad6e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786b84f8-274d-45f7-81bd-d8fbb0930b22&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="vidas-extremas" channel-number="4443" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/673249afc7626f0008c7205d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Vidas Extremas" tvc-guide-description="Conoce a las personalidades más icónicas de Discovery y sumérgete en sus extraordinarios mundos." group-title="En Español", Vidas Extremas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b43a-c01c-11f0-9b19-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44d5eb0e-5987-416a-a804-443241d4f6a8&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="construcciones-asombrosas" channel-number="4445" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" tvc-guide-art="https://images.pluto.tv/channels/673249433a61d400087a51ed/featuredImage_1732128448239.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Construcciones Asombrosas" tvc-guide-description="Estructuras sorprendentes en escenarios extraordinarios. La audiencia no podrá creer que se puedan construir propiedades así en lugares tan especiales." group-title="En Español", Construcciones Asombrosas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b494-c01c-11f0-bf75-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97a1a7d5-252a-4ddb-b0bc-abde4a0eb8e2&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="sala-de-emergencias" channel-number="4455" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Sala de Emergencias: Historias Inéditas" tvc-guide-description="Cada momento en la Sala de Emergencias podría significar problemas para los pacientes en apuros. En este canal, mire a los doctores tomar decisiones cruciales frente a las circunstancias más impredecibles y urgentes." group-title="En Español", Sala de Emergencias: Historias Inéditas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b4ee-c01c-11f0-ad70-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ef00bf1-2d5d-4005-927e-bb5bc724a517&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="crimen" channel-number="4459" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Crimen" tvc-guide-description="Historias reales de crímenes envueltos en misterio y llenos de suspenso que te dejarán pegado a la pantalla para descubrir al culpable y el destino de las víctimas —aún desde la tumba." group-title="En Español", Crimen
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b566-c01c-11f0-8b43-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e69519cd-9c55-4367-a404-31372d0db8e6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="crimenes-imperfectos" channel-number="4460" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Crímenes imperfectos" tvc-guide-description="El crimen perfecto no existe. Entérate como los investigadores buscan y encuentran las evidencias para resolver los crímenes más misteriosos, inexplicables e indescifrables. Después de todo son... Crímenes imperfectos." group-title="En Español", Crímenes imperfectos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b5ca-c01c-11f0-bf71-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16e4871e-061a-47bb-97ef-3c88fa388c25&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="misterios-sin-resolver-1" channel-number="4470" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Misterios sin resolver" tvc-guide-description="Aviso: ¡esto no es un noticiero! En misterios sin resolver el presentador Roberto Stack te llevará a la dimensión donde los crímenes misteriosos, los fenómenos paranormales y las historias de fantasmas se hacen realidad. ¿Estás listo?" group-title="En Español", Misterios sin resolver
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b624-c01c-11f0-ab43-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d968e239-10f9-4660-aa52-19545aaeba39&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="investiga-ptv1" channel-number="4480" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Investiga" tvc-guide-description="Si eres curioso... estás en el lugar indicado. Únete a los mejores expertos en criminalística de la televisión en Investiga, y ve si puedes descifrar el caso antes que ellos." group-title="En Español", Investiga
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b67e-c01c-11f0-b84e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d41c2b5c-3d1d-470b-a861-915ff6b0a23c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Telemundo Noticias Noreste" tvc-guide-description="Las noticias de última hora, temas locales, el tiempo en el Noreste." group-title="En Español", Telemundo Noticias Noreste
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b6e2-c01c-11f0-8daf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8e17388-3fe1-4001-97ee-aa69fd9dce64&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cnn-xpress" channel-number="4525" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" tvc-guide-art="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1755019017464.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CNN XPRESS" tvc-guide-description="Xpress ofrece las últimas noticias en español, incluyendo deportes, entretenimiento y negocios, con reportajes originales, resúmenes de noticias y entrevistas con personajes destacados de Estados Unidos, América Latina y el mundo." group-title="En Español", CNN XPRESS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b73c-c01c-11f0-909b-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=75312f01-4e3d-4639-933c-8a1455d7bce0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="estrella-news" channel-number="4530" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Estrella News" tvc-guide-description="Estrella News es el único canal de noticias digital 24/7 en español que ofrece las noticias más relevantes para la comunidad hispana. La cobertura incluye noticias locales, nacionales, de entretenimiento y deportes con el mejor equipo periodístico." group-title="En Español", Estrella News
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b78c-c01c-11f0-b96d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af9b0d15-b9ff-4249-badf-0024b02f16e3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="fox-deportes" channel-number="4550" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="FOX Deportes" tvc-guide-description="La primera cadena de deportes en Español en los Estados Unidos, no te pierdas lo más destacado de la Liga MX, MLS, Serie A, Liga Saudi, NASCAR y más." group-title="En Español", FOX Deportes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b7f0-c01c-11f0-a655-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc6253d2-4c79-41d0-b1d4-b8956b80f50a&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="lucha-libre-aaa" channel-number="4570" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Lucha Libre AAA" tvc-guide-description="¿Eres una persona aficionada a la Lucha Libre AAA? ¡No te pierdas lo mejor de la lucha libre Mexicana profesional de alto octanaje 24/7! Máscaras coloridas, movimientos de altos vuelos y entusiasmo sin fronteras vienen a ti con fuerza en este feroz y elec" group-title="En Español", Lucha Libre AAA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b85e-c01c-11f0-a806-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6eacd663-2ada-4b93-a9bd-4bb655b322ec&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="vevo-regional-mexicano-ptv1" channel-number="4580" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64dab5fe35425100080e2991/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Vevo Regional Mexicano" tvc-guide-description="Del mariachi a banda, vídeos y actuaciones que definen el género." group-title="En Español", Vevo Regional Mexicano
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b8b8-c01c-11f0-8f0f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98b83eeb-e062-4ed8-a603-00fd0125f544&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="vevo-iconos-latinos" channel-number="4590" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64d161c93c785e0008df575e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Vevo Íconos Latinos" tvc-guide-description="Vídeos y actuaciones de los músicos latinos más legendarios." group-title="En Español", Vevo Íconos Latinos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b912-c01c-11f0-8b87-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ff6ac883-465f-4243-9c03-47c459f5770c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="sony-canal-escape-perfecto" channel-number="4410" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/605e479d5b8229000763e697/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Sony Canal Escape Perfecto" tvc-guide-description="Sony Canal Escape Perfecto está dedicado a mostrar el concurso más emocionante de Latinoamérica, manteniendo a sus espectadores pegados a la pantalla viendo cómo los concursantes se enfrentan a sus desafíos en batallas estremecedoras y divertidísimas." group-title="En Español", Sony Canal Escape Perfecto
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b3b8-c01c-11f0-83db-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce33bc69-4ed0-4a49-acc8-ca625ac517b6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-flow-latino-ptv1" channel-number="4790" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvc-guide-art="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/featuredImage_1731834717859.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MTV Flow Latino" tvc-guide-description="Be immersed in the heart-pounding rhythms and vibrant melodies of Latin music's biggest stars." group-title="Music Videos", MTV Flow Latino
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bf70-c01c-11f0-a124-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=876f5f55-8c7a-4054-9591-14d6a1df9c18&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="yo-mtv" channel-number="4710" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Yo! MTV" tvc-guide-description="YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&B, and Latin artists to get any party started!" group-title="Music Videos", Yo! MTV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bc8c-c01c-11f0-83ea-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=487353bc-61d2-4263-9dba-61fa3c433dbf&userId=&serverSideAds=true
+
+#*****************************
+#*****************************
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Chileiptv", Chileiptv
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -428,7 +578,7 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="M3U Chile", M3U Chile
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
   
 #EXTM3U x-tvg-url="" tv-test="CL.m3u"
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
@@ -2965,7 +3115,7 @@ https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Lao TV", Lao TV
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/b8fK0FK.png" group-title="Lao TV", TV+ | FHD
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
@@ -3163,7 +3313,7 @@ https://bst.buin.cl/0.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos", Canales Chilenos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
 
@@ -3233,7 +3383,7 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos Regionales", Canales Chilenos Regionales
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUfqpcX.jpg" group-title="Canales Chilenos Regionales", Puerta Norte TV | FHD | Arica
 
@@ -3316,7 +3466,7 @@ http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Diarios Chilenos", Diarios Chilenos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0xXCre.jpg" group-title="Diarios Chilenos", La Tercera TV* | HD
 
@@ -3330,7 +3480,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales de Animacion", Canales de Animacion
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
 
@@ -3402,7 +3552,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales Juveniles", Canales de Animacion
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528172622.png" group-title="Canales Juveniles", Cachipun
 
@@ -3463,7 +3613,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 #*****************************
 
 #EXTINF:-1 tvg-logo="" group-title="Canales de Cultura", Canales de Cultura
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png" group-title="Canales de Cultura", NASA TV
 
@@ -3505,7 +3655,7 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Latinos", Canales de Latinos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="Canales de Latinos", NEX TV
 
@@ -3575,7 +3725,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Cine", Canales de Cine
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Canales de Cine", Fox Movies
 
@@ -3653,7 +3803,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Noticias", Canales de Noticias
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="Canales de Noticias", Sky News | HD
 
@@ -3793,7 +3943,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heY1Ppv.png" group-title="Canales de Deportes", Canales de Deportes
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
 
@@ -3880,7 +4030,7 @@ http://ott-cdn.ucom.am/s82/04.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6UOgvd.png" group-title="Canales Argentinos", Canales Argentinos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A64YheQ.jpg" group-title="Canales Argentinos", Net TV | HD
 
@@ -3917,7 +4067,7 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MWeluXa.png" group-title="Canales Brasileños", Canales Brasileños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Y9a7ri.png" group-title="Canales Brasileños", SBT | HD
 
@@ -3931,7 +4081,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUlN5e7.png" group-title="Canales Bolivianos", Canales Bolivianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hD8YvPA.jpg" group-title="Canales Bolivianos", Red Pat | La Paz | SD
 
@@ -3943,7 +4093,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Colombianos", Canales Colombianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="Canales Colombianos", Tele Islas | SD
 
@@ -3965,7 +4115,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ojIG13r.png" group-title="Canales Costarricenses", Canales Costarricenses
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Canales Costarricenses", Telered | SD
 
@@ -3979,7 +4129,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkOEhZu.png" group-title="Canales Dominicanos", Canales Dominicanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/adjlUbK.jpg" group-title="Canales Dominicanos", Microvision | SD
 
@@ -3989,7 +4139,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HTH3y5t.png" group-title="Canales Ecuatorianos", Canales Ecuatorianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AN0sVwt.png" group-title="Canales Ecuatorianos", UCSG | SD
 
@@ -4001,7 +4151,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="Canales Españoles", Canales Españoles
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
 
@@ -4117,13 +4267,13 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="Canales Guatemaltecos", Canales Guatemaltecos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #*****************************
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FK4wvH0.png" group-title="Canales Haitianos", Canales Haitianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgUpAaS.png" group-title="Canales Haitianos", Radio Tele Boston | SD
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
@@ -4132,7 +4282,7 @@ http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jggBn4N.png" group-title="Canales Hondureños", Canales Hondureños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="Canales Hondureños", Teleceiba Canal 7 | SD
 
@@ -4152,7 +4302,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="Canales Mexicanos", Canales Mexicanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -4245,7 +4395,7 @@ http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJeSFj7.png" group-title="Canales Panameños", Canales Panameños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Canales Panameños", Nex TV | SD
 
@@ -4253,7 +4403,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXK8Hyx.png" group-title="Canales Paraguayos", Canales Paraguayos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcWVO21.jpg" group-title="Canales Paraguayos", Unicanal | HD
 
@@ -4265,7 +4415,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKqx2nK.png" group-title="Canales Peruanos", Canales Peruanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="Canales Peruanos", TV Peru Noticias | SD
 
@@ -4294,13 +4444,13 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3hXZYdt.png" group-title="Canales Puertorriqueños", Canales Puertorriqueños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #*****************************
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q87HBes.png" group-title="Canales Salvadoreños", Canales Salvadoreños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/roPEr6G.png" group-title="Canales Salvadoreños", TVX | SD
 
@@ -4311,7 +4461,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FK4wvH0.png" group-title="Canales Uruguayos", Canales Uruguayos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skLKmML.png" group-title="Canales Uruguayos", Canal-M | HD
 
@@ -4319,7 +4469,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IriHk7.png" group-title="Canales Venezolanos", Canales Venezolanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjdoQHG.png" group-title="Canales Venezolanos", Telesur | HD
 
@@ -4329,13 +4479,13 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OluyROz.png" group-title="Canales Australianos", Canales Australianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #*****************************
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xW9zHxN.jpg" group-title="Canales Ingleses", Canales Ingleses
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8a18XH.png" group-title="Canales Ingleses", London Live | HD
 
@@ -4343,7 +4493,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opUQdHx.jpg" group-title="Canales Italianos", Canales Italianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
@@ -4366,7 +4516,7 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xe2uQkH.png" group-title="Canales Japoneses", Canales Japoneses
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -4414,7 +4564,7 @@ ttp://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w2062741319.
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udVoD65.png" group-title="Canales Koreanos", Canales Koreanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", CBS | SD
 
@@ -4455,7 +4605,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crYk3Ze.png" group-title="Canales Miscelaneos", Canales Miscelaneos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales Miscelaneos", Carina TV | HD
 
@@ -4540,7 +4690,7 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp
 #*****************************
 
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Radios Chilenas", Radios Chilenas
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SUh388e.jpg" group-title="Radios Chilenas", Imagina (88.1 FM)
 
@@ -4796,7 +4946,7 @@ http://s6.jcwebnew.com:9020/stream
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Radios Chilenas con Video", Radios Chilenas con Video
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5yVD0k.png" group-title="Radios Chilenas con Video", Duna (TV) | HD (89.7 FM)
 
@@ -4835,7 +4985,7 @@ http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Internacionales", Radios Internacionales
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", iHeart 80s | USA
 
@@ -4940,7 +5090,7 @@ https://antenaone.crossradio.com.br/stream/1
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Online", Radios Online
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Akihabara Radio
 
@@ -5014,7 +5164,7 @@ https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwee0UJ.png" group-title="Canales de Musica", Canales de Musica
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Canales de Musica", Music Choice | HD
 
@@ -5122,7 +5272,7 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Musica", Musica
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", Classic Arts Showcase
 
