@@ -32,8 +32,10 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
-* [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator/) para lista M3U y M3U8 Windows
-* [Descarga de IPTV Stream Player Official](https://www.microsoft.com/store/productId/9P90ZH32K649?ocid=pdpshare/) para cuentas xTream Codes Windows
+* [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
+* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows/download) para cuentas xTream 
+
+* [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
 * [Descarga de IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_CL/) para lista M3U y M3U8 Android
@@ -136,35 +138,6 @@ https://nocords.xyz/stirr/epg.xml
 
 </details>
 
-<details>
-<summary>Expandir</summary>
-<br>
-
-**ADD-ONS Principal** 
-
-1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
-1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
-1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-1. [PopUpOFF by RomanistHere](https://addons.mozilla.org/en-US/firefox/addon/popupoff/)
-1. [Port Authority by Hacks and Hops](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
-1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
-1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
-
-**ADD-ONS Opcional**
-1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-1. [NoScript Security Suite by Giorgio Maone](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
-1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-1. [Privacy Badger por EFF Technologists](https://addons.mozilla.org/es/firefox/addon/privacy-badger17/)
-
-**ADD-ONS Temas**
-1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
-1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
-
-</details>
-
 ## 📺 Contenido en línea de iPTV
 
 <details>
@@ -263,12 +236,35 @@ https://nocords.xyz/stirr/epg.xml
 
 </details>
 
-**Es aconsejable abrir los enlaces en una nueva ventana o pestaña, haz clic con el botón derecho del mouse y selecciona "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
-
 ## :bulb: Recomendaciones
-**Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación.**
 
-* [Descarga de TV Librewolf Browser Preconfigurado](#)
+**Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación. Además, se recomienda abrir los enlaces en una nueva ventana o pestaña, haciendo clic con el botón derecho del mouse y seleccionando "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
+
+<details>
+<summary>Expandir</summary>
+<br>
+
+**ADD-ONS Principal** 
+
+1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+1. [Popup Blocker strict](https://addons.mozilla.org/es-MX/firefox/addon/popup-blocker/)
+1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
+1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+
+**ADD-ONS Opcional**
+1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
+1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+
+**ADD-ONS Temas**
+1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
+1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
+
+</details>
 
 ## :desktop_computer: Aplicaciones y avanzado
 
