@@ -34,13 +34,15 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows/download) para cuentas xTream 
-
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
-* [Descarga de IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv&hl=es_CL/) para lista M3U y M3U8 Android
-* [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
+* [Descarga de Smarters Player Lite](https://smarters-player-lite.en.uptodown.com/android) para cuentas xTream Codes Windows 
+* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) para cuentas xTream Codes Windows
+* [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
 
+* [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
+  
 ## :satellite: lista iptv-org
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
