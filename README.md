@@ -1,4 +1,4 @@
-﻿![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.mp4)
+﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/raw/refs/heads/master/Imagenes/2016-09-09-15_18_40.mp4)
 
 # iPTV-FREE-LIST
 
