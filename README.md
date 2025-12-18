@@ -40,7 +40,6 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/i
 * [Descarga de Smarters Player Lite](https://smarters-player-lite.en.uptodown.com/android) para cuentas xTream Codes Windows 
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) para cuentas xTream Codes Windows
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
-
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
   
 ## :satellite: lista iptv-org
