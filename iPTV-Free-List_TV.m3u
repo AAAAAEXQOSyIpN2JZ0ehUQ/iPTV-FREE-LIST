@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 
 # **********************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Lo Más Visto", Lo Más Visto
+#EXTINF:-1 tvg-logo="Updated repository" group-title="Lo Más Visto", Lo Más Visto
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Lo Más Visto", Anime Zone TV
@@ -262,7 +262,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Chileiptv", Chileiptv
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Chileiptv", Chileiptv
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
@@ -3629,7 +3629,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 
 #EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="Canales de Cultura", Cooking Channel
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cultura", TMZ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="Canales de Cultura", Lifedesign
@@ -3649,7 +3649,7 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="Canales de Cultura", London Live
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cultura", 24 TV CULTURALES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", 24 TV CULTURALES
 
 #*****************************
 #*****************************
@@ -3716,7 +3716,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-EUCjF4Ff5V4/UYURXfRHd4I/AAAAAAAAB4I/_ceVk-yAxuI/s288/logo%2520de%2520TVO%25202011-actual%2520v2.png" group-title="Canales de Latinos", TVO
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Latinos", TVEPACO VENEZUELA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Latinos", TVEPACO VENEZUELA
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="Canales de Latinos", ATB Tv
 http://186.121.206.197/live/daniel/index.m3u8
@@ -3735,69 +3735,69 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Canales de Cine", PuÃ±al Tv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Frecuencia Musical Tv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Frecuencia Musical Tv
 
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
 
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/3129x1z_th.jpg" group-title="Canales de Cine", Zee mundo
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", AMC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", AMC
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", GOSPEL MOVIES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", GOSPEL MOVIES
 
 #EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Canales de Cine", Ray Movie
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Pop
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pop
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Pluto TV Movies 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Pluto TV Movies 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Star Movies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star Movies
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Star World
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star World
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Canales de Cine", Western
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo y Blue Demon en el Mundo de los Muertos 1970
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon en el Mundo de los Muertos 1970
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra los Cazadores de Cabezas 1971
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Cazadores de Cabezas 1971
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo en la Mision Suicida 1971
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Mision Suicida 1971
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra la Hija de Frankestein 1971
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Hija de Frankestein 1971
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra la Mafia del Vicio 1971
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Mafia del Vicio 1971
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo y la Venganza de las Mujeres Vampiro 1970
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y la Venganza de las Mujeres Vampiro 1970
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra los Jinetes del Terror 1970
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Jinetes del Terror 1970
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo y Blue Demon contra los Monstruos 1969
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra los Monstruos 1969
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo y el Tesoro de Moctezuma 1968
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y el Tesoro de Moctezuma 1968
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra Blue Demon en la Atlantida 1969
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra Blue Demon en la Atlantida 1969
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo en la Operacion 67 1967
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Operacion 67 1967
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra el Espectro del Estrangulador 1966
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra el Espectro del Estrangulador 1966
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo y Blue Demon contra el Poder Satanico 1964
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra el Poder Satanico 1964
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo en el Ataque de las Brujas 1964
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Ataque de las Brujas 1964
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo en el Museo de Cera 1963
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Museo de Cera 1963
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo contra las Momias de Guanajuato 1972
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra las Momias de Guanajuato 1972
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo en el Hotel de la Muerte 1963
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Hotel de la Muerte 1963
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Santo frente a la muerte 1969
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo frente a la muerte 1969
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", FARO VISION movies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", FARO VISION movies
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Cine", Cinema 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Cinema 1
 
 #*****************************
 #*****************************
@@ -4007,7 +4007,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="Canales de Deportes", Telecaribe Deportes
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Deportes", EDGEsport
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Deportes", EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817806134702702592/fsfGoMK3_400x400.jpg" group-title="Canales de Deportes", Fight Time
@@ -4016,7 +4016,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/2l1jqf.png" group-title="Canales de Deportes", DSport (UK)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales de Deportes", SPORTSMAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Deportes", SPORTSMAX
 
 #EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2014/10/setanta-sports.jpg" group-title="Canales de Deportes", Setanta Sports
 http://ott-cdn.ucom.am/s81/04.m3u8
@@ -4092,7 +4092,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Canales Colombianos", Canales Colombianos
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Colombianos", Canales Colombianos
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="Canales Colombianos", Tele Islas | SD
@@ -4243,7 +4243,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Canales Españoles", COSMO TV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Españoles", Divinity
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Españoles", Divinity
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Canales Españoles", Energy
 
@@ -4361,9 +4361,9 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales Mexicanos", http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Mexicanos", CANAL 15 FRESNILLO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", CANAL 15 FRESNILLO
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Mexicanos", CANAL 20 ZACATECAS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", CANAL 20 ZACATECAS
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="Canales Mexicanos", Canal 15 Zacatecas
 
@@ -4380,7 +4380,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Mexicanos", TV HIDALGO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", TV HIDALGO
 
 #EXTINF:-1 tvg-logo="https://tvgratis.online/wp-content/uploads/2019/03/TMTV.png" group-title="Canales Mexicanos", TMTV
 
@@ -4521,13 +4521,13 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/hea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", NTV News24 | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", NTV News24 | SD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", QVC JP | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", QVC JP | SD
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edbJeuy.jpg" group-title="Canales Japoneses", Japanet Channel DX | SD
@@ -4547,18 +4547,18 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
 rtmp://mov8.mov3.co/live//main
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", CGN | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", CGN | SD
 ttp://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w2062741319.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", GSTV | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", GSTV | SD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", TBS News | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", TBS News | SD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", Narita Airport | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Narita Airport | SD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", Weather News | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Weather News | SD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Canales Japoneses", ????? (Japanet) | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ????? (Japanet) | SD
 
 #*****************************
 #*****************************
@@ -4984,7 +4984,7 @@ http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Radios Internacionales", Radios Internacionales
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Internacionales", Radios Internacionales
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", iHeart 80s | USA
@@ -5089,7 +5089,7 @@ https://antenaone.crossradio.com.br/stream/1
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Radios Online", Radios Online
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Online", Radios Online
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Akihabara Radio
@@ -5271,10 +5271,10 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg" group-title="Musica", Musica
+#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Musica", Musica
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Musica", Classic Arts Showcase
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", Classic Arts Showcase
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/images/logo.png" group-title="Musica", Retroplus Tv
 
@@ -5293,7 +5293,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musica", Mezzo Live
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/sddefault_2.jpg/" group-title="Musica", MusicTop
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", MusicTop
 
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s196674/images/logoq.png" group-title="Musica", tdn tv
 
