@@ -252,7 +252,6 @@ https://nocords.xyz/stirr/epg.xml
 1. [Popup Blocker strict](https://addons.mozilla.org/es-MX/firefox/addon/popup-blocker/)
 1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
-1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 
@@ -260,6 +259,7 @@ https://nocords.xyz/stirr/epg.xml
 1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 
 **ADD-ONS Temas**
 1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
