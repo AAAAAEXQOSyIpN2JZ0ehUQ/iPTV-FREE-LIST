@@ -147,6 +147,7 @@ https://nocords.xyz/stirr/epg.xml
 | https://www.vertvcable.com             | Ver TV Cable              |
 | https://www.tvspacehd.com              | TV Space HD               |
 | https://www.telefullenvivo.com         | Tele Full en Vivo         |
+| https://www.tvporinternet2.com         | TV por Internet           |
 | https://www.lookhu.tv                  | LookHu TV                 |
 | https://www.cxtvenvivo.com             | CXTV en Vivo              |
 | https://www.m3u.cl                     | M3U Chile                 |
@@ -175,6 +176,7 @@ https://nocords.xyz/stirr/epg.xml
 | https://www.pelisflix.toys             |
 | https://www.pelisplus.in               |
 | https://www.vepelis.com                |
+| https://www.cineplusgratis.com         |
 
 
 🎬 **Cuevana**
