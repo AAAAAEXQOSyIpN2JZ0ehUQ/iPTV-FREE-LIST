@@ -213,6 +213,7 @@ https://nocords.xyz/stirr/epg.xml
 | 🧠 Enlace                              |
 |----------------------------------------|
 | https://www.animeflv.si                |
+|https://animelhd.com/|                  |
 | https://www3.animeflv.net              |
 | https://www.animeflv1.net              |
 | https://ww3.animeonline.ninja          |
@@ -225,6 +226,7 @@ https://nocords.xyz/stirr/epg.xml
 | 🔥 Enlace                              |
 |----------------------------------------|
 | https://www2.verhentai.top             |
+| https://hentailhd.com/                                       |
 | https://www.veohentai.com/genero/hentai-sin-censura |
 | https://www.hentaiyt.net               |
 | https://hentaijk.com                   |
