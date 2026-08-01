@@ -283,6 +283,7 @@ https://nocords.xyz/stirr/epg.xml
 - [Purple WebPlayer](http://login.purpletv.app) - Webplayer gratuito para transmitir contenido dentro del navegador.
 - [Web TV](http://01234.fun/) - Reproductor IPTV.
 - [Pleyr](https://pleyr.net/) - Reproductor de IPTV para navegador web tanto para listas de reproducción m3u8 como mpeg2-ts.
+- [Free IPTV Player](https://freeiptvplayer.net/iptv-player/) - Reproductor IPTV gratuito para navegador que permite cargar una URL M3U o subir un archivo M3U sin instalar software.
 - [TV Tuner](https://tvtuner.vercel.app/) - Ver IPTV en línea con características como mantener el último canal seleccionado, buscar canal, buscar país y soportado para diseños web y móviles.
 
 ## 🖥️ Windows
