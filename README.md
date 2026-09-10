@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
-* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows/download) para cuentas xTream 
+* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) para cuentas xTream 
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
@@ -47,22 +47,20 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 
 ## 📡 iPTV Online
 
-| 🌐 Enlace                              | Descripción               |
-|----------------------------------------|---------------------------|
-| https://www.tvplusgratis2.com          | TV Plus Gratis            |
-| https://www.telegratishd.com           | Tele Gratis HD            |
-| https://www.vertvcable.com             | Ver TV Cable              |
-| https://www.tvspacehd.com              | TV Space HD               |
-| https://www.telefullenvivo.com         | Tele Full en Vivo         |
-| https://www.tvporinternet2.com         | TV por Internet           |
-| https://www.lookhu.tv                  | LookHu TV                 |
-| https://www.cxtvenvivo.com             | CXTV en Vivo              |
-| https://www.m3u.cl                     | M3U Chile                 |
-| https://www.pluto.tv/es                | Pluto TV                  |
-| https://app.plex.tv/desktop            | Plex Desktop              |
-| https://plus.nasa.gov                  | NASA Plus                 |
-| https://www.viendotele.cl              | Viendo Tele               |
-| http://www.locomotiontv.com/envivo     | Locomotion TV En Vivo     |
+| 🌐 Enlace                              |
+|----------------------------------------|
+| https://www.tvplusgratis2.com          |
+| https://www.telegratishd.com           |
+| https://www.telefullenvivo.com         |
+| https://www.tvporinternet2.com         |
+| https://www.lookhu.tv                  |
+| https://www.cxtvenvivo.com             |
+| https://www.m3u.cl                     |
+| https://www.pluto.tv/es                |
+| https://app.plex.tv/desktop            |
+| https://plus.nasa.gov                  |
+| https://www.viendotele.cl              |
+| http://www.locomotiontv.com/envivo     |
 
 </details>
 
@@ -76,34 +74,24 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 
 | 🍿 Enlace                              |
 |----------------------------------------|
-| https://www4.pelisplushd.lat           |
 | https://www17.pelisplushd.to           |
-| https://www.pelisflix2.my              |
-| https://www.pelisflixhd.cam            |
-| https://www.pelisflix.toys             |
 | https://www.pelisplus.in               |
-| https://www.vepelis.com                |
-| https://www.cineplusgratis.com         |
 
 
 🎬 **Cuevana**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
-| https://znr.cuevana.pro                |
-| https://www.cuevana.biz/serie/274242/vencer-o-morir |
-| https://mia.cuevana3.vip               |
 | https://ww3.cuevana3.to                |
 | https://25.cuevana4.me                 |
-| https://cuevana3new.lol                |
 
 
 🎬 **Gnula**
 
 | 🍿 Enlace                              |
 |----------------------------------------|
-| https://www.gnula.nu                   |
-| https://wv5n.gnula.cc                  |
+| https://www2.gnula.one/                |
+| https://wnv5.gnula.cc/                 |
 
 
 🔗 **Extras**
@@ -119,7 +107,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 
 | 🧠 Enlace                              |
 |----------------------------------------|
-| https://www.animeflv.si                |
 | https://www3.animeflv.net              |
 | https://www.animeflv1.net              |
 | https://ww3.animeonline.ninja          |
@@ -133,7 +120,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 |----------------------------------------|
 | https://www2.verhentai.top             |
 | https://www.veohentai.com/genero/hentai-sin-censura |
-| https://www.hentaiyt.net               |
 | https://hentaijk.com                   |
 | https://hentaijl.com                   |
 
