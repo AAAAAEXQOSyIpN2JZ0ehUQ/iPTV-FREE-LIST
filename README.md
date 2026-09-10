@@ -20,14 +20,11 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
 
-**Microsoft Store Windows - IPTV Player**
-* [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) para cuentas xTream 
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
-* [Descarga de Smarters Player Lite](https://smarters-player-lite.en.uptodown.com/android) para cuentas xTream Codes Windows 
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) para cuentas xTream Codes Windows
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
