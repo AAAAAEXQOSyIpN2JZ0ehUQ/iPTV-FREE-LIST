@@ -12,7 +12,6 @@
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Chileiptv", Chileiptv
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Chileiptv" , Tv Educa Chile 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -51,7 +50,6 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="M3U Chile", M3U Chile
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
   
 #EXTINF:-1 tvg-id="907" tvg-name="Spectrum Channel LGBTQ+" tvg-logo="https://www.m3u.cl/logo/907_Spectrum_Channel_LGBTQ_.png", Spectrum Channel LGBTQ+ * | CL
 https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e.m3u8?PlaylistM3UCL
@@ -674,7 +672,6 @@ https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Lao TV", Lao TV
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/b8fK0FK.png" group-title="Lao TV", TV+ | FHD
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
@@ -724,7 +721,6 @@ https://bst.buin.cl/0.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos", Canales Chilenos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
@@ -739,7 +735,6 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos Regionales", Canales Chilenos Regionales
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Canales Chilenos Regionales", El Pinguino | SD |Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
@@ -754,7 +749,6 @@ http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales de Animacion", Canales de Animacion
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Canales de Animacion", Retro Cartoon | SD
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
@@ -810,7 +804,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales Juveniles", Canales de Animacion
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-country="US" tvg-language="Arabic;Chinese;English;French;German;Hebrew;Hungarian;Japanese;Korean;Polish;Portuguese;Romanian;Russian;Spanish;Turkish" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV BabyFirst (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -837,7 +830,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 #*****************************
 
 #EXTINF:-1 tvg-logo="" group-title="Canales de Cultura", Canales de Cultura
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
@@ -849,7 +841,6 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Latinos", Canales de Latinos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales de Latinos", Canal Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -888,7 +879,6 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heY1Ppv.png" group-title="Canales de Deportes", Canales de Deportes
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -915,7 +905,6 @@ http://ott-cdn.ucom.am/s82/04.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="Canales Mexicanos", Canales Mexicanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -942,7 +931,6 @@ http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKqx2nK.png" group-title="Canales Peruanos", Canales Peruanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -951,7 +939,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xe2uQkH.png" group-title="Canales Japoneses", Canales Japoneses
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -969,7 +956,6 @@ rtmp://mov8.mov3.co/live//main
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crYk3Ze.png" group-title="Canales Miscelaneos", Canales Miscelaneos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tmksMzv.png" group-title="Canales Miscelaneos", Baden TV | SD
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -996,7 +982,6 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp
 #*****************************
 
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Radios Chilenas", Radios Chilenas
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Nostalgica (88.1 FM Copiapo)
 http://unlimited11-cl.dps.live/nostalgica/mp3/icecast.audio
@@ -1063,7 +1048,6 @@ http://s6.jcwebnew.com:9020/stream
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Radios Chilenas con Video", Radios Chilenas con Video
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeOq7Om.jpg" group-title="Radios Chilenas con Video", Futuro TV | SD
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
@@ -1072,7 +1056,6 @@ http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Internacionales", Radios Internacionales
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Anime Nexus (Mexico)
 http://radio.animenexus.mx:8000/animenexus
@@ -1087,7 +1070,6 @@ https://antenaone.crossradio.com.br/stream/1
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Radios Online", Radios Online
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", SBS Pop Asia
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
@@ -1111,7 +1093,6 @@ https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwee0UJ.png" group-title="Canales de Musica", Canales de Musica
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1147,7 +1128,6 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #*****************************
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Musica", Musica
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
