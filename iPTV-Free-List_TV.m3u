@@ -914,24 +914,6 @@ http://ott-cdn.ucom.am/s82/04.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6UOgvd.png" group-title="Canales Argentinos", Canales Argentinos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Canales Argentinos", Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FK4wvH0.png" group-title="Canales Haitianos", Canales Haitianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgUpAaS.png" group-title="Canales Haitianos", Radio Tele Boston | SD
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
-#*****************************
-#*****************************
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="Canales Mexicanos", Canales Mexicanos
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
@@ -959,49 +941,11 @@ http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJeSFj7.png" group-title="Canales Panameños", Canales Panameños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Canales Panameños", Nex TV | SD
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXK8Hyx.png" group-title="Canales Paraguayos", Canales Paraguayos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zcWVO21.jpg" group-title="Canales Paraguayos", Unicanal | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUnTxMV.png" group-title="Canales Paraguayos", RPC Canal 13 | FHD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MxWS5A.png" group-title="Canales Paraguayos", TVS | FHD
-
-#*****************************
-#*****************************
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKqx2nK.png" group-title="Canales Peruanos", Canales Peruanos
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q87HBes.png" group-title="Canales Salvadoreños", Canales Salvadoreños
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIvQYPI.png" group-title="Canales Salvadoreños", Wow TV | HD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/opUQdHx.jpg" group-title="Canales Italianos", Canales Italianos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
 #*****************************
 #*****************************
@@ -1014,22 +958,12 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", QVC JP | SD
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
 rtmp://mov8.mov3.co/live//main
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/udVoD65.png" group-title="Canales Koreanos", Canales Koreanos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS World | SD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 
 #*****************************
 #*****************************
