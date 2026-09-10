@@ -136,6 +136,32 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación. Además, se recomienda abrir los enlaces en una nueva ventana o pestaña, haciendo clic con el botón derecho del mouse y seleccionando "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
 
+<details>
+<summary>Expandir para ver lista de extenciones</summary>
+<br>
+
+**ADD-ONS Principal** 
+
+1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
+1. [Popup Blocker strict](https://addons.mozilla.org/es-MX/firefox/addon/popup-blocker/)
+1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
+1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
+1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
+1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+
+**ADD-ONS Opcional**
+1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
+1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+
+**ADD-ONS Temas**
+1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
+1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
+
+</details>
+
 ## :file_folder: Proyectos útiles 
 
 - xTream-UI-r22f: [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
