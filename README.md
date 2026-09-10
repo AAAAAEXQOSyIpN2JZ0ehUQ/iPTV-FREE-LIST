@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) para cuentas xTream Codes Windows
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
+  
+</details>
 
 ## 📺 Contenido en línea de iPTV
 
@@ -112,6 +114,8 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 | https://www.veohentai.com/genero/hentai-sin-censura |
 | https://hentaijk.com                   |
 | https://hentaijl.com                   |
+
+</details>
 
 ## :bulb: Recomendaciones
 
