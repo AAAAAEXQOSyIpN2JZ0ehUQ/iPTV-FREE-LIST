@@ -13,14 +13,9 @@ excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin
 necesidad de una suscripción paga.
 
 ## :satellite: Tipo de lista
-Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
+Lista de reproducción de iPTV para `todo publico` (Contiene adultos) 😎😉😁😏🧐
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
-```
-
-Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
-```bash
-https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
