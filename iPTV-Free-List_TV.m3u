@@ -812,41 +812,11 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales Juveniles", Canales de Animacion
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
 
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528172622.png" group-title="Canales Juveniles", Cachipun
-
-#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Canales Juveniles", Boing
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LgtUg8o.png" group-title="Canales Juveniles", Tateti | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OR6IfFz.png" group-title="Canales Juveniles", Peque TV | HD
-
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-country="US" tvg-language="English;Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Canales Juveniles",Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
-
-#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-country="US" tvg-language="English;Portuguese;Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Canales Juveniles",Cartoon Network West TVE Feed (720p) [Geo-Blocked]
-
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Canales Juveniles",Clan TVE (1080p) [Geo-blocked]
-
-#EXTINF:-1 tvg-id="CloudserverLatamKids90.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UFH6fVx.png" group-title="Canales Juveniles",Cloudserver Kids90 (480p)
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR;PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="Canales Juveniles",Pakapaka (720p) [Not 24/7]
-
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Canales Juveniles",Planetatv Kids (1080p)
-
-#EXTINF:-1 tvg-id="PlutoTVAnimakidsSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Animakids (Spain) (720p)
-
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-country="US" tvg-language="Arabic;Chinese;English;French;German;Hebrew;Hungarian;Japanese;Korean;Polish;Portuguese;Romanian;Russian;Spanish;Turkish" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV BabyFirst (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Bob Esponja (720p)
-
-#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Garfield (720p)
-
-#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Kids (720p)
-
 #EXTINF:-1 tvg-id="NickClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Nick ClÃ¡sico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Nick Jr. Latino (720p)
 
 #EXTINF:-1 tvg-id="PlutoTVPlanetaJuniorTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Planeta Junior TV (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
@@ -859,8 +829,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007
 
 #EXTINF:-1 tvg-id="PlutoTVTeen.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Teen (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTeenStarsSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Teen Stars (720p)
 
 #EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons ClÃ¡sico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
