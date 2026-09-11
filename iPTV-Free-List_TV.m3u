@@ -401,9 +401,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="Canales Mexicanos", Sipse TV Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
 
