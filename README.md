@@ -100,7 +100,7 @@ https://m3u.cl/lista/total.m3u
 ```
 </details>
 
-## :arrow_forward: IPTV Player
+## :tv: IPTV Player
 
 ### 🪟 Windows
 
