@@ -17,6 +17,7 @@ Lista de reproducción de iPTV para `todo publico` (Contiene adultos) 😎😉�
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
+
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
 
 ## :satellite: lista iptv-org
@@ -84,7 +85,9 @@ https://m3u.cl/lista/total.m3u
 ```
 </details>
 
+```
 
+**Microsoft Store Windows - IPTV Player**
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) para cuentas xTream 
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
