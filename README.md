@@ -1,10 +1,10 @@
 ﻿![logo](https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
 
-# iPTV-Free-List
+# IPTV Free List
 
 ## :information_source: Descripción
 
-Una recopilación de enlaces útiles para disfrutar de contenido en línea: iPTV, películas, series, anime, hentai, radios y más. Todo en un solo lugar.
+Una recopilación de enlaces útiles para disfrutar de contenido en línea: IPTV, películas, series, anime, hentai, radios y más. Todo en un solo lugar.
 
 Esta lista proporciona una variedad de opciones para ver y escuchar contenido 
 multimedia desde tu dispositivo. Incluye enlaces a plataformas populares de 
@@ -13,7 +13,7 @@ excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin
 necesidad de una suscripción paga.
 
 ## :satellite: Tipo de lista
-Lista de reproducción de iPTV para `todo publico` (Contiene adultos) 😎😉😁😏🧐
+Lista de reproducción de IPTV para `todo publico` (Contiene adultos) 😎😉😁😏🧐
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
@@ -147,65 +147,70 @@ https://m3u.cl/lista/total.m3u
 
 ## 📡 iPTV Online 🌐
 
-🌐 **Online**
-|----------------------------------------|
-| https://www.tvplusgratis2.com          |
-| https://www.telegratishd.com           |
-| https://www.telefullenvivo.com         |
-| https://www.tvporinternet2.com         |
-| https://www.lookhu.tv                  |
-| https://www.cxtvenvivo.com             |
-| https://www.m3u.cl                     |
-| https://www.pluto.tv/es                |
-| https://app.plex.tv/desktop            |
-| https://plus.nasa.gov                  |
-| https://www.viendotele.cl              |
-| http://www.locomotiontv.com/envivo     |
-
+| 🌐 Enlace |
+|---|
+| https://www.tvplusgratis2.com |
+| https://www.telegratishd.com |
+| https://www.telefullenvivo.com |
+| https://www.tvporinternet2.com |
+| https://www.lookhu.tv |
+| https://www.cxtvenvivo.com |
+| https://www.m3u.cl |
+| https://www.pluto.tv/es |
+| https://app.plex.tv/desktop |
+| https://plus.nasa.gov |
+| https://www.viendotele.cl |
+| http://www.locomotiontv.com/envivo |
 
 ## 🎞️ Películas, Series, Anime y Más 🍿
 
-🎬 **Pelisplus**
-|----------------------------------------|
-| https://www17.pelisplushd.to           |
+### 🎬 Pelisplus
 
+| 🍿 Enlace |
+|---|
+| https://www17.pelisplushd.to |
 
-🎬 **Cuevana** 🍿
-|----------------------------------------|
-| https://ww3.cuevana3.to                |
+### 🎬 Cuevana
 
+| 🍿 Enlace |
+|---|
+| https://ww3.cuevana3.to |
 
-🎬 **Gnula** 🍿
-|----------------------------------------|
-| https://www2.gnula.one/                |
-| https://wnv5.gnula.cc/                 |
+### 🎬 Gnula
 
+| 🍿 Enlace |
+|---|
+| https://www2.gnula.one/ |
+| https://wnv5.gnula.cc/ |
 
-🔗 **Extras** 🍿
-|----------------------------------------|
-| https://ww5.series24.org               |
-| https://www.lacartoons.com             |
-| https://play.mercadolibre.cl           |
+### 🔗 Extras
 
+| 🍿 Enlace |
+|---|
+| https://ww5.series24.org |
+| https://www.lacartoons.com |
+| https://play.mercadolibre.cl |
 
-🍥 **Anime** 🧠
-|----------------------------------------|
-| https://animeflv.ro                    |
-| https://animeflv.uno                   |
-| https://ww3.animeonline.ninja          |
-| https://vvv.animeyt.one                |
-| https://tioanime.com                   |
+### 🍥 Anime
 
+| 🧠 Enlace |
+|---|
+| https://animeflv.ro |
+| https://animeflv.uno |
+| https://ww3.animeonline.ninja |
+| https://vvv.animeyt.one |
+| https://tioanime.com |
 
-🔞 **Hentai** 🔥
-|----------------------------------------|
-| https://www2.verhentai.top             |
+### 🔞 Hentai
+
+| 🔥 Enlace |
+|---|
+| https://www2.verhentai.top |
 | https://www.veohentai.com/genero/hentai-sin-censura |
-| https://hentaijk.com                   |
-| https://hentaijl.com                   |
+| https://hentaijk.com |
+| https://hentaijl.com |
 
-
-## :file_folder: Proyectos útiles 
+## :file_folder: Proyectos útiles
 
 - xTream-UI-r22f: [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
 
