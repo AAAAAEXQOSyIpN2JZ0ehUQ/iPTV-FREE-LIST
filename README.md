@@ -50,6 +50,21 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
  
 </details>
 
+## :satellite: lista Free-TV
+* [GitHub](https://github.com/Free-TV/IPTV) - Proyecto Oficial 
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+Listas de reproducción:
+
+Free TV
+```bash
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+```
+</details>
+
 ## :satellite: lista m3u-cl 
 * [Pagina web](https://m3u.cl) - Proyecto Oficial 
 
