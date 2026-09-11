@@ -102,15 +102,17 @@ https://m3u.cl/lista/total.m3u
 
 ## :satellite: IPTV Player
 
-**Microsoft Store Windows - IPTV Player**
-* [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
-* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) para cuentas xTream 
-* [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
-  
-**Play Store Android - IPTV Player**
-* [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) para cuentas xTream Codes Windows
-* [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
-* [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
+### 🪟 Windows
+
+- [IPTVnator](https://www.videohelp.com/software/IPTVnator) — Listas M3U/M3U8
+- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
+- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/windows) — Cuentas xTream Codes
+
+### 🤖 Android
+
+- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) — Cuentas xTream Codes
+- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
+- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8
 
 
 ## 📺 Contenido en línea de iPTV
