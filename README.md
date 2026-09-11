@@ -179,13 +179,11 @@ https://m3u.cl/lista/total.m3u
 🎬 **Pelisplus**
 |----------------------------------------|
 | https://www17.pelisplushd.to           |
-| https://www.pelisplus.in               |
 
 
 🎬 **Cuevana** 🍿
 |----------------------------------------|
 | https://ww3.cuevana3.to                |
-| https://25.cuevana4.me                 |
 
 
 🎬 **Gnula** 🍿
@@ -203,8 +201,8 @@ https://m3u.cl/lista/total.m3u
 
 🍥 **Anime** 🧠
 |----------------------------------------|
-| https://www3.animeflv.net              |
-| https://www.animeflv1.net              |
+| https://animeflv.ro                    |
+| https://animeflv.uno                   |
 | https://ww3.animeonline.ninja          |
 | https://vvv.animeyt.one                |
 | https://tioanime.com                   |
