@@ -85,6 +85,7 @@ https://m3u.cl/lista/total.m3u
 ```
 </details>
 
+## :satellite: IPTV Player
 
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
@@ -156,6 +157,7 @@ https://m3u.cl/lista/total.m3u
 </details>
 
 ## 📡 iPTV Online 🌐
+
 
 |----------------------------------------|
 | https://www.tvplusgratis2.com          |
