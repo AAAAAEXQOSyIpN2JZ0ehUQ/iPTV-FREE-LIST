@@ -17,8 +17,73 @@ Lista de reproducción de iPTV para `todo publico` (Contiene adultos) 😎😉�
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
-
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
+
+## :satellite: lista iptv-org
+* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+Lista de reproducción principal 
+```bash
+https://iptv-org.github.io/iptv/index.m3u
+```
+Agrupados por categoría 
+```bash
+https://iptv-org.github.io/iptv/index.category.m3u
+```
+Agrupados por idioma 
+```bash
+https://iptv-org.github.io/iptv/index.language.m3u
+```
+Agrupados por país 
+```bash
+https://iptv-org.github.io/iptv/index.country.m3u
+```
+Lista IPTV Lenguaje Español
+```bash
+https://iptv-org.github.io/iptv/languages/spa.m3u
+```
+ 
+</details>
+
+## :satellite: lista m3u-cl 
+* [Pagina web](https://m3u.cl) - Proyecto Oficial 
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+Listas de reproducción:
+
+M3U Chile
+```bash
+https://m3u.cl/lista/CL.m3u
+```
+Lista IPTV Música
+```bash
+https://m3u.cl/lista/musica.m3u
+```
+Lista IPTV Religiosos
+```bash
+https://m3u.cl/lista/religiosos.m3u
+```
+Lista IPTV Adultos
+```bash
+https://m3u.cl/lista/XXX.m3u
+```
+Lista IPTV TOP
+```bash
+https://m3u.cl/lista/top.m3u
+```
+Lista IPTV Total
+```bash
+https://m3u.cl/lista/total.m3u
+```
+</details>
+
 
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) para cuentas xTream 
@@ -158,6 +223,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/dZh0ni_Dev)) - Mantenedor de Repositorio
+* :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/dZh0ni_Dev) - Mantenedor de Repositorio
 
 ☆ dZh0ni ☆
