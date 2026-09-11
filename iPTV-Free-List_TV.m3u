@@ -12,7 +12,7 @@
 #*****************************
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZGjpxyW/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg" group-title="Lo Más Visto", Locomotion | SD
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://locomotiontv.com/envivo/xtv/m3u
 
 #*****************************
 #*****************************
@@ -303,7 +303,7 @@ https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #*****************************
 
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/HOfGX6a.png",Locomotion | SD
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://locomotiontv.com/envivo/xtv/m3u
 
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/b8fK0FK.png",TV+ | FHD
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
