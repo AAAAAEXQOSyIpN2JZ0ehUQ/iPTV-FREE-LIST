@@ -98,32 +98,6 @@ https://m3u.cl/lista/total.m3u
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
 
 
-<details>
-<summary>Expandir para ver lista de extenciones</summary>
-<br>
-
-**ADD-ONS Principal** 
-
-1. [uBlock Origin por Raymond Hill](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
-1. [ClearURLs por Kevin R.](https://addons.mozilla.org/es/firefox/addon/clearurls/)
-1. [Popup Blocker strict](https://addons.mozilla.org/es-MX/firefox/addon/popup-blocker/)
-1. [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
-1. [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
-1. [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
-1. [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
-
-**ADD-ONS Opcional**
-1. [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
-1. [Firefox Multi-Account Containers by Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-1. [Dark Reader by Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-1. [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
-
-**ADD-ONS Temas**
-1. [Hacker por That Tall Guy](https://addons.mozilla.org/es/firefox/addon/hacker-mode/)
-1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
-
-</details>
-
 ## 📺 Contenido en línea de iPTV
 
 ## :bulb: Recomendaciones
