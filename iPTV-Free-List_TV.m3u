@@ -74,250 +74,250 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png",TV Educa Chile * | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png",TV Educa Chile * | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png",Ufrovision  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png",Ufrovision  | CL
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/59_U_Los_Lagos.png",U Los Lagos  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/59_U_Los_Lagos.png",U Los Lagos  | CL
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png",TV Senado  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png",TV Senado  | CL
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/438_tevex.png",tevex  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/438_tevex.png",tevex  | CL
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png",Atacama TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png",Atacama TV  | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/87_ITV_Patagonia.png",ITV Patagonia  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/87_ITV_Patagonia.png",ITV Patagonia  | CL
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png",PinguinoTV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png",PinguinoTV  | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV Chile  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV Chile  | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png",UCL TelevisiÃ³n LATAM  | UY
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png",UCL TelevisiÃ³n LATAM  | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24  | FR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24  | FR
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang  | KR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang  | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png",Euro Indie Music  | GB
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png",Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png",Latin Zone TV  | US
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png",Latin Zone TV  | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png",Retro Music Television  | CZ
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png",Retro Music Television  | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",Turbo Mix TV  | PE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel  | CR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel  | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png",Radio Fantasia TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png",Radio Fantasia TV  | CL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png",Pura Noticia  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png",Pura Noticia  | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png",Anime Zone TV | AR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png",Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png",Valparaiso Sporting | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png",Valparaiso Sporting | CL
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/49f6a9e41cdc5b7b2e1676c53cd45d63.png",Aljazeera Arabic | QA
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/49f6a9e41cdc5b7b2e1676c53cd45d63.png",Aljazeera Arabic | QA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png",DW Deutsch | DE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png",DW Deutsch | DE
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/597ee9bbe96d12d6ab26ce3f1a7a5fc3.png",DW Deutsch+ | DE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/597ee9bbe96d12d6ab26ce3f1a7a5fc3.png",DW Deutsch+ | DE
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png",DW English | DE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png",DW English | DE
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png",DW EspaÃ±ol | DE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png",DW EspaÃ±ol | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV | AR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png",Cadena Elite | ES
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png",Canal VM Latino | CR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png",Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV | CR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",Soy Plancha TV | CR
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png",VClassicTV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png",VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music | CR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",Vintage Music | CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias | MX
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/91fbbc0dc73a1f2677e3e80e1368f34d.png",Canal 66 El Canal de las Noticias | MX
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/91fbbc0dc73a1f2677e3e80e1368f34d.png",Canal 66 El Canal de las Noticias | MX
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",Dance FM * | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",Dance FM * | CL
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png",Caracola TV * | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png",Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/e5d61855b016df20f253d6b5b9ad8501.png",La Granja TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/e5d61855b016df20f253d6b5b9ad8501.png",La Granja TV | CL
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png",Mega | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png",Mega | CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png",U Chile TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png",U Chile TV | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png",UCV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png",UCV | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png",Campus TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-pW3OtBR0N4A/Xl5Y7H0fi7I/AAAAAAAAwjg/gdqG0LJ8DP42Md2rGIh2qHs1vNF7AYopACK8BGAsYHg/s0/2020-03-03.png",Campus TV | CL
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png",Universidad Autonoma TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png",Universidad Autonoma TV | CL
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png",UMAG TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-0NppS8zHXRU/XbC2cN4qlAI/AAAAAAAArmY/g4gYZKyGhHglj_lyBKSaRw-tBMgzO0NmACK8BGAsYHg/s0/2019-10-23.png",UMAG TV | CL
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-DVzBnJJGsHM/Xzh-ooBVTnI/AAAAAAAA4dk/Gl6kLefOEM0C6UdyAwM1__ki_GZ7OGYQACK8BGAsYHg/s0/2020-08-15.png",Chile Channel | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-DVzBnJJGsHM/Xzh-ooBVTnI/AAAAAAAA4dk/Gl6kLefOEM0C6UdyAwM1__ki_GZ7OGYQACK8BGAsYHg/s0/2020-08-15.png",Chile Channel | CL
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-37Qp1y0Froc/YLwMLWKi5ZI/AAAAAAABCr8/VATYbRiDFL4hNT7IqD8DL3tC8Y8QeUCjgCJEEGAsYHg/s512/2021-06-05.png",Antofagasta TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-37Qp1y0Froc/YLwMLWKi5ZI/AAAAAAABCr8/VATYbRiDFL4hNT7IqD8DL3tC8Y8QeUCjgCJEEGAsYHg/s512/2021-06-05.png",Antofagasta TV | CL
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/2fb632fb69ae1c422609fdbf6c5a3fb4.png",Holvoet TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/2fb632fb69ae1c422609fdbf6c5a3fb4.png",Holvoet TV | CL
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-l7XXNQYmGAM/XvDpTB0gG5I/AAAAAAAA2Kk/GvD1qftKvhgJszIAP4CbyNkTdKk5h61gQCK8BGAsYHg/s0/2020-06-22.png",Atacama Noticias TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-l7XXNQYmGAM/XvDpTB0gG5I/AAAAAAAA2Kk/GvD1qftKvhgJszIAP4CbyNkTdKk5h61gQCK8BGAsYHg/s0/2020-06-22.png",Atacama Noticias TV | CL
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Qjxyu8Kt5PM/YLwQbxwGefI/AAAAAAABCs4/GhZ1MB88oewmzOGNaDLnV-qanRmEvk9JQCJEEGAsYHg/s512/2021-06-05.png",Enfoque Digital TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-Qjxyu8Kt5PM/YLwQbxwGefI/AAAAAAABCs4/GhZ1MB88oewmzOGNaDLnV-qanRmEvk9JQCJEEGAsYHg/s512/2021-06-05.png",Enfoque Digital TV | CL
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Vgy7Z0vneQQ/YLwRzORmQaI/AAAAAAABCtM/eh_BH_39oIsbSgMiirmbkScqt8MuuFiOgCJEEGAsYHg/s512/2021-06-05.png",ThemaTV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-Vgy7Z0vneQQ/YLwRzORmQaI/AAAAAAABCtM/eh_BH_39oIsbSgMiirmbkScqt8MuuFiOgCJEEGAsYHg/s512/2021-06-05.png",ThemaTV | CL
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png",AmÃ©rica TV Chile | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png",AmÃ©rica TV Chile | CL
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-EcdiT1eMFFg/YLwNYKl0GII/AAAAAAABCsM/_WU-X010dJ80kDrgugAdGtSzIpUNsEgygCJEEGAsYHg/s512/2021-06-05.png",VTV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-EcdiT1eMFFg/YLwNYKl0GII/AAAAAAABCsM/_WU-X010dJ80kDrgugAdGtSzIpUNsEgygCJEEGAsYHg/s512/2021-06-05.png",VTV | CL
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png",Canal 2 de San Antonio | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-8rzHJZdq8rY/Xb2AX9UW_tI/AAAAAAAAr58/gqkZ21n2nf4rm5Ah-lzNOz5ch6_JVUS5wCK8BGAsYHg/s0/2019-11-02.png",Canal 2 de San Antonio | CL
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png",TVR | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png",TVR | CL
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/4a70b027fa4d7cc5763e54ce980580c4.png",UTV San Clemente | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/4a70b027fa4d7cc5763e54ce980580c4.png",UTV San Clemente | CL
 https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg",Canal 21 ChillÃ¡n | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg",Canal 21 ChillÃ¡n | CL
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png",ClickTv | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png",ClickTv | CL
 https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9 BÃ­o BÃ­Â­o TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9 BÃ­o BÃ­Â­o TV | CL
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-zDgbgkPTFLA/XbCy7Dg-33I/AAAAAAAArlQ/712PcpxHNmAKjz1k4Arp_iVvpJ-qC_WxQCK8BGAsYHg/s0/2019-10-23.png",Teleangol Radio | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-zDgbgkPTFLA/XbCy7Dg-33I/AAAAAAAArlQ/712PcpxHNmAKjz1k4Arp_iVvpJ-qC_WxQCK8BGAsYHg/s0/2019-10-23.png",Teleangol Radio | CL
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-r4ejsHWoXtE/XYb7QVbZA4I/AAAAAAAArCw/XjvcDEIjGlAZnTFSCURiZYONDlWPs4GhwCK8BGAsYHg/s0/2019-09-21.png",Pucon TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-r4ejsHWoXtE/XYb7QVbZA4I/AAAAAAAArCw/XjvcDEIjGlAZnTFSCURiZYONDlWPs4GhwCK8BGAsYHg/s0/2019-09-21.png",Pucon TV | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png",T-Vinet | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png",T-Vinet | CL
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png",Decima TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png",Decima TV | CL
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/ef4396a3c62252b1678b3fae595b0532.png",Canal 2 Quellon | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/ef4396a3c62252b1678b3fae595b0532.png",Canal 2 Quellon | CL
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-taF7STTebY8/XxzJzTcNobI/AAAAAAAA3Yk/Z_EEZ_hbkK8G6V93Rp9x_q6qa925hTqbACK8BGAsYHg/s0/2020-07-25.png",Chiloe Red 25 | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-taF7STTebY8/XxzJzTcNobI/AAAAAAAA3Yk/Z_EEZ_hbkK8G6V93Rp9x_q6qa925hTqbACK8BGAsYHg/s0/2020-07-25.png",Chiloe Red 25 | CL
 https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-u0E4RY62ySI/XbC2IU7YHXI/AAAAAAAArmQ/2mDq3cPseesa8lsFWQB8TPWlwAggTb3HQCK8BGAsYHg/s0/2019-10-23.png",Santa Maria TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-u0E4RY62ySI/XbC2IU7YHXI/AAAAAAAArmQ/2mDq3cPseesa8lsFWQB8TPWlwAggTb3HQCK8BGAsYHg/s0/2019-10-23.png",Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-9sAv8-Qg_V0/YLwX4GMnM2I/AAAAAAABCuM/zxEzBw1b7V8MDY-xb6mRahyOjBVDlph8gCJEEGAsYHg/s512/2021-06-05.png",Soberania Radio | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-9sAv8-Qg_V0/YLwX4GMnM2I/AAAAAAABCuM/zxEzBw1b7V8MDY-xb6mRahyOjBVDlph8gCJEEGAsYHg/s512/2021-06-05.png",Soberania Radio | CL
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/0f20f371ddf95dcc9deed1f97c7c1bb8.png",Patagonia Radio TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/0f20f371ddf95dcc9deed1f97c7c1bb8.png",Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/b1a689ac7ba1ffd46a21a12f78b2e12a.png",Radio Ancoa TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/b1a689ac7ba1ffd46a21a12f78b2e12a.png",Radio Ancoa TV | CL
 https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/f8b890eebda6062f306024bdc70afafa.png",AE Radio | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/f8b890eebda6062f306024bdc70afafa.png",AE Radio | CL
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png",Radio Agricultura | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/2019-11-24.png",Radio Agricultura | CL
 http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/2020-02-14.png",Pudahuel FM | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/2020-02-14.png",Pudahuel FM | CL
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-z-9QvjvHZ5A/Xdsg1tqv4jI/AAAAAAAAsUw/f9g3MnniEdAxcMWqEsWK6vuikDlDz25iACK8BGAsYHg/s0/2019-11-24.png",Cooperativa | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-z-9QvjvHZ5A/Xdsg1tqv4jI/AAAAAAAAsUw/f9g3MnniEdAxcMWqEsWK6vuikDlDz25iACK8BGAsYHg/s0/2019-11-24.png",Cooperativa | CL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/12d449b496fcb00dc23612da150e3fd6.png",TNE | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/12d449b496fcb00dc23612da150e3fd6.png",TNE | CL
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/b5b7b96e2769867a92c9a32dee7cfba9.png",Radio Vida Curico | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/b5b7b96e2769867a92c9a32dee7cfba9.png",Radio Vida Curico | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png",NCTV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png",NCTV | CL
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png",Canal ISB | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png",Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/54_UCV.png",UCV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/54_UCV.png",UCV  | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png",Campus TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png",Campus TV  | CL
 https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png",Antofagasta TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png",Antofagasta TV  | CL
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png",Holvoet TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png",Holvoet TV  | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/335_VTV.png",VTV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/335_VTV.png",VTV  | CL
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",Canal 2 de San Antonio  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",Canal 2 de San Antonio  | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura  | CL
 https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 
 #*****************************
