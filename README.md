@@ -88,9 +88,8 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 </details>
 
-## 📡 iPTV Online
+## 📡 iPTV Online 🌐
 
-| 🌐 Enlace                              |
 |----------------------------------------|
 | https://www.tvplusgratis2.com          |
 | https://www.telegratishd.com           |
@@ -106,44 +105,34 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 | http://www.locomotiontv.com/envivo     |
 
 
-## 🎞️ Películas, Series, Anime y Más
+## 🎞️ Películas, Series, Anime y Más 🍿
 
 🎬 **Pelisplus**
-
-| 🍿 Enlace                              |
 |----------------------------------------|
 | https://www17.pelisplushd.to           |
 | https://www.pelisplus.in               |
 
 
-🎬 **Cuevana**
-
-| 🍿 Enlace                              |
+🎬 **Cuevana** 🍿
 |----------------------------------------|
 | https://ww3.cuevana3.to                |
 | https://25.cuevana4.me                 |
 
 
-🎬 **Gnula**
-
-| 🍿 Enlace                              |
+🎬 **Gnula** 🍿
 |----------------------------------------|
 | https://www2.gnula.one/                |
 | https://wnv5.gnula.cc/                 |
 
 
-🔗 **Extras**
-
-| 🍿 Enlace                              |
+🔗 **Extras** 🍿
 |----------------------------------------|
 | https://ww5.series24.org               |
 | https://www.lacartoons.com             |
 | https://play.mercadolibre.cl           |
 
 
-🍥 **Anime**
-
-| 🧠 Enlace                              |
+🍥 **Anime** 🧠
 |----------------------------------------|
 | https://www3.animeflv.net              |
 | https://www.animeflv1.net              |
@@ -152,9 +141,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 | https://tioanime.com                   |
 
 
-🔞 Hentai
-
-| 🔥 Enlace                              |
+🔞 **Hentai** 🔥
 |----------------------------------------|
 | https://www2.verhentai.top             |
 | https://www.veohentai.com/genero/hentai-sin-censura |
